@@ -17,7 +17,7 @@ permalink: /:categories/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 
 paginate: 25
-paginate_path: "/blog/page:num"
+paginate_path: "/updates/page:num"
 
 github_user: api-evangelist
 github_repo: basics

@@ -2,5 +2,18 @@
 layout: default
 title: Algorotoscope
 ---
+<section>
+	<div class="content">
 
-<h2>Algorotoscope</h2>
+	<h3>Algorotoscope Works</h3>
+	<p>These are the works I've created so far using my photos and Tensorflow style transfer.</p>
+	<center><hr style="width: 75%;" /></center>
+  {% for work in site.works %}
+      <h3><a href="{{ site.production_url }}{{ post.url }}">{{ post.title }}</a></h3>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      {{ post.content }}
+    	<center><hr style="width: 75%;" /></center>
+  {% endfor %}
+
+  </div>
+</section>
