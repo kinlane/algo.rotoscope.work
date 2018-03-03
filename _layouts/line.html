@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<h1>{{ page.properties.name }}</h1>
+<p>{{ page.properties.description }}</i>
+<ul>
+  {%- for line in page.entities -%}
+    {%- assign properties = line.properties -%}
+    {%- assign name = properties | replace: '[{"name"=>"','' | replace: '"}]','' -%}
+    {%- assign name = name | slugify -%}
+    
+    <!-- Building the links. Wish they were rel objects -->
+    {% for link in line.links %}
+      {% if link.rel contains 'self' %}
+        {% assign self = link.href %}
+      {% endif %}    
+    {% endfor %}  
+    
+    <li><a href="{{ self }}">{{ name }}</a></li>
+  {%- endfor -%}
+</ul>

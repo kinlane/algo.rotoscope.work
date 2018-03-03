@@ -1,39 +1,35 @@
-title: algorithmic rotoscope
-desctiption: This is my algorithmic rotoscope work.
-url: http://algorithmic.rotoscope.work
+title:        Algorotoscope
+url:          http://algo.rotoscope.work/
 
-permalink: /:categories/:year/:month/:day/:title/
-exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
+tag: Names
 
-include: [_pages]
+logo:         https://kinlane-productions.s3.amazonaws.com/api-evangelist/api-evangelist-logo-400.png
+logo_width:   80
+logo_bottom_padding: 10
 
-version: 0.8
-paginate: 100
-paginate_path: "/updates/page:num"
+version:      1.1.1
+author:
+  name:       'Kin Lane'
+  email:      'info@apievangelist.com'
+markdown:     kramdown
 
-categories_path : /categories.html
-tags_path : /tags.html
+permalink: /:categories/:title/
+exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 
-org: kinlane
-repo: algo.rotoscope.work
+paginate: 25
+paginate_path: "/blog/page:num"
 
-markdown: kramdown
-highlight: rouge
-baseurl: http://algorithmic.rotoscope.work
+github_user: api-evangelist
+github_repo: basics
+github_branch: master
 
-sass:
-    style: compressed
+# Footer
+footer_title: API Evangelist
+footer_link: http://apievangelist.com
+footer_image_source: https://s3.amazonaws.com/kinlane-productions/footer/empowered-by-you-banner.png
+footer_image_width: 60
 
-#optimization
-#compress.html
-compress_html:
-  clippings: [html,div, p, ul, td, h1, h2, h3, h4,link, meta, footer, nav, img, header, hr, br, head, style, li, ul, ol, time, main, script, title]
-  comments: ["<!-- ", " -->"]
-  endings: [all]
-  ignore:
-    envs: [local]
-  blanklines: false
-  profile: false
-  startings: []
-
-gems: [jekyll-paginate, jekyll-seo-tag]
+collections:
+  works:
+    output: true
+    permalink: /works/:path/

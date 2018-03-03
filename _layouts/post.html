@@ -1,10 +1,57 @@
 ---
 layout: default
 ---
+<h2>{{ page.title }}</h2>
+<p><span class="post-date">{{ page.date | date_to_string }}</span></p>
+{{ content }}
+<hr />
+<table cellpadding="5" cellspacing="5" align="center" border="0" style="border-bottom: 0px; padding-bottom: 10px;">
+	<tr>
+		<td align="center">
+			<a href="http://twitter.com/home?status={{ page.title }} - {{ site.production_url }}{{ page.url }} via @apievangelist" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/twitter.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://www.facebook.com/share.php?u={{ site.production_url }}{{ page.url }}&title={{ site.production_url }}{{ page.title }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/facebook.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="http://www.linkedin.com/shareArticle?mini=true&url={{ site.production_url }}{{ page.url }}&title={{ page.title }}&source=apievangelist.com" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/linkedin.png" width="25" /></a>
+		</td>
+		<td align="center">
+			<a href="https://plus.google.com/share?url={{ site.production_url }}{{ page.url }}" target="_bank"><img src="https://s3.amazonaws.com/kinlane-productions/icons/google-plus.png" width="25" /></a>
+		</td>
+	</tr>
+</table>
 
-<div class="page-container">
-  <div class="content">
-    <h3 class="page-title">{{ page.title }}</h3>
-    <p>{{ content }}</p>
-  </div>
+<div class="pagination">
+	{% if page.previous %}
+	   	<a href="{{ site.production_url }}{{ page.previous.url }}" class="older">Older</a>
+	{% else %}
+		<a href="/" class="older">Older</a>
+	{% endif %}
+	  {% if page.next %}
+	    <a href="{{ site.production_url }}{{ page.next.url }}" class="newer">Newer</a>
+	  {% else %}
+	    <span class="next">Newer</span>
+	  {% endif %}
 </div>
+
+<div id="disqus_thread"></div>
+<script>
+
+/**
+ *  RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+ *  LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables */
+/*
+var disqus_config = function () {
+    this.page.url = PAGE_URL;  // Replace PAGE_URL with your page's canonical URL variable
+    this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+    var d = document, s = d.createElement('script');
+    s.src = '//apievangelist.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
