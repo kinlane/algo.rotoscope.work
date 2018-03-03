@@ -6,7 +6,7 @@ date: 2016-12-22T09:00:00.000Z
 tags:
   - Algorotoscope
 video: 'https://www.youtube.com/embed/OhPkizLEKDM'
-image: null
+image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_00_00.jpg
 ---
 <center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>An interesting set of rapids to run, and a beautiful flow of water to watch.</center>
