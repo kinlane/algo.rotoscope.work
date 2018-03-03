@@ -4,7 +4,7 @@ title: 'The Russian Propaganda Distortion Field Around The White House'
 source: http://algorithmic.rotoscope.work/2017/02/14/the-russian-propaganda-distortion-field-around-the-white-house/
 domain: algorithmic.rotoscope.work
 image: http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/white_house_lawn_propaganda_leaflets.jpg
-atomdate: 2017-02-14T15:00:00-08:00
+date: 2017-02-14T15:00:00-08:00
 ---
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/propagandaleaflets.jpg" alt="" width="25%" align="right" /></p>
 <p>I am having a difficult time reconciling what is going on with the White House right now. The distortion field around the administration right now feels like some bad acid trip from the 1980s, before I learned how to find the good LSD. After losing their shit over her emails and Benghazi, they are willing to overlook Russia fucking with our election on so many levels and infiltrating the White House. Wacky. Just fucking wacky!</p>

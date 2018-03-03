@@ -1,10 +1,8 @@
 ---
 layout: post
 title: 'Algorithmic Rotoscope'
-source: http://algorithmic.rotoscope.work//2016/12/05/algorithmic-rotoscope/
-domain: algorithmic.rotoscope.work
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/blossombar/blossombar-still.jpg
-atomdate: 2016-12-05T00:09:08-08:00
+date: 2016-12-05T00:09:08-08:00
 ---
 <p>I had come across <a href="https://arxiv.org/abs/1603.03417">Texture Networks: Feed-forward Synthesis of Textures and Stylized Image from Cornell University</a> a while back in my regular monitoring of the API space, so  I was pleased to <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">see Algorithmia building on this work with their Deep Filter project</a>. The artistic styles and textures you can apply to images is fun to play with, and even more fun when you apply at scale using their API. While this was fun, what really caught my attention was <a href="http://blog.algorithmia.com/training-style-transfer-models/">their post on their open source AWS AMI for training style transfer models</a>--where you can develop your own image filter.</p>
 <p>I fired up an AWS instance, and within 48 hours I had my first image filter. For some reason, I went to bed that night thinking about drone video footage and began wondering if I could apply Algorithmia's filters, as well as the custom filters I create to drone footage. The next day I started playing with my prototype, to see what was possible with applying this type of image filtering to videos.</p>

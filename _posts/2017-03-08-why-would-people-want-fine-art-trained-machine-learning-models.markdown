@@ -4,7 +4,7 @@ title: 'Why Would People Want Fine Art Trained Machine Learning Models'
 source: http://kinlane.com/2017/03/08/why-would-people-want-fine-art-trained-machine-learning-models/
 domain: kinlane.com
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_blue_brush.jpg
-atomdate: 2017-03-08T11:00:00-08:00
+date: 2017-03-08T12:00:00.000Z
 ---
 <p>I'm spending time on my <a href="http://algorithmic.rotoscope.work/">algorithmic rotoscope work</a>, and thinking about how the machine learning style textures I've been marking can be put to use. I'm trying to see things from different vantage points and develop a better understanding of how texture styles can be put to use in the regular world.</p>
 <p>I am enjoying using image style filters in my writing. It gives me kind of a gamified layer to my photography and drone hobby that allows me to create actual images I can use in my work as the <a href="http://apievangelist.com">API Evangelist</a>. Having unique filtered images available for use in my writing is valuable to me--enough to justify the couple hundreds of dollars I spend each month on AWS servers.</p>

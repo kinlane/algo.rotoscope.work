@@ -4,7 +4,7 @@ title: 'Learning About Machine Learning APIs With My Algorithmic Rotoscope Work'
 source: http://algorithmic.rotoscope.work/2017/01/03/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/
 domain: algorithmic.rotoscope.work
 image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_01_06_83.jpg
-atomdate: 2017-01-03T09:00:00-08:00
+date: 2017-01-03T09:00:00-08:00
 ---
 <p><a href="http://algorithmic.rotoscope.work"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_01_06_83.jpg" alt="" width="40%" align="right" /></a></p>
 <p>I was playing around with <a href="https://algorithmia.com">Algorithmia</a> for a story about their business model back in December, when I got sucked into playing with their <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">DeepFilter service</a>, resulting in a 4-week long distraction which ultimately became what I am calling my&nbsp;<a href="http://algorithmic.rotoscope.work">algorithmic rotoscope</a>&nbsp;work. After weeks of playing around, I have a good grasp of what it takes to separate videos into individual images, applying the&nbsp;Algorithmia&nbsp;machine learning filters, and reassembling them as videos. I also have several of my own texture filters created now using <a href="http://blog.algorithmia.com/training-style-transfer-models/">the AWS AMI and process provided&nbsp;Algorithmia</a>--you can <a href="http://algorithmic.rotoscope.work/updates/">learn more about algorithmic rotoscope, and details of what I did via the Github project updates</a>e.</p>

@@ -4,7 +4,7 @@ title: 'Algorithmic Reflections On The Immigration Debate'
 source: http://algorithmic.rotoscope.work/2017/02/06/algorithmic-reflections-on-the-immigration-debate/
 domain: algorithmic.rotoscope.work
 image: http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/naziposter.jpeg
-atomdate: 2017-02-06T10:00:00-08:00
+date: 2017-02-06T10:00:00-08:00
 ---
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/naziposter.jpeg" alt="" width="25%" align="right" /></p>
 <p>We are increasingly looking through an algorithmic lens when it comes to politics in our everyday lives. I spend a significant portion of my days trying to understand how algorithms are being used to shift how we view and discuss politics. One of the ongoing themes in my research is focused on machine learning, which is an aspect of technology currently being applied to news curation, identifying fake news, all the way to how we monitor and see the world online with images and video.&nbsp;</p>

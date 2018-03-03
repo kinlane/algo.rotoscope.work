@@ -3,8 +3,8 @@ layout: post
 title: 'Finding The Right Dystopian Filter To Represent The World Unfolding Around Us'
 source: http://algorithmic.rotoscope.work/2017/01/03/finding-the-right-dystopian-filter-to-represent-the-world-unfolding-around-us/
 domain: algorithmic.rotoscope.work
-image: 
-atomdate: 2017-01-03T12:00:00-08:00
+image:
+date: 2017-01-03T12:00:00-08:00
 ---
 <p><a href="https://apievangelist.com/2017/01/03/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/">I got sucked into a project over the holidays</a>, partly because it was an interesting technical challenge, but mostly because it provided me with a creative distraction after the election. I started playing with image filters from Algorithmia, using <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">their Deep Filter service</a>, which some may recognize as being similar to services like <a href="http://prisma-ai.com/">Prisma</a>. The difference is with Algorithmia is you can use their 30+ filters, or if you want you can <a href="http://blog.algorithmia.com/training-style-transfer-models/">train your own image filters using their AWS machine learning AMI</a>.</p>
 <p>As I was playing with Algorithmia after the election, I had many images in my head of the dystopian landscape that is unfolding around us. Many of these images were reminiscent of my childhood in the 70's and 80's, during the cold war, where the future perpetually seemed very bleak to me. I wanted a way to take these images from my head and apply to the photos I was taking, and even better, what if I could to it to the video, and more specifically, <a href="http://dronerecovery.org">the drone videos I am making</a>. Four weeks later, I have gotten to the first set of filters, that when applied to my photography that gets me closer to the visions I had in my head.</p>

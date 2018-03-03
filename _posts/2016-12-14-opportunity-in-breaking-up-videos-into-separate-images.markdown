@@ -4,7 +4,7 @@ title: 'Opportunity In Breaking Up Videos Into Separate Images'
 source: http://algorithmic.rotoscope.work//2016/12/14/opportunity-in-breaking-up-videos-into-separate-images/
 domain: algorithmic.rotoscope.work
 image:
-atomdate: 2016-12-14T21:48:00-08:00
+date: 2016-12-14T21:48:00-08:00
 ---
 <p>I have been working my way through about 300 GB of drone and GoPro videos from this summer. One of the lingering thoughts I was having throughout this process centered around the concept of breaking videos up into individual slides. Once I stumbled across <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">Algorithmia's Deep Learning</a>, I found myself thinking about how I could break up videos into separate images, and apply algorithmic texture filters to each individual image, and then reassemble back into a video.</p>
 <p><a href="https://ffmpeg.org/">FFMPEG</a> stood out as the solution I needed to accomplish this. It was pretty easy to export each video as separate .jpg files, as well as the ability to assemble any images into a video. What did take me some time was getting the frame rate, size, and other finer aspects of video to work as I desired, and in sync with my drone videos. To achieve an acceptable video I needed 60 individual images for each second of video, potentially making the work a compute and storage intensive endeavor.</p>

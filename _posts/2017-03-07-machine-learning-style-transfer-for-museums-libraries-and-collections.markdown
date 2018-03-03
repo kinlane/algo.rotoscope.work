@@ -4,7 +4,7 @@ title: 'Machine Learning Style Transfer For Museums, Libraries, and Collections'
 source: http://kinlane.com/2017/03/07/machine-learning-style-transfer-for-museums-libraries-and-collections/
 domain: kinlane.com
 image: http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/propaganda_poster_transfer_2.jpg
-atomdate: 2017-03-07T11:00:00-08:00
+date: 2017-03-07T11:00:00-08:00
 ---
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/art_museum_kandinsky_bv.jpg" alt="" width="40%" align="right" /></p>
 <p>I putting some thought into some next steps for my <a href="http://algorithmic.rotoscope.work/">algorithmic rotoscope work</a>, which is about the training and applying of image style transfer machine learning models. I'm talking with Jason Toy (<a href="https://twitter.com/jtoy">@jtoy</a>) over at&nbsp;<a href="http://www.somatic.io/">Somatic</a> about the variety of use cases, and I want to spend some thinking about image style transfers, from the perspective of a collector or curator of images--brainstorming how they can organize, make available their work(s) for use in image style transfers.</p>

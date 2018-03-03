@@ -4,7 +4,7 @@ title: 'Exploring The Economics of Wholesale and Retail Algorithmic APIs'
 source: http://algorithmic.rotoscope.work/2017/01/03/exploring-the-economics-of-wholesale-and-retail-algorithmic-apis/
 domain: algorithmic.rotoscope.work
 image: http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/algorithmia_pricing_how_it_works.png
-atomdate: 2017-01-03T12:00:00-08:00
+date: 2017-01-03T12:00:00-08:00
 ---
 <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/algorithmia_pricing.png" alt="" width="45%" align="right" /></p>
 <p>I got sucked into <a href="http://apievangelist.com/2017/01/03/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/">a month long project applying machine learning filters to video over the holidays</a>. The project began with me doing the research on the economics behind Algorithmia's machine learning services, specifically <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">the DeepFilter algorithm in their catalog</a>. My <a href="http://algorithmic.rotoscope.work">algorithmic rotoscope</a> work applying Algorithmia's Deep Filters to images and drone videos has given me a hands-on&nbsp;view of Algorithmia's approach to algorithms, and APIs, and the opportunity to think pretty deeply about the economics of all of this. I think Algorithmia's vision of all of this has a lot of potential for not just image filters, but any sort of algorithmic and machine learning API.</p>

@@ -4,7 +4,7 @@ title: 'Unique Algorithmic Filters Is Where It Is At'
 source: http://algorithmic.rotoscope.work//2016/12/15/unique-algorithmic-filters-is-where-it-is-at/
 domain: algorithmic.rotoscope.work
 image:
-atomdate: 2016-12-15T21:48:00-08:00
+date: 2016-12-15T21:48:00-08:00
 ---
 <p>I am having a blast with <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">the image texture filters that Algorithmia includes as part of their DeepLearning service</a>. I've been playing with how each filter will behave when applied to different images. Some work better for the desert images, while others work best for water, and I'll apply to my waterfalls, lakes, and rivers. The process has been a welcome distraction, but where I really get lost thinking about the possibilities is when it comes to creating your own filters--an area I am just getting started with. </p>
 <p><a href="http://blog.algorithmia.com/training-style-transfer-models/">Algorithmia provides a pretty straightforward guide to creating your own filters</a>. Once you fire up the EC2 GPU instance, and follow their setup process, creating filters is pretty easy, but is also pretty addictive, depending on what kind of habit can afford. ;-) I have created six filters so far, but plan on creating more as soon as I get some money and more time. Just like applying the filters, training filters takes some practice, and experience training it against a variety of images, colors, textures, etc.</p>
