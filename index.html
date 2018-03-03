@@ -8,8 +8,10 @@ title: Algorotoscope
 	<div class="row">
   {% for work in site.works %}
 		<div class="4u 12u$(medium)">
-      <p align="center" style="font-size: 18px;"><strong>{{ work.title }}</strong></p>
-      <p align="center"><img src="{{ work.image }}" width="100%"></p>
+			<a href="{{ work.url }}">
+				<strong>{{ work.title }}</strong>
+      	<img src="{{ work.image }}" width="100%">
+			</a>
     </div>
   {% endfor %}
 	</div>
