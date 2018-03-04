@@ -9,6 +9,7 @@ tags:
   - Left Behind
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/old-gas-pumps.jpg
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/old-gas-pumps-square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>An old gas station along side of the road, no longer in operation, falling into disrepair.</center>
