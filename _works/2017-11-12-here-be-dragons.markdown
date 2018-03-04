@@ -10,5 +10,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/drago
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/dragon_close-up_yellow_collage_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Here be dragons around every corner.</center>

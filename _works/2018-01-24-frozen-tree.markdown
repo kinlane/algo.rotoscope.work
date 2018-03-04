@@ -13,5 +13,5 @@ image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/file-00_00_00_00_frozen_tree_sun_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>A frosty tree warms in the sun, reflecting the light through its crystal branches.</center>

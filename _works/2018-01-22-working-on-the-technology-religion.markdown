@@ -11,5 +11,5 @@ tags:
 image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_00_35_50.jpg
 video: ''
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Always working on the religion of technology, constantly fixing, polishing, moving fast and breaking things.</center>

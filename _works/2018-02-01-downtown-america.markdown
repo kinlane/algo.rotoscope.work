@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/frede
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/fredericksburg-downtown-flag-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Downtown America, flag waving, everything is open and for sale.</center>

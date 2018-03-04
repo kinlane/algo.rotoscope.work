@@ -12,5 +12,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/yello
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/yellow-tree-in-the-rocks-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
-<center>Bright yellow tree standing out amongst the rocks, showing all its color.</center>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center">Bright yellow tree standing out amongst the rocks, showing all its color.</p>

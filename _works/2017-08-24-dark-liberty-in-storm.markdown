@@ -12,5 +12,5 @@ image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/builder/filtere
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/76_73_800_500_0_max_0_-1_-1_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Lady Liberty in a storm, darkened skies, and an algorithmic assault on freedom.</center>

@@ -13,5 +13,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/castl
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/castle-on-hill-edinburgh_blue_circuit_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Digital defense in the cyber age.</center>

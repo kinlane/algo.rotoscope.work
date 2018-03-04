@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/borde
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/border-traffic-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Watching the border crossing above Interstate 5, watching people drive and walk back and forth, as the immigration debate continues to be obfuscated and distorted by algorithms.</center>
