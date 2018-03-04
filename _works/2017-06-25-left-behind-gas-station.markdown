@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Left Behind: Gas Station
+title: Gas Station Left Behind
 date: 2017-06-25T09:00:00.000Z
 tags:
   - Algorotoscope Works
