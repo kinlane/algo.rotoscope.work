@@ -4,7 +4,8 @@ layout: post
 title: Gold and Silver Falls
 date: 2016-12-22T09:00:00.000Z
 tags:
-  - Algorotoscope
+  - Algorotoscope Works
+  - Waterfall
 video: 'https://www.youtube.com/embed/OhPkizLEKDM'
 image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_00_00.jpg
 ---
