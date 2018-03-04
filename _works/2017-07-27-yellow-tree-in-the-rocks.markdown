@@ -10,6 +10,7 @@ tags:
   - Rocks
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/yellow-tree-in-the-rocks.jpg
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/yellow-tree-in-the-rocks-square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
 <center>Bright yellow tree standing out amongst the rocks, showing all its color.</center>

@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-title: Crow on the Barbed Wire
+title: Raven on the Barbed Wire
 date: 2017-12-01T09:00:00.000Z
 tags:
   - Algorotoscope Works
@@ -9,6 +9,7 @@ tags:
   - Barbed Wire
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/raven-fence.jpg
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/raven-fence-square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
-<center>Crow sitting on the barbed wire.</center>
+<center>Raven sitting on the barbed wire.</center>

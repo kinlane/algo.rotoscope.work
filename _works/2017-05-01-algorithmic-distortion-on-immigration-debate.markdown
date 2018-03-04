@@ -9,6 +9,7 @@ tags:
   - Immigration
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/ellis-island-nazi-poster.jpg
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/ellis-island-nazi-poster_square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
 <center>Algorithmic distortion on the immigration debate in the United States.</center>

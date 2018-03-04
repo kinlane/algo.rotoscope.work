@@ -11,6 +11,7 @@ tags:
   - Internet
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories-new/statue-face-open-mouth_copper_circuit.png
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/statue-face-open-mouth_copper_circuit_square.png
 ---
 <p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
 <center>Internet technology amplifying men, giving them a much louder voice than they really have.</center>

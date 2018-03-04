@@ -8,6 +8,7 @@ tags:
   - Waterfall
 video: 'https://www.youtube.com/embed/OhPkizLEKDM'
 image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_00_00.jpg
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/file-00_00_00_00_square.jpg
 ---
 <center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>An interesting set of rapids to run, and a beautiful flow of water to watch.</center>

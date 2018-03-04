@@ -10,6 +10,7 @@ tags:
   - Trains
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/status-berlin_propaganda_leaflets.jpg
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/status-berlin_propaganda_leaflets_square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
 <center>Doing all of this again, driven by algorithms and propaganda.</center>

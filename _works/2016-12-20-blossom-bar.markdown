@@ -9,6 +9,7 @@ tags:
   - Water
   - Movies
 image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/crafty_painting/file-00_00_24_99.jpg
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/file-00_00_24_99_square.jpg
 video: 'https://www.youtube.com/embed/a8jlEWiHBE8'
 ---
 <center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
