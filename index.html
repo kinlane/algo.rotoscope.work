@@ -2,53 +2,6 @@
 layout: default
 title: Algorotoscope
 ---
-<style>
-@import "compass/css3";
-
-.frame-square {
-  background: #fff;
-  border: 2px solid #000;
-  display: inline-block;
-  vertical-align: top;
-  padding: 10px;
-  width: 130px;
-  height: 130px;
-  margin-right: .5em;
-  margin-bottom: .3em;
-}
-
-.frame-round {
-  @extend .frame-square;
-  border-radius: 50%;
-  overflow: hidden;
-
-  .crop {border-radius: 50%;}
-}
-
-.crop {
-  height: 100%;
-  overflow: hidden;
-  position: relative;
-
-  img {
-    display: block;
-    min-width: 100%;
-    min-height: 100%;
-    margin: auto;
-    position: absolute;
-    top: -100%;
-    right: -100%;
-    bottom: -100%;
-    left: -100%;
-  }
-}
-
-// testing:
-.retina .crop img {
-  transform: scale(.5, .5);
-}
-</style>
-
 <section>
 	<h3>Algorotoscope Works</h3>
 	<p>These are the works I've created so far as part of my Algorotoscope work. Early on I was applying to videos, but recently I have just been applying to my photos.</p>
@@ -57,9 +10,7 @@ title: Algorotoscope
 		<div class="4u 12u$(medium)">
 			<a href="{{ work.url }}">
 				<strong>{{ work.title }}</strong>
-				<div class="crop">
-      		<img src="{{ work.image }}" width="250">
-				</div>
+      	<img src="{{ work.image }}" width="100%">
 			</a>
     </div>
   {% endfor %}
