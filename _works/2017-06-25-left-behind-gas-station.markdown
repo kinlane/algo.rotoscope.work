@@ -1,0 +1,14 @@
+---
+published: true
+layout: post
+title: Left Behind: Gas Station
+date: 2017-06-25T09:00:00.000Z
+tags:
+  - Algorotoscope Works
+  - Gas Station
+  - Left Behind
+image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/old-barn.jpg
+video: ''
+---
+<p align="center"><img src="{{ page.image }}" width="45%" align="right" style="padding: 15px;" /></p>
+<center>An old gas station along side of the road, no longer in operation, falling into disrepair.</center>
