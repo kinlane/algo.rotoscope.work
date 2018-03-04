@@ -2,7 +2,7 @@
 published: true
 layout: post
 title: Working On The Technology Religion
-date: 2017-07-27T09:00:00.000Z
+date: 2018-01-22T09:00:00.000Z
 tags:
   - Algorotoscope Works
   - Religion
