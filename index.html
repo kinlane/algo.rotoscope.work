@@ -7,9 +7,7 @@ title: Algorotoscope
 	<p>These are the works I've created as part of my Algorotoscope work. Early on I was applying to videos, but recently I have just been applying to my photos, with a variety of textures being transferred and applied.</p>
 	<div class="row">
   {% for work in site.works | sort: 'date' %}
-		<div class="4u 12u$(medium)">
-			<a href="{{ work.url }}"> <img src="{{ work.square }}" width="95%"></a>
-    </div>
+		<div class="4u 12u$(medium)"><a href="{{ work.url }}"> <img src="{{ work.square }}" width="100%"></a></div>
   {% endfor %}
 	</div>
 	<p>I'm adding images regularly, and using as part of my storytelling on API Evangelist and Kin Lane, in hopes of demonstrating how algorithms are distorting the world around us each day in the online world we live in.</p>
