@@ -8,8 +8,9 @@ tags:
   - Religion
   - Technology
   - Silicon Valley
-image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_00_35_50.jpg
+image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/christianity-under-construction_copper_circuit.jpg
 video: ''
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/christianity-under-construction_copper_circuit_square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
 <center>Always working on the religion of technology, constantly fixing, polishing, moving fast and breaking things.</center>
