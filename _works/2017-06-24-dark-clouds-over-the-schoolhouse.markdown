@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/schoo
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/schoolhouse-dark-dali-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Dark clouds moving in over the old school house.</center>

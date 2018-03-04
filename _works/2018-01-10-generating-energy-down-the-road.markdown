@@ -13,5 +13,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/machi
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/machine-road_light_dali_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Generating energy down the road.</center>

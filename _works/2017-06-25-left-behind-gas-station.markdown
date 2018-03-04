@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/old-g
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/old-gas-pumps-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>An old gas station along side of the road, no longer in operation, falling into disrepair.</center>

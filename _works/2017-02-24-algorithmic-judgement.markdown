@@ -12,5 +12,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/supre
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/supreme-court-judgement.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Being judged every day by algorithms.</center>

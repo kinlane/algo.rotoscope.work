@@ -12,5 +12,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/chris
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/christianity-under-construction_copper_circuit_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Always working on the religion of technology, constantly fixing, polishing, moving fast and breaking things.</center>

@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/raven
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/raven-fence-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Raven sitting on the barbed wire.</center>

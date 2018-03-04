@@ -12,5 +12,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/statu
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/status-berlin_propaganda_leaflets_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Doing all of this again, driven by algorithms and propaganda.</center>

@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories-new/4
 video: ''
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/45_78_800_500_0_max_0_1_-5_square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="50%" style="padding: 15px;" /></p>
+<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Bright, color, busy Japanese maple.</center>
