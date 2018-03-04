@@ -9,8 +9,8 @@ title: Algorotoscope
   {% for work in site.works | sort: 'date' %}
 		<div class="4u 12u$(medium)">
 			<a href="{{ work.url }}">
+      	<img src="{{ work.square }}" width="95%"><br />
 				<strong>{{ work.title }}</strong>
-      	<img src="{{ work.square }}" width="95s%">
 			</a>
     </div>
   {% endfor %}
