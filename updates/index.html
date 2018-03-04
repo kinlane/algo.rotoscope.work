@@ -1,31 +1,32 @@
 ---
-title: Updates
-layout: post
+layout: default
 ---
-
-<a href="/atom.xml" target="_blank" title="Blog Atom"><img src="https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-atom-feed.png" width="50" style="padding: 5px;" align="right" /></a>
-<p>Algorithmic Rotoscope runs on Github, and I use Github Pages to power this work, and publish regular updates using a Jekyll blog. I publish my regular work and thoughts regarding what I'm doing in this area and with this type of approach to video rotoscope. You can subscribe to the atom feed above to get updates, or tune in via Twitter and I'll publish out updates regularly there as well.</p>
-<hr style="color: #CCC; height: 1px;" />
-<div class="posts">
+<section>
+	<div class="content">
+	<h3>Algorotoscope Updates</h3>
+	<p>These are the stories I have told along the way, as I'm producing images and videos.</p>
+	<center><hr style="width: 75%;" /></center>
   {% for post in paginator.posts %}
-    {% if post.title != '' %}
-
-      <div class="post">
-
-        <h3>
-          <a href="{{ site.production_url }}{{ post.url }}">
-            {{ post.title }}
-          </a>
-        </h3>
-
-        <span class="post-date">{{ post.date | date_to_string }}</span>
-
-        {{ post.content }}
-
-        <hr style="color: #CCC; height: 1px;" />
-
-    </div>
-
-    {% endif %}
+      <h3><a href="{{ site.production_url }}{{ post.url }}">{{ post.title }}</a></h3>
+      <span class="post-date">{{ post.date | date_to_string }}</span>
+      {{ post.content }}
+      <ul class="actions" style="text-align: center;">
+        <li><a href="{{ site.production_url }}{{ post.url }}" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
   {% endfor %}
-</div>
+
+	<table width="100%" border="1" style="background-color:#FFF; border: 0px #FFF;">
+		<tr style="background-color:#FFF; border: 0px #FFF;">
+			<td align="left">
+				<a href="/updates/page{{paginator.previous_page}}" class="button{% if paginator.previous_page == '' %} disabled{% endif %}"><< Prev</a></li>
+			</td>
+			<td></td>
+			<td align="right">
+				<a href="/updates/page{{paginator.next_page}}" class="button{% if paginator.next_page == '' %} disabled{% endif %}">Next >></a>
+			</td>
+		</tr>
+	</table>
+
+  </div>
+</section>
