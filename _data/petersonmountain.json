@@ -1,0 +1,246 @@
+[
+	{
+		"name": "Peterson Mountain",
+		"slug": "petersonmountain",
+		"description": "Along the mountain range to Peterson Mountain.",
+		"youtube_src": "https://youtu.be/reDYZQZSmdw",
+		"publish_date": null,
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/alien_goggles/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/alien_goggles/file-00_00_47_85.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/aqua/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/aqua/file-00_00_47_85.jpg"
+			],
+			"blue_circuit": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_circuit/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_circuit/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_circuit/file-00_00_47_85.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_brush/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_brush/file-00_00_47_85.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_granite/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/blue_granite/file-00_00_47_85.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_47_85.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/cinnamon_rolls/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/cinnamon_rolls/file-00_00_47_85.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/clean_view/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/clean_view/file-00_00_47_85.jpg"
+			],
+			"colored_circuits": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colored_circuits/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colored_circuits/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colored_circuits/file-00_00_47_85.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colorful_blocks/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colorful_blocks/file-00_00_47_85.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colorful_dream/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/colorful_dream/file-00_00_47_85.jpg"
+			],
+			"constitution": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/constitution/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/constitution/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/constitution/file-00_00_47_85.jpg"
+			],
+			"crabapple": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crabapple/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crabapple/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crabapple/file-00_00_47_85.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crafty_painting/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crafty_painting/file-00_00_47_85.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/creativity/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/creativity/file-00_00_47_85.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crunch_paper/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/crunch_paper/file-00_00_47_85.jpg"
+			],
+			"dark_dali": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_dali/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_dali/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_dali/file-00_00_47_85.jpg"
+			],
+			"dark_pigeon": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_pigeon/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_pigeon/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_pigeon/file-00_00_47_85.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_rain/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_rain/file-00_00_47_85.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_soul/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dark_soul/file-00_00_47_85.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/deep_connections/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/deep_connections/file-00_00_47_85.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dry_skin/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/dry_skin/file-00_00_47_85.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/far_away/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/far_away/file-00_00_47_85.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/gan_vogh/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/gan_vogh/file-00_00_47_85.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/gred_mash/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/gred_mash/file-00_00_47_85.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/green_zuma/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/green_zuma/file-00_00_47_85.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/hot_spicy/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/hot_spicy/file-00_00_47_85.jpg"
+			],
+			"kandinsky_bv": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/kandinsky_bv/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/kandinsky_bv/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/kandinsky_bv/file-00_00_47_85.jpg"
+			],
+			"matrix": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/matrix/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/matrix/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/matrix/file-00_00_47_85.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/neo_instinct/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/neo_instinct/file-00_00_47_85.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/oily_mcoilface/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/oily_mcoilface/file-00_00_47_85.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/plentiful/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/plentiful/file-00_00_47_85.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/post_modern/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/post_modern/file-00_00_47_85.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purple_pond/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purple_pond/file-00_00_47_85.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purple_storm/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purple_storm/file-00_00_47_85.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purp_paper/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/purp_paper/file-00_00_47_85.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/rainbow_festival/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/rainbow_festival/file-00_00_47_85.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/really_hot/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/really_hot/file-00_00_47_85.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/sand_paper/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/sand_paper/file-00_00_47_85.jpg"
+			],
+			"smoking_cigarette": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/smoking_cigarette/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/smoking_cigarette/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/smoking_cigarette/file-00_00_47_85.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/smooth_ride/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/smooth_ride/file-00_00_47_85.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/space_pizza/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/space_pizza/file-00_00_47_85.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/spagetti_accident/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/spagetti_accident/file-00_00_47_85.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/sunday/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/sunday/file-00_00_47_85.jpg"
+			],
+			"wols": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/wols/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/wols/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/wols/file-00_00_47_85.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/yellow_collage/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/yellow_collage/file-00_00_47_85.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/yellow_paper/file-00_00_23_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/yellow_paper/file-00_00_47_85.jpg"
+			]
+		}
+	}
+]

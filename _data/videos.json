@@ -1,0 +1,444 @@
+[
+	{
+		"name": "Blossom Bar",
+		"slug": "blossombar",
+		"description": "Floating above the rapids on the river as rafters prepare to float.",
+		"youtube_src": "https://youtu.be/a8jlEWiHBE8",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/crafty_painting/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/crafty_painting/file-00_00_24_99.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/blossombar/crafty_painting/file-00_00_50_62.jpg"
+		]
+	},
+	{
+		"name": "Blue Lake",
+		"slug": "bluelake",
+		"description": "Flying over the blue lake.",
+		"youtube_src": "https://youtu.be/L0c_rNCyDDk",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/bluelake/aqua/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/bluelake/aqua/file-00_00_38_67.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/bluelake/aqua/file-00_01_17_38.jpg"
+		]
+	},
+	{
+		"name": "Canyon",
+		"slug": "canyon",
+		"description": "Flying up the canyon, down the river.",
+		"youtube_src": "https://youtu.be/YZtyI3nYsiM",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/canyon/bright_sand/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/canyon/bright_sand/file-00_01_17_21.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/canyon/bright_sand/file-00_02_34_62.jpg"
+		]
+	},
+	{
+		"name": "Columbia River Lookout",
+		"slug": "columbiagorge",
+		"description": "Flying the Columbia gorge by the lookout.",
+		"youtube_src": "https://youtu.be/wKOH6wzNgpQ",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/columbiagorge/gan_vogh/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/columbiagorge/gan_vogh/file-00_00_38_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/columbiagorge/gan_vogh/file-00_01_16_11.jpg"
+		]
+	},
+	{
+		"name": "Desert Hills",
+		"slug": "deserthills",
+		"description": "Flying across the desert into the mountains.",
+		"youtube_src": "https://youtu.be/t-s-gSBrINA",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_rain/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_rain/file-00_00_56_02.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_rain/file-00_01_58_75.jpg"
+		]
+	},
+	{
+		"name": "Desert Run",
+		"slug": "desertrun",
+		"description": "Flying above the desert.",
+		"youtube_src": "https://youtu.be/1NqI0NkSL8Y",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertrun/bright_sand/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertrun/bright_sand/file-00_01_43_40.jpg"
+		]
+	},
+	{
+		"name": "Diamond Creek",
+		"slug": "diamondcreek1",
+		"description": "Moving up Diamond Creek to the waterfall.",
+		"youtube_src": "https://youtu.be/PLQa6IJSQpM",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/bright_sand/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/bright_sand/file-00_00_21_82.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/bright_sand/file-00_00_45_51.jpg"
+		]
+	},
+	{
+		"name": "Dunes",
+		"slug": "dunes",
+		"description": "Walking the peak of the dunes.",
+		"youtube_src": "https://youtu.be/LZTJ03Y-alg",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/space_pizza/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/space_pizza/file-00_00_18_15.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/space_pizza/file-00_00_36_37.jpg"
+		]
+	},
+	{
+		"name": "Gold and Silver Falls",
+		"slug": "goldsilverfalls",
+		"description": "Floating up the waterfall in the mist.",
+		"youtube_src": "https://youtu.be/OhPkizLEKDM",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_40_84.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_01_21_85.jpg"
+		]
+	},
+	{
+		"name": "Kerby Peak",
+		"slug": "kerbypeak",
+		"description": "Up and around the mountain to the peak.",
+		"youtube_src": "https://youtu.be/JREj7Kah4tk",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/kerbypeak/gan_vogh/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/kerbypeak/gan_vogh/file-00_00_29_96.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/kerbypeak/gan_vogh/file-00_01_00_03.jpg"
+		]
+	},
+	{
+		"name": "Lighthouse",
+		"slug": "lighthouse",
+		"description": "Past the lighthouse to the shore.",
+		"youtube_src": "https://youtu.be/vYFww58RQR8",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/lighthouse/spagetti_accident/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/lighthouse/spagetti_accident/file-00_00_46_75.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/lighthouse/spagetti_accident/file-00_01_00_16.jpg"
+		]
+	},
+	{
+		"name": "Meadow",
+		"slug": "meadow",
+		"description": "Floating up the meadow towards the old orchard.",
+		"youtube_src": "https://youtu.be/IEa-__7lEtA",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/meadow/crafty_painting/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/meadow/crafty_painting/file-00_01_17_38.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/meadow/crafty_painting/file-00_02_24_28.jpg"
+		]
+	},
+	{
+		"name": "Methuselah",
+		"slug": "methuselah",
+		"description": "View above the oldest forest in the world.",
+		"youtube_src": "https://youtu.be/Ki7-5xEYdao",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/methuselah/deep_connections/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/methuselah/deep_connections/file-00_00_20_99.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/methuselah/deep_connections/file-00_00_42_11.jpg"
+		]
+	},
+	{
+		"name": "Mountain Lake",
+		"slug": "mountainlake",
+		"description": "Across the lakes towards the mountain in the distance.",
+		"youtube_src": "https://youtu.be/n4gjUbKNp7Q",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainlake/purple_storm/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainlake/purple_storm/file-00_00_58_86.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainlake/purple_storm/file-00_01_57_88.jpg"
+		]
+	},
+	{
+		"name": "River Rapids",
+		"slug": "riverrapids",
+		"description": "Down the rapids in a raft.",
+		"youtube_src": "https://youtu.be/NaSD7LnKRsU",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/riverrapids/oily_mcoilface/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/riverrapids/oily_mcoilface/file-00_00_43_68.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/riverrapids/oily_mcoilface/file-00_01_27_49.jpg"
+		]
+	},
+	{
+		"name": "Royal Roads",
+		"slug": "royalroads",
+		"description": "High above the campus in the woods.",
+		"youtube_src": "https://youtu.be/vs_yd5G7PAQ",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/royalroads/crafty_painting/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/royalroads/crafty_painting/file-00_00_40_84.jpg"
+		]
+	},
+	{
+		"name": "Smith River",
+		"slug": "smithriver",
+		"description": "Traveling upstream into the woods.",
+		"youtube_src": "https://youtu.be/pL9pTXt6DGo",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/smithriver/post_modern/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/smithriver/post_modern/file-00_00_34_17.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/smithriver/post_modern/file-00_01_08_37.jpg"
+		]
+	},
+	{
+		"name": "Tunnel",
+		"slug": "tunnel",
+		"description": "Through the tunnel in the redwoods.",
+		"youtube_src": "https://youtu.be/ME45yg_2Iww",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/tunnel/purp_paper/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/tunnel/purp_paper/file-00_00_22_51.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/tunnel/purp_paper/file-00_00_45_13.jpg"
+		]
+	},
+	{
+		"name": "Tree In The Hills",
+		"slug": "yellowtree",
+		"description": "Above the rocks towards the tree in the hills.",
+		"youtube_src": "https://youtu.be/lwJObZUdIsg",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/yellowtree/space_pizza/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/yellowtree/space_pizza/file-00_00_50_85.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/yellowtree/space_pizza/file-00_01_41_90.jpg"
+		]
+	},
+	{
+		"name": "Desert Road",
+		"slug": "desertroad",
+		"description": "Down the desert highway towards the hills.",
+		"youtube_src": "https://youtu.be/5St-CGICYSI",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertroad/deep_connections/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertroad/deep_connections/file-00_00_36_67.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertroad/deep_connections/file-00_01_12_44.jpg"
+		]
+	},
+	{
+		"name": "Desert Rolling HIlls",
+		"slug": "desertrollinghills",
+		"description": "Above the desert hills.",
+		"youtube_src": "https://youtu.be/Wkr1X_EaE8U",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertrollinghills/space_pizza/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertrollinghills/space_pizza/file-00_00_35_34.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/desertrollinghills/space_pizza/file-00_01_12_71.jpg"
+		]
+	},
+	{
+		"name": "Mountain View",
+		"slug": "mountainview",
+		"description": "The view of the mountains.",
+		"youtube_src": "https://youtu.be/tlVXVuY8gW8",
+		"publish_date": "2016-11-04",
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainview/gred_mash/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainview/gred_mash/file-00_00_40_84.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountainview/gred_mash/file-00_00_48_18.jpg"
+		]
+	},
+	{
+		"name": "South Eugene High",
+		"slug": "southeugenehigh",
+		"description": "View of South Eugene High School on an icy day.",
+		"youtube_src": "https://youtu.be/XoBj3ilS2PU",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_00_34_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_01_08_17.jpg"
+		]
+	},
+	{
+		"name": "Valley River Tree",
+		"slug": "valleyrivertree",
+		"description": "An icy tree along the river with the sun behind.",
+		"youtube_src": "https://youtu.be/HLwdGdEzWq0",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_11_31.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertree/yellow_paper/file-00_00_25_76.jpg"
+		]
+	},
+	{
+		"name": "Valley River Tree Line",
+		"slug": "valleyrivertreeline",
+		"description": "Along the Valley River icy tree line as the sun sets.",
+		"youtube_src": "https://youtu.be/svBzjJrId4c",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_00_33_33.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_01_06_83.jpg"
+		]
+	},
+	{
+		"name": "Snowy Field",
+		"slug": "snowyfield",
+		"description": "Traveling up a snowy field in the cascade mountains.",
+		"youtube_src": "https://youtu.be/ZRIsAicDesE",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_18_15.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_36_50.jpg"
+		]
+	},
+	{
+		"name": "Covered Bridge",
+		"slug": "coveredbridge",
+		"description": "Up the river to the covered bridge.",
+		"youtube_src": "https://youtu.be/anQf7MBBq4k",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_30_80.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_01_01_90.jpg"
+		]
+	},
+	{
+		"name": "Castle Crags",
+		"slug": "castlecrags",
+		"description": "Above the forest towards the Castle Crags.",
+		"youtube_src": "https://youtu.be/g31COWWkXTc",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/castlecrags/sunday/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/castlecrags/sunday/file-00_00_22_16.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/castlecrags/sunday/file-00_00_44_64.jpg"
+		]
+	},
+	{
+		"name": "Hermosa Beach",
+		"slug": "hermosabeach",
+		"description": "The people walking from the pier in Hermosa Beach.",
+		"youtube_src": "https://youtu.be/ftq7pZa2bBk",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_11_64.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/hermosabeach/post_modern/file-00_00_23_42.jpg"
+		]
+	},
+	{
+		"name": "Frog Ponds",
+		"slug": "frongponds",
+		"description": "Flying above frog pond in the mountains.",
+		"youtube_src": "https://youtu.be/qD5tAXCyZlk",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/frongponds/creativity/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/frongponds/creativity/file-00_01_21_21.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/frongponds/creativity/file-00_02_42_76.jpg"
+		]
+	},
+	{
+		"name": "California Republic",
+		"slug": "californiarepublic",
+		"description": "A tattered California Republic flag waving in the wind.",
+		"youtube_src": "https://youtu.be/V2645uM_sv4",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/californiarepublic/smooth_ride/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/californiarepublic/smooth_ride/file-00_00_08_58.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/californiarepublic/smooth_ride/file-00_00_17_22.jpg"
+		]
+	},
+	{
+		"name": "Mount Shasta",
+		"slug": "mountshasta",
+		"description": "Mount Shasta in the sun.",
+		"youtube_src": "https://youtu.be/DGYU03Ty5wY",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountshasta/gan_vogh/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountshasta/gan_vogh/file-00_00_51_69.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/mountshasta/gan_vogh/file-00_02_00_09.jpg"
+		]
+	},
+	{
+		"name": "Portland Penny Diner",
+		"slug": "portlandpennydiner",
+		"description": "The Portland Penny Diner sign going round and round.",
+		"youtube_src": "https://youtu.be/27Cy6Dux3e8",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_14_15.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_28_43.jpg"
+		]
+	},
+	{
+		"name": "Swinging Bridge",
+		"slug": "swingingbridge",
+		"description": "Beneath the swinging bridge along the Illinois River.",
+		"youtube_src": "https://youtu.be/3rj78-lOHvc",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/swingingbridge/post_modern/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/swingingbridge/post_modern/file-00_00_08_31.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/swingingbridge/post_modern/file-00_00_16_88.jpg"
+		]
+	},
+	{
+		"name": "Peterson Mountain",
+		"slug": "petersonmountain",
+		"description": "Along the mountain range to Peterson Mountain.",
+		"youtube_src": "https://youtu.be/reDYZQZSmdw",
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_23_82.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/petersonmountain/bright_sand/file-00_00_47_85.jpg"
+		]
+	},
+	{
+		"name": "LA From The East One",
+		"slug": "losangelescloudy",
+		"description": "A shot of Los Angeles from East LA on a cloudy day.",
+		"youtube_src": null,
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_01_12_91.jpg"
+		]
+	},
+	{
+		"name": "LA From The East Two",
+		"slug": "losangelescloudy2",
+		"description": "A shot of Los Angeles from East LA on a cloudy day.",
+		"youtube_src": null,
+		"publish_date": null,
+		"images": [
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy2/dali_three/file-00_00_00_00.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy2/dali_three/file-00_00_59_36.jpg",
+			"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy2/dali_three/file-00_01_58_95.jpg"
+		]
+	}
+]

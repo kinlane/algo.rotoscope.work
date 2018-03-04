@@ -1,0 +1,226 @@
+[
+	{
+		"name": "Covered Bridge",
+		"slug": "coveredbridge",
+		"description": "Up the river to the covered bridge.",
+		"youtube_src": "https://youtu.be/anQf7MBBq4k",
+		"publish_date": null,
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/alien_goggles/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/alien_goggles/file-00_01_01_90.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/aqua/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/aqua/file-00_01_01_90.jpg"
+			],
+			"blue_circuit": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_circuit/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_circuit/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_circuit/file-00_01_01_90.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_brush/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_brush/file-00_01_01_90.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_granite/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/blue_granite/file-00_01_01_90.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/bright_sand/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/bright_sand/file-00_01_01_90.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/cinnamon_rolls/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/cinnamon_rolls/file-00_01_01_90.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/clean_view/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/clean_view/file-00_01_01_90.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/colorful_blocks/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/colorful_blocks/file-00_01_01_90.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/colorful_dream/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/colorful_dream/file-00_01_01_90.jpg"
+			],
+			"constitution": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/constitution/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/constitution/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/constitution/file-00_01_01_90.jpg"
+			],
+			"crabapple": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crabapple/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crabapple/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crabapple/file-00_01_01_90.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crafty_painting/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crafty_painting/file-00_01_01_90.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/creativity/file-00_01_01_90.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crunch_paper/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/crunch_paper/file-00_01_01_90.jpg"
+			],
+			"dark_pigeon": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_pigeon/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_pigeon/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_pigeon/file-00_01_01_90.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_rain/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_rain/file-00_01_01_90.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_soul/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dark_soul/file-00_01_01_90.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/deep_connections/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/deep_connections/file-00_01_01_90.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dry_skin/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/dry_skin/file-00_01_01_90.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/far_away/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/far_away/file-00_01_01_90.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/gan_vogh/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/gan_vogh/file-00_01_01_90.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/gred_mash/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/gred_mash/file-00_01_01_90.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/green_zuma/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/green_zuma/file-00_01_01_90.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/hot_spicy/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/hot_spicy/file-00_01_01_90.jpg"
+			],
+			"matrix": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/matrix/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/matrix/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/matrix/file-00_01_01_90.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/neo_instinct/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/neo_instinct/file-00_01_01_90.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/oily_mcoilface/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/oily_mcoilface/file-00_01_01_90.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/plentiful/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/plentiful/file-00_01_01_90.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/post_modern/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/post_modern/file-00_01_01_90.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purple_pond/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purple_pond/file-00_01_01_90.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purple_storm/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purple_storm/file-00_01_01_90.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purp_paper/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/purp_paper/file-00_01_01_90.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/rainbow_festival/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/rainbow_festival/file-00_01_01_90.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/really_hot/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/really_hot/file-00_01_01_90.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/sand_paper/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/sand_paper/file-00_01_01_90.jpg"
+			],
+			"smoking_cigarette": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/smoking_cigarette/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/smoking_cigarette/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/smoking_cigarette/file-00_01_01_90.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/smooth_ride/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/smooth_ride/file-00_01_01_90.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/space_pizza/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/space_pizza/file-00_01_01_90.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/spagetti_accident/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/spagetti_accident/file-00_01_01_90.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/sunday/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/sunday/file-00_01_01_90.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/yellow_collage/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/yellow_collage/file-00_01_01_90.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/yellow_paper/file-00_00_30_80.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/coveredbridge/yellow_paper/file-00_01_01_90.jpg"
+			]
+		}
+	}
+]

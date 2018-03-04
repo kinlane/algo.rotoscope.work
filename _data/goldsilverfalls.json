@@ -1,0 +1,196 @@
+[
+	{
+		"name": "Gold and Silver Falls",
+		"slug": "goldsilverfalls",
+		"description": "Floating up the waterfall in the mist.",
+		"youtube_src": "https://youtu.be/OhPkizLEKDM",
+		"publish_date": "2016-11-04",
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/alien_goggles/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/alien_goggles/file-00_01_21_85.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/aqua/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/aqua/file-00_01_21_85.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/blue_brush/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/blue_brush/file-00_01_21_85.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/blue_granite/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/blue_granite/file-00_01_21_85.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/bright_sand/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/bright_sand/file-00_01_21_85.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/cinnamon_rolls/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/cinnamon_rolls/file-00_01_21_85.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/clean_view/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/clean_view/file-00_01_21_85.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/colorful_blocks/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/colorful_blocks/file-00_01_21_85.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/colorful_dream/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/colorful_dream/file-00_01_21_85.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/crafty_painting/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/crafty_painting/file-00_01_21_85.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/creativity/file-00_01_21_85.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/crunch_paper/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/crunch_paper/file-00_01_21_85.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dark_rain/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dark_rain/file-00_01_21_85.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dark_soul/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dark_soul/file-00_01_21_85.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/deep_connections/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/deep_connections/file-00_01_21_85.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dry_skin/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/dry_skin/file-00_01_21_85.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/far_away/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/far_away/file-00_01_21_85.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/gan_vogh/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/gan_vogh/file-00_01_21_85.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/gred_mash/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/gred_mash/file-00_01_21_85.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/green_zuma/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/green_zuma/file-00_01_21_85.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/hot_spicy/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/hot_spicy/file-00_01_21_85.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/neo_instinct/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/neo_instinct/file-00_01_21_85.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/oily_mcoilface/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/oily_mcoilface/file-00_01_21_85.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/plentiful/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/plentiful/file-00_01_21_85.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/post_modern/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/post_modern/file-00_01_21_85.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purple_pond/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purple_pond/file-00_01_21_85.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purple_storm/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purple_storm/file-00_01_21_85.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purp_paper/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/purp_paper/file-00_01_21_85.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/rainbow_festival/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/rainbow_festival/file-00_01_21_85.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/really_hot/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/really_hot/file-00_01_21_85.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/sand_paper/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/sand_paper/file-00_01_21_85.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/smooth_ride/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/smooth_ride/file-00_01_21_85.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/space_pizza/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/space_pizza/file-00_01_21_85.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/spagetti_accident/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/spagetti_accident/file-00_01_21_85.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/sunday/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/sunday/file-00_01_21_85.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/yellow_collage/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/yellow_collage/file-00_01_21_85.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/yellow_paper/file-00_00_40_84.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/goldsilverfalls/yellow_paper/file-00_01_21_85.jpg"
+			]
+		}
+	}
+]

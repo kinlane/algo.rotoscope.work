@@ -1,0 +1,196 @@
+[
+	{
+		"name": "Desert Hills",
+		"slug": "deserthills",
+		"description": "Flying across the desert into the mountains.",
+		"youtube_src": "https://youtu.be/t-s-gSBrINA",
+		"publish_date": "2016-11-04",
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/alien_goggles/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/alien_goggles/file-00_01_58_75.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/aqua/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/aqua/file-00_01_58_75.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/blue_brush/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/blue_brush/file-00_01_58_75.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/blue_granite/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/blue_granite/file-00_01_58_75.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/bright_sand/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/bright_sand/file-00_01_58_75.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/cinnamon_rolls/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/cinnamon_rolls/file-00_01_58_75.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/clean_view/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/clean_view/file-00_01_58_75.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/colorful_blocks/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/colorful_blocks/file-00_01_58_75.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/colorful_dream/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/colorful_dream/file-00_01_58_75.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/crafty_painting/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/crafty_painting/file-00_01_58_75.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/creativity/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/creativity/file-00_01_58_75.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/crunch_paper/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/crunch_paper/file-00_01_58_75.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_rain/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_rain/file-00_01_58_75.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_soul/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dark_soul/file-00_01_58_75.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/deep_connections/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/deep_connections/file-00_01_58_75.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dry_skin/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/dry_skin/file-00_01_58_75.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/far_away/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/far_away/file-00_01_58_75.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/gan_vogh/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/gan_vogh/file-00_01_58_75.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/gred_mash/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/gred_mash/file-00_01_58_75.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/green_zuma/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/green_zuma/file-00_01_58_75.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/hot_spicy/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/hot_spicy/file-00_01_58_75.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/neo_instinct/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/neo_instinct/file-00_01_58_75.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/oily_mcoilface/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/oily_mcoilface/file-00_01_58_75.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/plentiful/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/plentiful/file-00_01_58_75.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/post_modern/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/post_modern/file-00_01_58_75.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purple_pond/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purple_pond/file-00_01_58_75.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purple_storm/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purple_storm/file-00_01_58_75.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purp_paper/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/purp_paper/file-00_01_58_75.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/rainbow_festival/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/rainbow_festival/file-00_01_58_75.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/really_hot/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/really_hot/file-00_01_58_75.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/sand_paper/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/sand_paper/file-00_01_58_75.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/smooth_ride/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/smooth_ride/file-00_01_58_75.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/space_pizza/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/space_pizza/file-00_01_58_75.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/spagetti_accident/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/spagetti_accident/file-00_01_58_75.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/sunday/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/sunday/file-00_01_58_75.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/yellow_collage/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/yellow_collage/file-00_01_58_75.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/yellow_paper/file-00_00_56_02.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/deserthills/yellow_paper/file-00_01_58_75.jpg"
+			]
+		}
+	}
+]

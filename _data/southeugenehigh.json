@@ -1,0 +1,196 @@
+[
+	{
+		"name": "South Eugene High",
+		"slug": "southeugenehigh",
+		"description": "View of South Eugene High School on an icy day.",
+		"youtube_src": "https://youtu.be/XoBj3ilS2PU",
+		"publish_date": null,
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/alien_goggles/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/alien_goggles/file-00_01_08_17.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/aqua/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/aqua/file-00_01_08_17.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/blue_brush/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/blue_brush/file-00_01_08_17.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/blue_granite/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/blue_granite/file-00_01_08_17.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/bright_sand/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/bright_sand/file-00_01_08_17.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/cinnamon_rolls/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/cinnamon_rolls/file-00_01_08_17.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/clean_view/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/clean_view/file-00_01_08_17.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/colorful_blocks/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/colorful_blocks/file-00_01_08_17.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/colorful_dream/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/colorful_dream/file-00_01_08_17.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crafty_painting/file-00_01_08_17.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/creativity/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/creativity/file-00_01_08_17.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crunch_paper/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/crunch_paper/file-00_01_08_17.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dark_rain/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dark_rain/file-00_01_08_17.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dark_soul/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dark_soul/file-00_01_08_17.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/deep_connections/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/deep_connections/file-00_01_08_17.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dry_skin/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/dry_skin/file-00_01_08_17.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/far_away/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/far_away/file-00_01_08_17.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/gan_vogh/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/gan_vogh/file-00_01_08_17.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/gred_mash/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/gred_mash/file-00_01_08_17.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/green_zuma/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/green_zuma/file-00_01_08_17.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/hot_spicy/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/hot_spicy/file-00_01_08_17.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/neo_instinct/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/neo_instinct/file-00_01_08_17.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/oily_mcoilface/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/oily_mcoilface/file-00_01_08_17.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/plentiful/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/plentiful/file-00_01_08_17.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/post_modern/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/post_modern/file-00_01_08_17.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purple_pond/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purple_pond/file-00_01_08_17.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purple_storm/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purple_storm/file-00_01_08_17.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purp_paper/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/purp_paper/file-00_01_08_17.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/rainbow_festival/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/rainbow_festival/file-00_01_08_17.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/really_hot/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/really_hot/file-00_01_08_17.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/sand_paper/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/sand_paper/file-00_01_08_17.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/smooth_ride/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/smooth_ride/file-00_01_08_17.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/space_pizza/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/space_pizza/file-00_01_08_17.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/spagetti_accident/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/spagetti_accident/file-00_01_08_17.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/sunday/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/sunday/file-00_01_08_17.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/yellow_collage/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/yellow_collage/file-00_01_08_17.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/yellow_paper/file-00_00_34_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/southeugenehigh/yellow_paper/file-00_01_08_17.jpg"
+			]
+		}
+	}
+]

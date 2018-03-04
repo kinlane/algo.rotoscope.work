@@ -1,0 +1,236 @@
+[
+	{
+		"name": "Portland Penny Diner",
+		"slug": "portlandpennydiner",
+		"description": "The Portland Penny Diner sign going round and round.",
+		"youtube_src": "https://youtu.be/27Cy6Dux3e8",
+		"publish_date": null,
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/alien_goggles/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/alien_goggles/file-00_00_28_43.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/aqua/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/aqua/file-00_00_28_43.jpg"
+			],
+			"blue_circuit": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_circuit/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_circuit/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_circuit/file-00_00_28_43.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_brush/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_brush/file-00_00_28_43.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_granite/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/blue_granite/file-00_00_28_43.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/bright_sand/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/bright_sand/file-00_00_28_43.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/cinnamon_rolls/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/cinnamon_rolls/file-00_00_28_43.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/clean_view/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/clean_view/file-00_00_28_43.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/colorful_blocks/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/colorful_blocks/file-00_00_28_43.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/colorful_dream/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/colorful_dream/file-00_00_28_43.jpg"
+			],
+			"constitution": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/constitution/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/constitution/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/constitution/file-00_00_28_43.jpg"
+			],
+			"crabapple": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crabapple/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crabapple/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crabapple/file-00_00_28_43.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crafty_painting/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crafty_painting/file-00_00_28_43.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/creativity/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/creativity/file-00_00_28_43.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crunch_paper/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/crunch_paper/file-00_00_28_43.jpg"
+			],
+			"dark_dali": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_dali/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_dali/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_dali/file-00_00_28_43.jpg"
+			],
+			"dark_pigeon": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_pigeon/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_pigeon/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_pigeon/file-00_00_28_43.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_rain/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_rain/file-00_00_28_43.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_soul/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dark_soul/file-00_00_28_43.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/deep_connections/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/deep_connections/file-00_00_28_43.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dry_skin/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/dry_skin/file-00_00_28_43.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/far_away/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/far_away/file-00_00_28_43.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gan_vogh/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gan_vogh/file-00_00_28_43.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/gred_mash/file-00_00_28_43.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/green_zuma/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/green_zuma/file-00_00_28_43.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/hot_spicy/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/hot_spicy/file-00_00_28_43.jpg"
+			],
+			"kandinsky_bv": [
+				null,
+				null,
+				null
+			],
+			"matrix": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/matrix/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/matrix/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/matrix/file-00_00_28_43.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/neo_instinct/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/neo_instinct/file-00_00_28_43.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/oily_mcoilface/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/oily_mcoilface/file-00_00_28_43.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/plentiful/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/plentiful/file-00_00_28_43.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/post_modern/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/post_modern/file-00_00_28_43.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purple_pond/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purple_pond/file-00_00_28_43.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purple_storm/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purple_storm/file-00_00_28_43.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purp_paper/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/purp_paper/file-00_00_28_43.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/rainbow_festival/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/rainbow_festival/file-00_00_28_43.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/really_hot/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/really_hot/file-00_00_28_43.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/sand_paper/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/sand_paper/file-00_00_28_43.jpg"
+			],
+			"smoking_cigarette": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/smoking_cigarette/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/smoking_cigarette/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/smoking_cigarette/file-00_00_28_43.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/smooth_ride/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/smooth_ride/file-00_00_28_43.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/space_pizza/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/space_pizza/file-00_00_28_43.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/spagetti_accident/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/spagetti_accident/file-00_00_28_43.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/sunday/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/sunday/file-00_00_28_43.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/yellow_collage/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/yellow_collage/file-00_00_28_43.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/yellow_paper/file-00_00_14_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/portlandpennydiner/yellow_paper/file-00_00_28_43.jpg"
+			]
+		}
+	}
+]

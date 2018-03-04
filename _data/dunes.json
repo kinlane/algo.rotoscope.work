@@ -1,0 +1,196 @@
+[
+	{
+		"name": "Dunes",
+		"slug": "dunes",
+		"description": "Walking the peak of the dunes.",
+		"youtube_src": "https://youtu.be/LZTJ03Y-alg",
+		"publish_date": "2016-11-04",
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/alien_goggles/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/alien_goggles/file-00_00_36_37.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/aqua/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/aqua/file-00_00_36_37.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/blue_brush/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/blue_brush/file-00_00_36_37.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/blue_granite/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/blue_granite/file-00_00_36_37.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/bright_sand/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/bright_sand/file-00_00_36_37.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/cinnamon_rolls/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/cinnamon_rolls/file-00_00_36_37.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/clean_view/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/clean_view/file-00_00_36_37.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/colorful_blocks/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/colorful_blocks/file-00_00_36_37.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/colorful_dream/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/colorful_dream/file-00_00_36_37.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/crafty_painting/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/crafty_painting/file-00_00_36_37.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/creativity/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/creativity/file-00_00_36_37.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/crunch_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/crunch_paper/file-00_00_36_37.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dark_rain/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dark_rain/file-00_00_36_37.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dark_soul/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dark_soul/file-00_00_36_37.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/deep_connections/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/deep_connections/file-00_00_36_37.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dry_skin/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/dry_skin/file-00_00_36_37.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/far_away/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/far_away/file-00_00_36_37.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/gan_vogh/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/gan_vogh/file-00_00_36_37.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/gred_mash/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/gred_mash/file-00_00_36_37.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/green_zuma/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/green_zuma/file-00_00_36_37.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/hot_spicy/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/hot_spicy/file-00_00_36_37.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/neo_instinct/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/neo_instinct/file-00_00_36_37.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/oily_mcoilface/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/oily_mcoilface/file-00_00_36_37.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/plentiful/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/plentiful/file-00_00_36_37.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/post_modern/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/post_modern/file-00_00_36_37.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purple_pond/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purple_pond/file-00_00_36_37.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purple_storm/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purple_storm/file-00_00_36_37.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purp_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/purp_paper/file-00_00_36_37.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/rainbow_festival/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/rainbow_festival/file-00_00_36_37.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/really_hot/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/really_hot/file-00_00_36_37.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/sand_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/sand_paper/file-00_00_36_37.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/smooth_ride/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/smooth_ride/file-00_00_36_37.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/space_pizza/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/space_pizza/file-00_00_36_37.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/spagetti_accident/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/spagetti_accident/file-00_00_36_37.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/sunday/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/sunday/file-00_00_36_37.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/yellow_collage/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/yellow_collage/file-00_00_36_37.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/yellow_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/dunes/yellow_paper/file-00_00_36_37.jpg"
+			]
+		}
+	}
+]

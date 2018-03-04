@@ -1,0 +1,231 @@
+[
+	{
+		"name": "Snowy Field",
+		"slug": "snowyfield",
+		"description": "Traveling up a snowy field in the cascade mountains.",
+		"youtube_src": "https://youtu.be/ZRIsAicDesE",
+		"publish_date": null,
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/alien_goggles/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/alien_goggles/file-00_00_36_50.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/aqua/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/aqua/file-00_00_36_50.jpg"
+			],
+			"blue_circuit": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_circuit/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_circuit/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_circuit/file-00_00_36_50.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_brush/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_brush/file-00_00_36_50.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_granite/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/blue_granite/file-00_00_36_50.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/bright_sand/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/bright_sand/file-00_00_36_50.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/cinnamon_rolls/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/cinnamon_rolls/file-00_00_36_50.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/clean_view/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/clean_view/file-00_00_36_50.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/colorful_blocks/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/colorful_blocks/file-00_00_36_50.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/colorful_dream/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/colorful_dream/file-00_00_36_50.jpg"
+			],
+			"constitution": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/constitution/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/constitution/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/constitution/file-00_00_36_50.jpg"
+			],
+			"crabapple": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crabapple/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crabapple/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crabapple/file-00_00_36_50.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crafty_painting/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crafty_painting/file-00_00_36_50.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/creativity/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/creativity/file-00_00_36_50.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crunch_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/crunch_paper/file-00_00_36_50.jpg"
+			],
+			"dark_dali": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_dali/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_dali/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_dali/file-00_00_36_50.jpg"
+			],
+			"dark_pigeon": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_pigeon/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_pigeon/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_pigeon/file-00_00_36_50.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_rain/file-00_00_36_50.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_soul/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dark_soul/file-00_00_36_50.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/deep_connections/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/deep_connections/file-00_00_36_50.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dry_skin/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/dry_skin/file-00_00_36_50.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/far_away/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/far_away/file-00_00_36_50.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/gan_vogh/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/gan_vogh/file-00_00_36_50.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/gred_mash/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/gred_mash/file-00_00_36_50.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/green_zuma/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/green_zuma/file-00_00_36_50.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/hot_spicy/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/hot_spicy/file-00_00_36_50.jpg"
+			],
+			"matrix": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/matrix/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/matrix/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/matrix/file-00_00_36_50.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/neo_instinct/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/neo_instinct/file-00_00_36_50.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/oily_mcoilface/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/oily_mcoilface/file-00_00_36_50.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/plentiful/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/plentiful/file-00_00_36_50.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/post_modern/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/post_modern/file-00_00_36_50.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purple_pond/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purple_pond/file-00_00_36_50.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purple_storm/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purple_storm/file-00_00_36_50.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purp_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/purp_paper/file-00_00_36_50.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/rainbow_festival/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/rainbow_festival/file-00_00_36_50.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/really_hot/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/really_hot/file-00_00_36_50.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/sand_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/sand_paper/file-00_00_36_50.jpg"
+			],
+			"smoking_cigarette": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/smoking_cigarette/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/smoking_cigarette/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/smoking_cigarette/file-00_00_36_50.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/smooth_ride/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/smooth_ride/file-00_00_36_50.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/space_pizza/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/space_pizza/file-00_00_36_50.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/spagetti_accident/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/spagetti_accident/file-00_00_36_50.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/sunday/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/sunday/file-00_00_36_50.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/yellow_collage/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/yellow_collage/file-00_00_36_50.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/yellow_paper/file-00_00_18_15.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/snowyfield/yellow_paper/file-00_00_36_50.jpg"
+			]
+		}
+	}
+]

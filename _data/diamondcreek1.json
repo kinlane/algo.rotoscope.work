@@ -1,0 +1,196 @@
+[
+	{
+		"name": "Diamond Creek",
+		"slug": "diamondcreek1",
+		"description": "Moving up Diamond Creek to the waterfall.",
+		"youtube_src": "https://youtu.be/PLQa6IJSQpM",
+		"publish_date": "2016-11-04",
+		"images": {
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/alien_goggles/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/alien_goggles/file-00_00_45_51.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/aqua/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/aqua/file-00_00_45_51.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/blue_brush/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/blue_brush/file-00_00_45_51.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/blue_granite/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/blue_granite/file-00_00_45_51.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/bright_sand/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/bright_sand/file-00_00_45_51.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/cinnamon_rolls/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/cinnamon_rolls/file-00_00_45_51.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/clean_view/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/clean_view/file-00_00_45_51.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/colorful_blocks/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/colorful_blocks/file-00_00_45_51.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/colorful_dream/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/colorful_dream/file-00_00_45_51.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/crafty_painting/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/crafty_painting/file-00_00_45_51.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/creativity/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/creativity/file-00_00_45_51.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/crunch_paper/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/crunch_paper/file-00_00_45_51.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dark_rain/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dark_rain/file-00_00_45_51.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dark_soul/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dark_soul/file-00_00_45_51.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/deep_connections/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/deep_connections/file-00_00_45_51.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dry_skin/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/dry_skin/file-00_00_45_51.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/far_away/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/far_away/file-00_00_45_51.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/gan_vogh/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/gan_vogh/file-00_00_45_51.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/gred_mash/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/gred_mash/file-00_00_45_51.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/green_zuma/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/green_zuma/file-00_00_45_51.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/hot_spicy/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/hot_spicy/file-00_00_45_51.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/neo_instinct/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/neo_instinct/file-00_00_45_51.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/oily_mcoilface/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/oily_mcoilface/file-00_00_45_51.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/plentiful/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/plentiful/file-00_00_45_51.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/post_modern/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/post_modern/file-00_00_45_51.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purple_pond/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purple_pond/file-00_00_45_51.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purple_storm/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purple_storm/file-00_00_45_51.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purp_paper/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/purp_paper/file-00_00_45_51.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/rainbow_festival/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/rainbow_festival/file-00_00_45_51.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/really_hot/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/really_hot/file-00_00_45_51.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/sand_paper/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/sand_paper/file-00_00_45_51.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/smooth_ride/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/smooth_ride/file-00_00_45_51.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/space_pizza/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/space_pizza/file-00_00_45_51.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/spagetti_accident/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/spagetti_accident/file-00_00_45_51.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/sunday/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/sunday/file-00_00_45_51.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/yellow_collage/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/yellow_collage/file-00_00_45_51.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/yellow_paper/file-00_00_21_82.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/diamondcreek1/yellow_paper/file-00_00_45_51.jpg"
+			]
+		}
+	}
+]

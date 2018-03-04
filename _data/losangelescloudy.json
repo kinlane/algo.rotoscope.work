@@ -1,0 +1,311 @@
+[
+	{
+		"name": "Los Angeles From The East One",
+		"slug": "losangelescloudy",
+		"description": "A shot of Los Angeles from East LA on a cloudy day.",
+		"youtube_src": null,
+		"publish_date": "2017-01-03",
+		"images": {
+			"alberto_giacometti": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alberto_giacometti/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alberto_giacometti/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alberto_giacometti/file-00_01_12_91.jpg"
+			],
+			"alien_goggles": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alien_goggles/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alien_goggles/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alien_goggles/file-00_01_12_91.jpg"
+			],
+			"aqua": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/aqua/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/aqua/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/aqua/file-00_01_12_91.jpg"
+			],
+			"blue_brush": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_brush/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_brush/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_brush/file-00_01_12_91.jpg"
+			],
+			"blue_circuit": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_circuit/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_circuit/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_circuit/file-00_01_12_91.jpg"
+			],
+			"blue_granite": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_granite/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_granite/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_granite/file-00_01_12_91.jpg"
+			],
+			"bright_sand": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/bright_sand/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/bright_sand/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/bright_sand/file-00_01_12_91.jpg"
+			],
+			"emily_carr": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/emily_carr/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/emily_carr/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/emily_carr/file-00_01_12_91.jpg"
+			],
+			"cinnamon_rolls": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/cinnamon_rolls/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/cinnamon_rolls/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/cinnamon_rolls/file-00_01_12_91.jpg"
+			],
+			"clean_view": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/clean_view/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/clean_view/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/clean_view/file-00_01_12_91.jpg"
+			],
+			"colored_circuits": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colored_circuits/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colored_circuits/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colored_circuits/file-00_01_12_91.jpg"
+			],
+			"colorful_blocks": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colorful_blocks/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colorful_blocks/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colorful_blocks/file-00_01_12_91.jpg"
+			],
+			"colorful_dream": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colorful_dream/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colorful_dream/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/colorful_dream/file-00_01_12_91.jpg"
+			],
+			"constitution": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/constitution/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/constitution/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/constitution/file-00_01_12_91.jpg"
+			],
+			"crabapple": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crabapple/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crabapple/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crabapple/file-00_01_12_91.jpg"
+			],
+			"crafty_painting": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crafty_painting/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crafty_painting/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crafty_painting/file-00_01_12_91.jpg"
+			],
+			"creativity": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/creativity/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/creativity/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/creativity/file-00_01_12_91.jpg"
+			],
+			"crunch_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crunch_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crunch_paper/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crunch_paper/file-00_01_12_91.jpg"
+			],
+			"dali_two": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_two/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_two/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_two/file-00_01_12_91.jpg"
+			],
+			"dali_three": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_01_12_91.jpg"
+			],
+			"dark_dali": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_dali/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_dali/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_dali/file-00_01_12_91.jpg"
+			],
+			"dark_pigeon": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_pigeon/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_pigeon/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_pigeon/file-00_01_12_91.jpg"
+			],
+			"dark_rain": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_rain/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_rain/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_rain/file-00_01_12_91.jpg"
+			],
+			"dark_soul": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_soul/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_soul/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_soul/file-00_01_12_91.jpg"
+			],
+			"deep_connections": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/deep_connections/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/deep_connections/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/deep_connections/file-00_01_12_91.jpg"
+			],
+			"ww2_dresden": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_dresden/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_dresden/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_dresden/file-00_01_12_91.jpg"
+			],
+			"dry_skin": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dry_skin/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dry_skin/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dry_skin/file-00_01_12_91.jpg"
+			],
+			"far_away": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/far_away/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/far_away/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/far_away/file-00_01_12_91.jpg"
+			],
+			"gan_vogh": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/gan_vogh/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/gan_vogh/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/gan_vogh/file-00_01_12_91.jpg"
+			],
+			"graham_sutherland": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/graham_sutherland/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/graham_sutherland/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/graham_sutherland/file-00_01_12_91.jpg"
+			],
+			"gred_mash": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/gred_mash/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/gred_mash/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/gred_mash/file-00_01_12_91.jpg"
+			],
+			"green_zuma": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/green_zuma/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/green_zuma/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/green_zuma/file-00_01_12_91.jpg"
+			],
+			"hot_spicy": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/hot_spicy/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/hot_spicy/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/hot_spicy/file-00_01_12_91.jpg"
+			],
+			"kandinsky_bv": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/kandinsky_bv/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/kandinsky_bv/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/kandinsky_bv/file-00_01_12_91.jpg"
+			],
+			"light_dali": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_01_12_91.jpg"
+			],
+			"marcel_duchamp": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/marcel_duchamp/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/marcel_duchamp/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/marcel_duchamp/file-00_01_12_91.jpg"
+			],
+			"matrix": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/matrix/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/matrix/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/matrix/file-00_01_12_91.jpg"
+			],
+			"monet_one": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/monet_one/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/monet_one/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/monet_one/file-00_01_12_91.jpg"
+			],
+			"mucha_mult": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/mucha_mult/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/mucha_mult/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/mucha_mult/file-00_01_12_91.jpg"
+			],
+			"neo_instinct": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/neo_instinct/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/neo_instinct/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/neo_instinct/file-00_01_12_91.jpg"
+			],
+			"oily_mcoilface": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/oily_mcoilface/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/oily_mcoilface/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/oily_mcoilface/file-00_01_12_91.jpg"
+			],
+			"pablo_blue": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/pablo_blue/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/pablo_blue/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/pablo_blue/file-00_01_12_91.jpg"
+			],
+			"plentiful": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/plentiful/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/plentiful/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/plentiful/file-00_01_12_91.jpg"
+			],
+			"post_modern": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/post_modern/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/post_modern/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/post_modern/file-00_01_12_91.jpg"
+			],
+			"purp_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purp_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purp_paper/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purp_paper/file-00_01_12_91.jpg"
+			],
+			"purple_pond": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purple_pond/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purple_pond/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purple_pond/file-00_01_12_91.jpg"
+			],
+			"purple_storm": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purple_storm/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purple_storm/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/purple_storm/file-00_01_12_91.jpg"
+			],
+			"rainbow_festival": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/rainbow_festival/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/rainbow_festival/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/rainbow_festival/file-00_01_12_91.jpg"
+			],
+			"really_hot": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/really_hot/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/really_hot/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/really_hot/file-00_01_12_91.jpg"
+			],
+			"sand_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/sand_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/sand_paper/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/sand_paper/file-00_01_12_91.jpg"
+			],
+			"smoking_cigarette": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/smoking_cigarette/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/smoking_cigarette/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/smoking_cigarette/file-00_01_12_91.jpg"
+			],
+			"smooth_ride": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/smooth_ride/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/smooth_ride/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/smooth_ride/file-00_01_12_91.jpg"
+			],
+			"space_pizza": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/space_pizza/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/space_pizza/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/space_pizza/file-00_01_12_91.jpg"
+			],
+			"spagetti_accident": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/spagetti_accident/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/spagetti_accident/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/spagetti_accident/file-00_01_12_91.jpg"
+			],
+			"sunday": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/sunday/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/sunday/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/sunday/file-00_01_12_91.jpg"
+			],
+			"diego_rivera1": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/diego_rivera1/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/diego_rivera1/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/diego_rivera1/file-00_01_12_91.jpg"
+			],
+			"wols": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/wols/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/wols/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/wols/file-00_01_12_91.jpg"
+			],
+			"ww2_color": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_color/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_color/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_color/file-00_01_12_91.jpg"
+			],
+			"yellow_collage": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/yellow_collage/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/yellow_collage/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/yellow_collage/file-00_01_12_91.jpg"
+			],
+			"yellow_paper": [
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/yellow_paper/file-00_00_00_00.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/yellow_paper/file-00_00_35_50.jpg",
+				"http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/yellow_paper/file-00_01_12_91.jpg"
+			]
+		}
+	}
+]
