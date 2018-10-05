@@ -16,7 +16,7 @@ markdown:     kramdown
 permalink: /:categories/:title/
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", ".DS_Store"]
 
-paginate: 25
+paginate: 150
 paginate_path: "/updates/page:num"
 
 github_user: api-evangelist

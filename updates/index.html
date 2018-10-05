@@ -16,17 +16,5 @@ layout: default
     	<center><hr style="width: 75%;" /></center>
   {% endfor %}
 
-	<table width="100%" border="1" style="background-color:#FFF; border: 0px #FFF;">
-		<tr style="background-color:#FFF; border: 0px #FFF;">
-			<td align="left">
-				<a href="/updates/page{{paginator.previous_page}}" class="button{% if paginator.previous_page == '' %} disabled{% endif %}"><< Prev</a></li>
-			</td>
-			<td></td>
-			<td align="right">
-				<a href="/updates/page{{paginator.next_page}}" class="button{% if paginator.next_page == '' %} disabled{% endif %}">Next >></a>
-			</td>
-		</tr>
-	</table>
-
   </div>
 </section>
