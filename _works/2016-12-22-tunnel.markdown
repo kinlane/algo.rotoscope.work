@@ -1,0 +1,16 @@
+---
+published: true
+layout: post
+title: Tunnel
+date: 2016-12-22T09:00:00.000Z
+tags:
+  - Algorotoscope Works
+  - Redwoods
+  - Tunnel
+  - Bushes
+image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/tunnel.png
+video: https://www.youtube.com/embed/ME45yg_2Iww
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/tunnel-square.png
+---
+<center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
+<center>Moving through the low tunnel in the redwood forest.</center>
