@@ -11,5 +11,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/deser
 video: https://www.youtube.com/embed/5St-CGICYSI
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/desert-road-square.png
 ---
-<center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Traveling the desert road out in the middle of nowhere.</center>

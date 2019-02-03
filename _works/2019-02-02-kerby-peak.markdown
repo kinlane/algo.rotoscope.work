@@ -8,8 +8,8 @@ tags:
   - Forest
   - Waterfall
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/kerby-peak.jpg
-video: ''
+video: https://www.youtube.com/embed/1G-_6j6a8wE
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/kerby-peak-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Up to the top of Kerby Peak.</center>

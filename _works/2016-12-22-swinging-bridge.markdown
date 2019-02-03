@@ -8,8 +8,8 @@ tags:
   - Swinging Bridge
   - River
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/swinging-bridge.png
-video: https://www.youtube.com/embed/3rj78-lOHvc
+video: https://www.youtube.com/embed/6VrFb21TqLY
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/swinging-bridge-square.png
 ---
-<center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Flying under the swinging bridge.</center>

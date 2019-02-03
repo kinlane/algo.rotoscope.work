@@ -8,8 +8,8 @@ tags:
   - River
   - Trees
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/smith-river.jpg
-video: ''
+video: https://www.youtube.com/embed/lBVwrr0KJqM
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/smith-river-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Up the Smith River Canyon.</center>

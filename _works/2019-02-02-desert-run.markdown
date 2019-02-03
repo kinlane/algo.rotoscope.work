@@ -7,8 +7,8 @@ tags:
   - Algorotoscope Works
   - Desert
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/desert-run.jpg
-video: ''
+video: https://www.youtube.com/embed/Xv59e9mURio
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/desert-run-square.jpg
 ---
-<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
+<center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Run along the desert floor.</center>
