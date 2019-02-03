@@ -10,5 +10,5 @@ video: 'https://www.youtube.com/embed/L0YzmYo18lQ'
 image: http://kinlane-productions.s3.amazonaws.com/algorotoscope/canyon/bright_sand/file-00_00_00_00.jpg
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/file-00_00_00_00_smith_square.jpg
 ---
-<center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Flying through Smith Canyon in eastern Oregon.</center>

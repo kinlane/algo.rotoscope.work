@@ -10,5 +10,5 @@ image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/deser
 video: https://www.youtube.com/embed/Xv59e9mURio
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/desert-run-square.jpg
 ---
-<center><iframe width="660" height="415" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Run along the desert floor.</center>
