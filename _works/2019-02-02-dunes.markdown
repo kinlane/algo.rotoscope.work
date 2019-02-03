@@ -8,8 +8,8 @@ tags:
   - Dunes
   - Sand
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/dunes.png
-video: ''
+video: https://www.youtube.com/embed/v6JZpDnzR6g
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/dunes-square.png
 ---
-<p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
+<center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
 <center>Walking along the top of the dunes.</center>
