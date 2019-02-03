@@ -8,7 +8,7 @@ tags:
   - Desert
   - Road
 image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/desert-road.png
-video: https://www.youtube.com/embed/5St-CGICYSI
+video: https://www.youtube.com/embed/X66RCkNJPPw
 square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/desert-road-square.png
 ---
 <center><iframe width="853" height="505" src="{{ page.video }}" frameborder="0" allowfullscreen></iframe></center>
