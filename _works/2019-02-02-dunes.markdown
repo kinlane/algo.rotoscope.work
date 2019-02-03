@@ -7,9 +7,9 @@ tags:
   - Algorotoscope Works
   - Dunes
   - Sand
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/dunes.jpg
+image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/dunes.png
 video: ''
-square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/dunes-square.jpg
+square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/dunes-square.png
 ---
 <p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
-<center>Along the top of the dunes.</center>
+<center>Walking along the top of the dunes.</center>
