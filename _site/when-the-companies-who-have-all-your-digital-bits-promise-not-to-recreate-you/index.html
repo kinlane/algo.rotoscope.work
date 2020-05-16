@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <html>
+  <title>When The Companies Who Have All Your Digital Bits Promise Not To Recreate You</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+
+  <!-- Icons -->
+  <link rel="shortcut icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+
+  <!-- JQuery -->
+  <script src="/js/jquery-latest.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/utility.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Github.js - http://github.com/michael/github -->
+  <script src="/js/github.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Cookies.js - http://github.com/ScottHamper/Cookies -->
+  <script src="/js/cookies.js"></script>
+
+  <!-- D3.js http://github.com/d3/d3 -->
+  <script src="/js/d3.v3.min.js"></script>
+
+  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
+  <script src="/js/js-yaml.min.js"></script>
+
+  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
+  <script src="/js/tabletop.js" type="text/javascript"></script>
+
+  <script src="/js/subway-map-1.js" type="text/javascript"></script>
+
+  <style type="text/css">
+
+    .gist {width:100% !important;}
+    .gist-file
+    .gist-data {max-height: 500px;max-width: 500px;}
+
+    /* The main DIV for the map */
+    .subway-map
+    {
+        margin: 0;
+        width: 950px;
+        height:125px;
+        background-color: white;
+    }
+
+    /* Text labels */
+    .text
+    {
+        text-decoration: none;
+        color: black;
+    }
+
+    #legend
+    {
+    	border: 1px solid #000;
+        float: left;
+        width: 250px;
+        height:400px;
+    }
+
+    #legend div
+    {
+        height: 25px;
+    }
+
+    #legend span
+    {
+        margin: 5px 5px 5px 0;
+    }
+    .subway-map span
+    {
+        margin: 5px 5px 5px 0;
+    }
+
+    </style>
+
+</head>
+
+  <body>
+
+			<div id="wrapper">
+					<div id="main">
+						<div class="inner">
+
+              <header id="header">
+  <a href="http://localhost:4000" class="logo"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/api-evangelist-logo-algorotoscope.png" width="100%" /></a>
+  <ul class="icons">
+    <li><a href="https://twitter.com/algorotoscope" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+    <li><a href="http://algorithmic.rotoscope.work/atom.xml" class="icon fa-rss"><span class="label">RSS</span></a></li>
+  </ul>
+</header>
+
+    	        <br /><p style="font-size: 18px;"><strong>When The Companies Who Have All Your Digital Bits Promise Not To Recreate You</strong><br />
+<i>14 Jan 2017</i></p>
+<p><a href="http://apievangelist.com/2017/01/09/the-api-driven-marketplace-that-is-my-digital-self/">I'm thinking about my digital bits a lot lately</a>. Thinking about the digital bits that I create, the bits I generate automatically, the bits I own, the bits I do not own, and how I can make a living with just a handful of my bits. I have an inbox full of people who want me to put my bits on their websites, and people who want to put their bits on my platform&nbsp;so that they are associated with my brand, increasing the value of their bits. I know people think I'm crazy (I am) when I talk so much about my bits in this way, but it is a just response to my front-row seat watching companies getting pretty wealthy off all of our bits. #BlueManGroup</p>
+<p>Obviously, this is not a new phenomenon, and we've heard stories about <a href="http://www.billboard.com/articles/news/7341570/prince-death-legal-legacy-contract-fights-copyright-battles">Prince</a>, <a href="https://www.theguardian.com/culture/2000/jul/11/artsfeatures3">John Fogerty</a>, and <a href="http://www.npr.org/sections/therecord/2012/06/06/154451399/george-clinton-fights-for-his-right-to-funk">George Clinton fighting for the funk</a> and ownership of their musical bits, something artists of all types have had to battle on all fronts, throughout their careers. Lately, I have I have found myself sucked in listening to stories from Carrie Fisher in her documentaries, better understanding her struggles to maintain a voice in the merchandising, representation and control over her likeness, and her most famous role--Princess Leia. &lt;3</p>
+<p><img style="padding: 15px; display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/princess_leia_blue_circuit.jpg" alt="" width="95%" /></p>
+<p>Carrie Fisher made Prince Leia the icon she is today. However, she did it on the LucasFilm platform. How much does LucasFilm own, and how much does Carrie Fisher own? How dependent are they on her, and how dependent is she on them. Something that has been intensely&nbsp;worked out between lawyers since the 1970's. Now that she has passed, I'm sure her estate will continue to take on LucasFilm on this front, but the company has so many of her video, audio, and images (her bits), that they can possibly recreate her for future movies if they desired.</p>
+<p>As I'm thinking about my own bits, and the control, or lack of control I have over these this week, I'm also reading that&nbsp;<a href="http://www.starwars.com/news/a-statement-regarding-new-rumors">Lucasfilm released a statement that</a>:</p>
+<p style="padding-left: 30px;"><em>We want to assure our fans that Lucasfilm has no plans to digitally recreate Carrie Fisher&rsquo;s performance as Princess or General Leia Organa.</em></p>
+<p>Remember the <a href="http://www.billboard.com/articles/columns/the-juice/494288/opinion-the-problem-with-the-tupac-hologram">Tupac</a> and <a href="http://www.billboard.com/articles/events/bbma-2014/6092040/michael-jackson-hologram-billboard-music-awards">Michael Jackson</a> holograms? The precedent for digitally recreate all of&nbsp;or the parts of pieces (bits) of a human is&nbsp;out there. Let me stop here. I'm not talking about anything remotely in realm of the singularity, I'm simply talking about what is possible with existing technology using video, audio, images, and text content generated from or containing the fingerprint of a certain human being (me). I know that some geeks love to masturbate to this shit, but I'm just talking about some of you delusion mother-fuckers realizing there is a lot of money to be off of someone else's hard work, or even just their human existence. #Exploitatification</p>
+<p>The platformification of everything is all about getting people to come do shit on your platform, and making money doing this--I just happen to study this stuff for a living&nbsp;and possess a borderline unhealthy obsession on the subject (#help). Carrie Fisher had to learn the hard way how to fight for what is hers, back when she was a young adult, something that continued throughout her life. With advances in technology this battle has evolved, morphed, and changed, with the greatest amount of control and power always existing in the hands of the platform (Lucasfilm) operator, who has the most lawyers.&nbsp;</p>
+<p>if you publish anything on the web regularly you know that there are folks who immediately copy your shit and post elsewhere, trying to generate ad revenue--this is the lowest level of things out there. At the higher levels, we have Youtube, Facebook, Instagram, and others who want all your bits in their walled garden, where they can measure, track and run your bits through their "machine learning" and "artificial intelligence" algorithms (go&nbsp;<a href="https://apievangelist.com/2017/01/11/evernote-reaffirming-our-commitment-to-your-privacy/">Evernote</a>). Where they obtain a license and control over your videos, images, audio and other objects. Where their machine learning can learn to write like you, understand your behavior, where you go, what you like to buy, where you eat, and what you like to read and watch, think, and write in your journal.</p>
+<p>At what point can Facebook or Google launch an API channel that behaves just like what I perform as the API Evangelist. At what point can Amazon understand which algorithms are getting the most use, the most traction, and awareness, and access to the most data and content, and recreate all of this for themselves, within their domain, presented as the latest AWS offering. <a href="https://www.wired.com/2016/09/how-to-steal-an-ai/">You know why platform operators are afraid of folks stealing their AI through APIs?</a> Because it is the reverse of their business model, training their algorithms using your bits, and providing a plantation for developers to tend to, cultivate, and grow the best crops.&nbsp;</p>
+<p>Thankfully I am a human being, and no amount of AI, machine learning, and algorithms will ever replace me, and what I do, but it doesn't mean that there won't be endless corporations willing to step up and exploit, profit from my existence as said human being. <a href="http://apievangelist.com/2017/01/09/the-api-driven-marketplace-that-is-my-digital-self/">As I struggle to understand my digital self</a>, and make ends meet for my physical self, I just had to take pause, and point out that a corporation just promised to a bunch of human beings that they would not be digitally recreating another beloved human being, simply so they could profit from the hard work she did as a living human being. It leaves me wondering if Lucasfilm will always have this attitude, and whether or not other companies like Facebook and Oculus Rift will have similar ethical stances, and not use all of us in their&nbsp;social and VR bubbles productions.</p>
+
+<br>
+<hr />
+<br>
+<center>
+<table cellpadding="5" cellspacing="5" align="center" border="0" width="75%">
+	<tr>
+		<td align="center" width="50%">
+			<a href="/" target="_bank">Return To Works</a>
+		</td>
+		<td align="center" width="50%">
+			<a href="/updates" target="_bank">Return to Updates</a>
+		</td>
+	</tr>
+</table>
+</center>
+
+              <footer>
+  <p align="center">
+    all of my work:
+    <a href="http://apievangelist.com">apievangelist.com</a> |
+    <a href="http://kinlane.com">kinlane.com</a> |
+    <a href="http://api.report">api.report</a> |
+    <a href="http://adopta.agency">adopta.agency</a> |
+    <a href="http://dronerecovery.org">dronerecovery.org</a> |
+    <a href="http://http://algorithmic.rotoscope.work/">algorithmic.rotoscope.work</a>
+  </p>
+</footer>
+
+
+            </div>
+          </div>
+
+          <div id="sidebar">
+          <div class="inner">
+
+            <nav id="menu">
+  <header class="major">
+    <h2>Menu</h2>
+  </header>
+  <ul>
+    <li><a href="/">Works</a></li>
+    <li><a href="/updates">Updates</a></li>
+    <li><a href="http://apievangelist.com">API Evangelist</a></li>
+    <li><a href="http://kinlane.com">Kin Lane</a></li>
+  </ul>
+</nav>
+
+
+            <section>
+  <div class="mini-posts">
+    
+    
+      
+        <article>
+          <a href="https://www.uptrends.com/solutions/api-monitoring" class="image"><img src="https://s3.amazonaws.com/kinlane-productions/uptrends/apievangelist-uptrends.png" alt="" width="50%" /></a>
+        </article>
+      
+    
+      
+        <article>
+          <a href="http://apis.how/ake3nxbapm" class="image"><img src="https://s3.amazonaws.com/kinlane-productions/partners/3scale-red-hat-logo.png" alt="" width="50%" /></a>
+        </article>
+      
+    
+  </div>
+</section>
+
+
+            
+          </div>
+          </div>
+
+      </div>
+
+      <script src="/assets/js/skel.min.js"></script>
+      <script src="/assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script>
+      /*
+      	Editorial by HTML5 UP
+      	html5up.net | @ajlkn
+      	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+      */
+
+      (function($) {
+
+      	skel.breakpoints({
+      		xlarge: '(max-width: 1680px)',
+      		large: '(max-width: 1280px)',
+      		medium: '(max-width: 980px)',
+      		small: '(max-width: 736px)',
+      		xsmall: '(max-width: 480px)',
+      		'xlarge-to-max': '(min-width: 1681px)',
+      		'small-to-xlarge': '(min-width: 481px) and (max-width: 1680px)'
+      	});
+
+      	$(function() {
+
+      		var	$window = $(window),
+      			$head = $('head'),
+      			$body = $('body');
+
+      		// Disable animations/transitions ...
+
+      			// ... until the page has loaded.
+      				$body.addClass('is-loading');
+
+      				$window.on('load', function() {
+      					setTimeout(function() {
+      						$body.removeClass('is-loading');
+      					}, 100);
+      				});
+
+      			// ... when resizing.
+      				var resizeTimeout;
+
+      				$window.on('resize', function() {
+
+      					// Mark as resizing.
+      						$body.addClass('is-resizing');
+
+      					// Unmark after delay.
+      						clearTimeout(resizeTimeout);
+
+      						resizeTimeout = setTimeout(function() {
+      							$body.removeClass('is-resizing');
+      						}, 100);
+
+      				});
+
+      		// Fix: Placeholder polyfill.
+      			$('form').placeholder();
+
+      		// Prioritize "important" elements on medium.
+      			skel.on('+medium -medium', function() {
+      				$.prioritize(
+      					'.important\\28 medium\\29',
+      					skel.breakpoint('medium').active
+      				);
+      			});
+
+      		// Fixes.
+
+      			// Object fit images.
+      				if (!skel.canUse('object-fit')
+      				||	skel.vars.browser == 'safari')
+      					$('.image.object').each(function() {
+
+      						var $this = $(this),
+      							$img = $this.children('img');
+
+      						// Hide original image.
+      							$img.css('opacity', '0');
+
+      						// Set background.
+      							$this
+      								.css('background-image', 'url("' + $img.attr('src') + '")')
+      								.css('background-size', $img.css('object-fit') ? $img.css('object-fit') : 'cover')
+      								.css('background-position', $img.css('object-position') ? $img.css('object-position') : 'center');
+
+      					});
+
+      		// Sidebar.
+      			var $sidebar = $('#sidebar'),
+      				$sidebar_inner = $sidebar.children('.inner');
+
+      			// Inactive by default on <= large.
+      				skel
+      					.on('+large', function() {
+      						$sidebar.removeClass('inactive');
+      					})
+      					.on('-large !large', function() {
+      						$sidebar.removeClass('inactive');
+      					});
+
+            $sidebar.addClass('inactive');
+
+      			// Hack: Workaround for Chrome/Android scrollbar position bug.
+      				if (skel.vars.os == 'android'
+      				&&	skel.vars.browser == 'chrome')
+      					$('<style>#sidebar .inner::-webkit-scrollbar { display: none; }</style>')
+      						.appendTo($head);
+
+      			// Toggle.
+      				if (skel.vars.IEVersion > 9) {
+
+      					$('<a href="#sidebar" class="toggle">Toggle</a>')
+      						.appendTo($sidebar)
+      						.on('click', function(event) {
+
+      							// Prevent default.
+      								event.preventDefault();
+      								event.stopPropagation();
+
+      							// Toggle.
+      								$sidebar.toggleClass('inactive');
+
+      						});
+
+      				}
+
+      			// Events.
+
+      				// Link clicks.
+      					$sidebar.on('click', 'a', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Vars.
+      							var $a = $(this),
+      								href = $a.attr('href'),
+      								target = $a.attr('target');
+
+      						// Prevent default.
+      							event.preventDefault();
+      							event.stopPropagation();
+
+      						// Check URL.
+      							if (!href || href == '#' || href == '')
+      								return;
+
+      						// Hide sidebar.
+      							$sidebar.addClass('inactive');
+
+      						// Redirect to href.
+      							setTimeout(function() {
+
+      								if (target == '_blank')
+      									window.open(href);
+      								else
+      									window.location.href = href;
+
+      							}, 500);
+
+      					});
+
+      				// Prevent certain events inside the panel from bubbling.
+      					$sidebar.on('click touchend touchstart touchmove', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Prevent propagation.
+      							event.stopPropagation();
+
+      					});
+
+      				// Hide panel on body click/tap.
+      					$body.on('click touchend', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Deactivate.
+      							$sidebar.addClass('inactive');
+
+      					});
+
+      			// Scroll lock.
+      			// Note: If you do anything to change the height of the sidebar's content, be sure to
+      			// trigger 'resize.sidebar-lock' on $window so stuff doesn't get out of sync.
+
+      				$window.on('load.sidebar-lock', function() {
+
+      					var sh, wh, st;
+
+      					// Reset scroll position to 0 if it's 1.
+      						if ($window.scrollTop() == 1)
+      							$window.scrollTop(0);
+
+      					$window
+      						.on('scroll.sidebar-lock', function() {
+
+      							var x, y;
+
+      							// IE<10? Bail.
+      								if (skel.vars.IEVersion < 10)
+      									return;
+
+      							// <=large? Bail.
+      								if (skel.breakpoint('large').active) {
+
+      									$sidebar_inner
+      										.data('locked', 0)
+      										.css('position', '')
+      										.css('top', '');
+
+      									return;
+
+      								}
+
+      							// Calculate positions.
+      								x = Math.max(sh - wh, 0);
+      								y = Math.max(0, $window.scrollTop() - x);
+
+      							// Lock/unlock.
+      								if ($sidebar_inner.data('locked') == 1) {
+
+      									if (y <= 0)
+      										$sidebar_inner
+      											.data('locked', 0)
+      											.css('position', '')
+      											.css('top', '');
+      									else
+      										$sidebar_inner
+      											.css('top', -1 * x);
+
+      								}
+      								else {
+
+      									if (y > 0)
+      										$sidebar_inner
+      											.data('locked', 1)
+      											.css('position', 'fixed')
+      											.css('top', -1 * x);
+
+      								}
+
+      						})
+      						.on('resize.sidebar-lock', function() {
+
+      							// Calculate heights.
+      								wh = $window.height();
+      								sh = $sidebar_inner.outerHeight() + 30;
+
+      							// Trigger scroll.
+      								$window.trigger('scroll.sidebar-lock');
+
+      						})
+      						.trigger('resize.sidebar-lock');
+
+      					});
+
+      		// Menu.
+      			var $menu = $('#menu'),
+      				$menu_openers = $menu.children('ul').find('.opener');
+
+      			// Openers.
+      				$menu_openers.each(function() {
+
+      					var $this = $(this);
+
+      					$this.on('click', function(event) {
+
+      						// Prevent default.
+      							event.preventDefault();
+
+      						// Toggle.
+      							$menu_openers.not($this).removeClass('active');
+      							$this.toggleClass('active');
+
+      						// Trigger resize (sidebar lock).
+      							$window.triggerHandler('resize.sidebar-lock');
+
+      					});
+
+      				});
+
+      	});
+
+      })(jQuery);
+      </script>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1119465-51"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1119465-51');
+      </script>
+
+</body>
+</html>

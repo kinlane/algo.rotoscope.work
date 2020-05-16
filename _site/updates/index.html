@@ -1,0 +1,802 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <html>
+  <title>Algorotoscope </title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+
+  <!-- Icons -->
+  <link rel="shortcut icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+
+  <!-- JQuery -->
+  <script src="/js/jquery-latest.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/utility.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Github.js - http://github.com/michael/github -->
+  <script src="/js/github.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Cookies.js - http://github.com/ScottHamper/Cookies -->
+  <script src="/js/cookies.js"></script>
+
+  <!-- D3.js http://github.com/d3/d3 -->
+  <script src="/js/d3.v3.min.js"></script>
+
+  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
+  <script src="/js/js-yaml.min.js"></script>
+
+  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
+  <script src="/js/tabletop.js" type="text/javascript"></script>
+
+  <script src="/js/subway-map-1.js" type="text/javascript"></script>
+
+  <style type="text/css">
+
+    .gist {width:100% !important;}
+    .gist-file
+    .gist-data {max-height: 500px;max-width: 500px;}
+
+    /* The main DIV for the map */
+    .subway-map
+    {
+        margin: 0;
+        width: 950px;
+        height:125px;
+        background-color: white;
+    }
+
+    /* Text labels */
+    .text
+    {
+        text-decoration: none;
+        color: black;
+    }
+
+    #legend
+    {
+    	border: 1px solid #000;
+        float: left;
+        width: 250px;
+        height:400px;
+    }
+
+    #legend div
+    {
+        height: 25px;
+    }
+
+    #legend span
+    {
+        margin: 5px 5px 5px 0;
+    }
+    .subway-map span
+    {
+        margin: 5px 5px 5px 0;
+    }
+
+    </style>
+
+</head>
+
+  <body>
+
+			<div id="wrapper">
+					<div id="main">
+						<div class="inner">
+
+              <header id="header">
+  <a href="http://localhost:4000" class="logo"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/api-evangelist-logo-algorotoscope.png" width="100%" /></a>
+  <ul class="icons">
+    <li><a href="https://twitter.com/algorotoscope" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+    <li><a href="http://algorithmic.rotoscope.work/atom.xml" class="icon fa-rss"><span class="label">RSS</span></a></li>
+  </ul>
+</header>
+
+    	        <section>
+	<div class="content">
+	<h3>Algorotoscope Updates</h3>
+	<p>These are the stories I have told along the way, as I'm producing images and videos.</p>
+	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/showing-what-algorithmic-influence-on-markets-leave-out/">Showing What Algorithmic Influence On Markets Leaves Out</a></h3>
+      <span class="post-date">15 Jul 2017</span>
+      <p>I’ve been playing with different ways of visualizing the impact that algorithms are making on our lives. How they are being <a href="http://kinlane.com/2017/02/06/algorithmic-reflections-on-the-immigration-debate/">used to distort the immigration debate</a>, and <a href="http://algorithmic.rotoscope.work/2017/02/14/the-russian-propaganda-distortion-field-around-the-white-house/">how the current administration is being influenced and p0wned by Russian propaganda</a>. I find shedding light on how algorithms are directly influencing a variety of conversations using machine learning a fun pastime. I’m also interested in finding ways to shine a light on what gets filtered out, omitted, censored, or completely forgotten by algorithms, and their authors.</p>
+
+<p>One of my latest filters I’ve trained using TensorFlow is called “Feed the People”. It is an early 20th century Soviet propaganda poster that I do not know much history behind, but I feel provides a compelling point, while also providing an attractive and usable color palette and textures–I will have to do more research on the back story. I took this propaganda poster and trained a TensorFlow machine learning model for about 24 hours on an AWS EC2 GPU instance, which cost me about $18.00 for the entire process–leaving me with a ML model I can apply to any image.</p>
+
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/markets/feed-the-people-economics.jpg" align="right" width="98%" style="padding: 15px;" /></p>
+
+<p>Once I had my trained machine learning model I applied to a handful of images, including one I took of the economist Adam Smith statue in Edinburgh, Scotland–which interestingly was commissioned by <a href="https://en.wikipedia.org/wiki/Adam_Smith_Institute">the Adam Smith Institute (ASI)</a>, a neoliberal (formerly libertarian) think tank and lobbying group based in the United Kingdom, named after Adam Smith, a Scottish moral philosopher and classical economist in 2003. Taking the essence of the “feed the people” propaganda and algorithmically transferring it an image of the famous economist from the 18th century that was installed on the city streets by a neoliberal think tank in 2003.</p>
+
+<p>I’m super fascinated by how algorithms influence markets, from high speed trading, all the way to how stories about markets are spread on Facebook by investors, and libertarian and neoliberal influencers. Algorithms are being used to distort, contort, p0wn, influence and create new markets. I am continuing to trying to understand how propaganda and ideology is influencing these algorithms, but more importantly highlighting the conversations, and people that are ultimately left behind in the cracks as algorithms continue to consume our digital and physical worlds, and disrupt everything along the way.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/showing-what-algorithmic-influence-on-markets-leave-out/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/highlighting-algorithmic-transparency-using-my-algorotoscope-work.-markdown/">Highlighting Algorithmic Transparency Using My Algorotoscope Work</a></h3>
+      <span class="post-date">28 Jun 2017</span>
+      <p><a href="http://algorithmic.rotoscope.work/updates/" title="Algorithmic Rotoscope">I started doing my algorotoscope work to better understand machine learning</a>. I needed a hands-on project that would allow me to play with two overlapping slices of the machine learning pie–working with images and video. I wanted to understand what people meant when they said texture transfer or object recognition, and quantify the differences between machine learning providers, pulling the curtain back a little on a portion of machine learning, helping establish some transparency and observability.</p>
+
+<p>Algorotoscope allows me shine a light on machine learning, while also shining a light on the world of algorithms. I’m still learning what is possible, but the motivations behind <a href="http://algorithmic.rotoscope.work/2017/02/06/algorithmic-reflections-on-the-immigration-debate/">my Ellis Island Nazi Poster reflection</a>, and <a href="http://algorithmic.rotoscope.work/2017/02/14/the-russian-propaganda-distortion-field-around-the-white-house/">my White House Russian propaganda leaflet snapshot</a> are meant to help me understand machine learning texture transfer models, and apply them to images in a way that helps demonstrate how algorithms are obfuscating the physical and digital world around us. Showcasing that algorithms are being used to distort the immigration debate, our elections, and almost every other aspect of our professional and personal lives.</p>
+<p align="center"><img src="https://s3.amazonaws.com/kinlane-productions/algorotoscope/stories/crypto-machine-bletchley_copper_circuit.png" width="90%" style="padding: 25px;" /></p>
+<p>I understand technology by using it. Black box algorithms seem to be indistinguishable from magic for many folks, while they scare the hell out of me. Not because they contain magic, but because they contain exploitation, bias, corruption, privacy, and security nightmares. It is important to me that we understand the levers, knobs, dials, and gears behind algorithms. I am looking to use my algorotoscope work help reduce the distortion field that often surrounds algorithms, and how their various incarnations are being marketed. I want my readers to understand that nothing they read, no image they see, or video they watch is free of algorithmic influence, and that algorithms are making the decision about what you see, as well as what we do not see.</p>
+
+<p>Algorotscope is all about using machine learning to help us visualize the impact that algorithms are making on our world. I have no idea where the work is headed, except that I will keep working to generate relevant machine learning models trained on relevant images, then experiment with the application of these models as filters on images and video in a way that tells a story about how algorithms are distorting our world, and shifting how we view things both on and offline. I’m looking to move my <a href="http://apievangelist.com">API Evangelist storytelling to use 100% algorotscope images</a>, as I keep scratching the surface of how algorithms are invading our lives via the web, devices, and everyday objects.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/highlighting-algorithmic-transparency-using-my-algorotoscope-work.-markdown/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/why-would-people-want-fine-art-trained-machine-learning-models/">Why Would People Want Fine Art Trained Machine Learning Models</a></h3>
+      <span class="post-date">08 Mar 2017</span>
+      <p>I'm spending time on my <a href="http://algorithmic.rotoscope.work/">algorithmic rotoscope work</a>, and thinking about how the machine learning style textures I've been marking can be put to use. I'm trying to see things from different vantage points and develop a better understanding of how texture styles can be put to use in the regular world.</p>
+<p>I am enjoying using image style filters in my writing. It gives me kind of a gamified layer to my photography and drone hobby that allows me to create actual images I can use in my work as the <a href="http://apievangelist.com">API Evangelist</a>. Having unique filtered images available for use in my writing is valuable to me--enough to justify the couple hundreds of dollars I spend each month on AWS servers.</p>
+<p>I know why I like applying image styles to my photos, but why do others? Most of the image filters out there we've seen from apps like <a href="https://prisma-ai.com/">Prisma</a> are focused on fine art. Training image style transfer machine learning models on popular art that people are already familiar with. I guess this is allows people to apply the characteristics of art they like to the photographic layer of our increasingly digital lives.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_blue_brush.jpg" alt="" width="100%" /></p>
+<p>To me, it feels like some sort of art placebo. A way of superficially and algorithmic injecting what are brain tells us is artsy to our fairly empty, digital photo reality. Taking photos in real time isn't satisfying enough anymore. We need to distract ourselves from the world by applying reality to our digitally documented physical world--almost the opposite of augmented reality if there is such a thing. Getting lost in the ability to look at the real world through the algorithmic lens of our online life.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_alien_goggles.jpg" alt="" width="100%" /></p>
+<p>We are stealing the essence the meaningful, tangible art from our real world, and digitizing it. We take this essense and algorithmically apply it our everyday life trying to add some color, some texture, but not too much. We need the photos to still be meaningful, and have context in our life, but we need to be able to spray an algorithmic lacquer of meaning on our intangible lives.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_crunch_paper.jpg" alt="" width="100%" /></p>
+<p>The more filters we have, the more lenses we have to look at the exact same moment we live each day. We go to work. We go to school. We see the same scenery, the same people, and the same pictures each day. Now we are able to algorithmic shift, distort, and paint the picture of our lives we want to see.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_dark_dali.jpg" alt="" width="100%" /></p>
+<p>Now we can add color to our life. We are being trained to think we can change the palette, and are in control over our lives. We can colorize the old World War 2 era photos of our day, and choose whether we want to color within, or outside the lines. Our lives don't have to be just binary 1s and 0s, and black or white.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_kandinsky_bv.jpg" alt="" width="100%" /></p>
+<p>Slowly, picture by picture, algorithmic transfer by algorithmic transfer, the way we see the world changes. We no longer settle for the way things are, the way our mobile phone camera catches it. The digital version is the image we share with my friends, family, and the world. It should always be the most brilliant, the most colorful, and the painting that catches their eye and makes them stand in front of on the wall of your Facebook feed captivated.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_sunday.jpg" alt="" width="100%" /></p>
+<p>We no longer will remember what reality looks like, or what art looks like. Our collective social media memory will dictate what the world looks like. The number of likes will determine what is artistic, and what is beautiful or ugly. The algorithm will only show us what images match the world it wants us to see. Algorithmically, artistically painting the inside walls of our digital bubble.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_blue_circuit_3.jpg" alt="" width="100%" /></p>
+<p>Eventually, the sensors that stimulate us when we see photos will be well worn. They will be well programmed, with known inputs, and predictable outputs. The algorithm will be able to deliver exactly what we need, and correctly predict what we will need next. Scheduling up and queuing the next fifty possible scenarios--with exactly the right colors, textures, and meaning.</p>
+<p><img src="https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/art-museum/art-museum_copper_circuit_2.jpg" alt="" width="100%" /></p>
+<p>How we see art will be forever changed by the algorithm. Our machines will never see art. Our machines will never know art. Our machines will only be able to transfer the characteristics we see and deliver them into newer, more relevant, timely, and meaningful images. Distilling down the essence of art into binary, and programming us to think this synthetic art is meaningful, and still applies to our physical world.</p>
+<p>Like I said, I think people like applying artistic image filters to their mobile photos because it is the opposite of augmented reality. They are trying to augment their digital (hopes of reality) presence with the essence of what we (algorithm) think matters to use in the world. This process isn't about training a model to see art like some folks may tell you. It is about distilling down some of the most simple aspects of what our eyes see as art, and give this algorithm to our mobile phones and social networks to apply to the photograph digital logging of our physical reality. </p>
+<p>It feels like this is about reprogramming people. It is about reprogramming what stimulates you. Automating an algorithmic view of what matters when it comes to art, and applying it to a digital view of matters in our daily worlds, via our social networks. Just one more area of our life where we are allowing algorithms to reprogram us, and bend our reality to be more digital.</p>
+<p style="text-align: center;"><a href="https://umma.umaine.edu/">I Borrowed This Image From University of Maine Museum of Art</a></p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/why-would-people-want-fine-art-trained-machine-learning-models/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/machine-learning-style-transfer-for-museums-libraries-and-collections/">Machine Learning Style Transfer For Museums, Libraries, and Collections</a></h3>
+      <span class="post-date">07 Mar 2017</span>
+      <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/art_museum_kandinsky_bv.jpg" alt="" width="40%" align="right" /></p>
+<p>I putting some thought into some next steps for my <a href="http://algorithmic.rotoscope.work/">algorithmic rotoscope work</a>, which is about the training and applying of image style transfer machine learning models. I'm talking with Jason Toy (<a href="https://twitter.com/jtoy">@jtoy</a>) over at&nbsp;<a href="http://www.somatic.io/">Somatic</a> about the variety of use cases, and I want to spend some thinking about image style transfers, from the perspective of a collector or curator of images--brainstorming how they can organize, make available their work(s) for use in image style transfers.</p>
+<p>Ok, let's start with the basics--what am I talking about when I say image style transfer? &nbsp;<a href="http://kinlane.com/2017/02/15/what-do-you-mean-when-you-say-you-are-training-a-machine-learning-model/">I recommend starting with a basic definition of machine learning in this context, providing by my girlfriend, and partner in crime Audrey Watters</a>. Beyond, that I am just referring to the training a machine learning model by directing it to scan an image. This model can then be applied to other images, essentially transferring the style of one image, to any other image. There are a handful of mobile applications out there right now that let you apply a handful of filters to images taken with your mobile phone--<a href="http://www.somatic.io/">Somatic is looking to be the wholesale provider of these features</a>.&nbsp;</p>
+<p>Training one of these models isn't cheap. It costs me about $20 per model in GPUs to create--this doesn't consider my time, just my hard compute costs (AWS bill). Not every model does anything interesting. Not all images, photos, and pieces of art translate&nbsp;into cool features when applied to images. I've spent about $700 training 35 filters. Some of them are cool, and some of them are meh. I've had the most luck focusing on <a href="http://algorithmic.rotoscope.work/2017/01/03/finding-the-right-dystopian-filter-to-represent-the-world-unfolding-around-us/">dystopian landscapes</a>, which I can use in my storytelling around topics like <a href="http://algorithmic.rotoscope.work/2017/02/06/algorithmic-reflections-on-the-immigration-debate/">immigration</a>, technology, and the <a href="http://algorithmic.rotoscope.work/2017/02/14/the-russian-propaganda-distortion-field-around-the-white-house/">election</a>.&nbsp;</p>
+<p>This work ended up with Jason and I talking about museums and library collections, thinking about opportunities for them to think about their collections in terms of machine learning, and specifically algorithmic style transfer. Do you have images in your collection that would translate well for use in graphic design, print, and digital photo applications? I spend hours looking through art books for the right textures, colors and outlines. I also spend hours looking through graphic design archives for movie and gaming industry, as well as government collections. Looking for just the right set of images that will either transfer&nbsp;and produce an interesting look, as well as possible transfer something meaningful to the new images that I am applying styles to.</p>
+<p>Sometimes style transfers just make a photo look cool, bringing some general colors, textures, and other features to a new photo--there really isn't any value in knowing what image was behind the style transfer, it just looks cool. Other times, the image can be enhanced knowing about the image behind the machine learning model, and not just transferring&nbsp;styles between images, but also potentially transferring some meaning as well. You can see this in action when I took <a href="http://algorithmic.rotoscope.work/2017/02/06/algorithmic-reflections-on-the-immigration-debate/">a nazi propaganda poster and applied to it to photo of Ellis Island</a>, or I took an <a href="http://algorithmic.rotoscope.work/2017/02/14/the-russian-propaganda-distortion-field-around-the-white-house/">old Russian propaganda poster and applied to images of the White House</a>. I a sense, I was able to transfer some of the 1000 words applied to the propaganda posters and transfer them to new photos I had taken.</p>
+<p>It's easy to think you will make a new image into a piece of art by training a model on a piece of art and transferring it's characteristics to a new image using machine learning. Where I find the real value is actually understanding collections of images, while also being aware of the style transfer process, and thinking about how images can be trained and applied. However, this only gets you so far, there has to still be some value or meaning in how it's being applied, accomplishing a specific objective and delivering some sort of meaning. If you are doing this as part of some graphic design work it will be different than if you are doing for fun on a mobile phone app with your friends.</p>
+<p>To further stimulate my imagination and awareness I'm looking through a variety of open image collections, from a variety of institutions:</p>
+<ul>
+<li><strong><a href="https://dp.la/">Digital Public Library of America (DPLA)</a></strong> -&nbsp;The DPLA is a platform. Developers make apps that use the library&rsquo;s data in many different ways.</li>
+<li><strong><a href="https://www.flickr.com/photos/britishlibrary/">The British Library</a>&nbsp;-&nbsp;</strong>A collection of over 1 million public domain images from digitized copies of 17th, 18th, and 19th-century books.</li>
+<li><strong><a href="http://www.europeana.eu/portal/">Europeana</a>&nbsp;-&nbsp;</strong>Explore millions of items from a range of Europe's leading galleries, libraries, archives and museums.</li>
+<li><strong><a href="http://www.loc.gov/rr/print/">The Library of Congress Prints &amp; Photographs Reading Room</a>&nbsp;- </strong>Photographs, historical prints, posters, cartoons, documentary drawings, fine prints, and architectural and engineering designs.</li>
+<li><strong><a href="http://www.metmuseum.org/research/image-resources#scholarly">Metropolitan Museum of Art</a>&nbsp;-&nbsp;</strong>Selected artworks are available under the Open Access for Scholarly Content (OASC) license.</li>
+<li><a href="http://www.nasa.gov/multimedia/imagegallery/index.html"><strong>National Aeronautics and Space Administration (NASA) Image Galleries</strong></a>: Public domain photos.</li>
+<li><strong><a href="http://www.nypl.org/publicdomain">The New York Public Library Digital Collections</a>&nbsp;-&nbsp;</strong>Digital collections of&nbsp;high resolution&nbsp;prints, images, and maps with no known copyright restrictions. Rights statement included for individual items.</li>
+<li><strong><a href="https://hsl.osu.edu/resources/subject-guides/guide/digital-image-collections">The Ohio State University Health Sciences Library Digital Image Collections</a>&nbsp;-&nbsp;</strong>A list of resources available through the OSU Health Science Library.</li>
+<li><strong><a href="http://phil.cdc.gov/phil/">Public Health Image Library (PHIL)</a>&nbsp;-&nbsp;</strong>Provided by the Centers for Disease Control and Prevention.&nbsp;</li>
+<li><strong><a href="http://archive.samuelzeller.ch/">Samuel Zeller Archive</a>&nbsp;-&nbsp;</strong>Professional photographs available under a Creative Commons Attribution (CC BY) license.</li>
+<li><strong><a href="https://search.usa.gov/search/images?affiliate=usagov&amp;query=">U.S. Government Photos and Images</a>&nbsp;-&nbsp;</strong>A collection of photo and image galleries for multiple federal government agencies.&nbsp;</li>
+</ul>
+<p>I am also using some of the usual suspects when it comes to searching for images on the web:</p>
+<ul>
+<li><strong><a href="https://www.google.com/imghp">Google Image Search</a>&nbsp;-&nbsp;</strong>The old standby place to work through ideas.</li>
+<li><strong><a href="https://www.flickr.com/creativecommons/">Flickr: Creative Commons</a>&nbsp;-&nbsp;</strong>Many Flickr users have chosen to offer their work under a Creative Commons license, and you can browse or search through content under each type of license.</li>
+<li><strong><a href="https://www.flickr.com/commons">Flickr: The Commons</a>&nbsp;-&nbsp;</strong>Includes photos with&nbsp;<a href="https://www.flickr.com/commons/usage/">&ldquo;no known copyright restrictions&rdquo;</a>&nbsp;uploaded by participating cultural institutions.</li>
+<li><strong><a href="https://archive.org/index.php">Internet Archive</a>&nbsp;-&nbsp;</strong>Contains books, movies, software, music, and more.</li>
+<li><strong><a href="http://www.pond5.com/free">pond5 Public Domain Project</a>&nbsp;-&nbsp;</strong>Public domain images. Registration/free account required to download materials.&nbsp;</li>
+<li><strong><a href="http://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>&nbsp;-&nbsp;</strong>A database of&nbsp;<a href="https://commons.wikimedia.org/wiki/Commons:Reusing_content_outside_Wikimedia">freely usable</a>&nbsp;media files to which&nbsp;anyone can contribute.</li>
+</ul>
+<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/propaganda_poster_transfer_1.jpg" alt="" width="40%" align="right" /></p>
+<p>I am working on developing specific categories that have relevance to the storytelling I'm doing across my blogs, and sometimes to help power my&nbsp;partners work as well. I'm currently mining the following areas, looking for interesting images to train style transfer machine learning models:</p>
+<ul>
+<li><strong>Art</strong> - The obvious usage for all of this, finding interesting pieces of art that make your photos look cool.</li>
+<li><strong>Video Game -</strong> I find video game imagery to provide a wealth of ideas for training and applying image style transfers.</li>
+<li><strong>Science Fiction </strong>- Another rich source of imagery for the&nbsp;training of image style transfer models that do cool things.</li>
+<li><strong>Electrical</strong> - I'm finding circuit boards, lighting, and other electrical imagery to be useful in training models.</li>
+<li><strong>Industrial</strong> - I'm finding industrial images to work for both sides of the equation in training and applying models.</li>
+<li><strong>Propaganda</strong> - These are great for training models, and then transferring the texture and the meaning behind them.</li>
+<li><strong>Labor</strong> - Similar to propaganda posters, potentially some emotional work here that would transfer significant meaning.</li>
+<li><strong>Space</strong> - A new one I'm adding for finding interesting imagery that can train models, and experiencing what the effect is.</li>
+</ul>
+<p>As I look through more collections, and gain experience training style transfer models, and applying models, I have begun to develop an eye for what looks good. I also develop more ideas along the way of imagery that can help reinforce the storytelling I'm doing across my work. It is a journey I am hoping more librarians, museum curators, and collection stewards will embark on. I don't think you need to learn the inner workings of machine learning, but at least develop enough of an understanding that you can think more critically about the collection you are knowledgeable about.&nbsp;</p>
+<p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/propaganda_poster_transfer_2.jpg" alt="" width="40%" align="right" /></p>
+<p>I know Jason would like to help you, and I'm more than happy to help you along in the process. Honestly, the biggest hurdle is money to afford the GPUs for training the image. After that, it is about spending the time finding images to train models, as well as to apply the models to a variety of imagery, as part of some sort of meaningful process. I can spend days looking through art collection, then spend a significant amount of AWS budget training machine learning models, but if I don't have a meaningful way to apply them, it doesn't bring any value to the table, and it's unlikely I will be able to justify the budget in the future.</p>
+<p>My algorithmic rotoscope work is used throughout my writing&nbsp;and helps influence the stories I tell on <a href="http://apievangelist.com">API Evangelist</a>, <a href="http://kinlane.com">Kin Lane</a>, <a href="http://dronerecovery.org">Drone Recovery</a>, and now <a href="http://contrafabulists.com">Contrafabulists</a>. I invest about $150.00 / month training to image style transfer models, keeping a fresh number of models coming off the assembly line. I have a variety of tools that allow me to apply the models using <a href="http://algorithmia.com">Algorithmia</a> and now <a href="http://somatic.io">Somatic</a>. I'm now looking for folks who have knowledge and access to interesting image collections, who would want to learn more about image style transfer, as well as graphic design and print shops, mobile application development shops, and other interested folks who are just curious about WTF image style transfers are all about.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/machine-learning-style-transfer-for-museums-libraries-and-collections/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/the-russian-propaganda-distortion-field-around-the-white-house/">The Russian Propaganda Distortion Field Around The White House</a></h3>
+      <span class="post-date">14 Feb 2017</span>
+      <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/propagandaleaflets.jpg" alt="" width="25%" align="right" /></p>
+<p>I am having a difficult time reconciling what is going on with the White House right now. The distortion field around the administration right now feels like some bad acid trip from the 1980s, before I learned how to find the good LSD. After losing their shit over her emails and Benghazi, they are willing to overlook Russia fucking with our election on so many levels and infiltrating the White House. Wacky. Just fucking wacky!</p>
+<p>The way Russia has fed the poor folk in this country a steady diet of bullshit is pretty crafty, as well as disturbing. Their approach to disinformation has dovetailed nicely with the approach of the GOP in this country. As usual, I am trying to understand and visualize the algorithmic distortion in this conversation, and how our current administration could be so heavily under the influence of Russian propaganda.</p>
+<p>I'm going through Russian propaganda archives looking for the right colors and textures to shine a light on the algorithmic distortion raining down on the White House as part of this ongoing&nbsp;Russian cyber attack. I'm using the posters I've found to train some machine learning models, and the first one has come off the cloud pipeline and was ready for applying to some images to see what the effect might be. I started with a couple photos I've taken of the White House. One from the lawn, and one from inside the Eisenhower Executive Office Building (EEOB) while I was working there.&nbsp;</p>
+<p>I like the results. It makes it look like the distortion field around the White House are just dense pamphlets raining down from above, dens like Internet packets aggregating&nbsp;on a wireless&nbsp;network fighting to get in. It's fascinating to watch people be so willfully ignorant to see the algorithmic distortion around them. Even with all the talk of wireless, mobile, the web, and cyber warfare. They don't see how they are under assault from information and disinformation--something the Russians seem to excel at.</p>
+<p>There are 3 other posters being used to train machine learning models right now. I can only do one at a time and each one takes about 12 hours. Then it will take me about another week or so of applying them to images to find what works and doesn't work with the filters. I have about 40 individual filters currently, and I have been focusing heavily on dystopian textures in the previous round. I am thinking that this round I'll focus on colors and textures I can use to highlight the effects of the cyber on our reality -- I hear it is going to be huge.&nbsp;</p>
+<p>Here is the look from next door....</p>
+<p><img style="padding: 3px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/white_house_window_propaganda_leaflets.jpg" alt="" width="99%" /></p>
+<p>Here is the view from the front lawn...</p>
+<p><img style="padding: 3px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/white_house_lawn_propaganda_leaflets.jpg" alt="" width="99%" /></p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/the-russian-propaganda-distortion-field-around-the-white-house/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/algorithmic-reflections-on-the-immigration-debate/">Algorithmic Reflections On The Immigration Debate</a></h3>
+      <span class="post-date">06 Feb 2017</span>
+      <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/naziposter.jpeg" alt="" width="25%" align="right" /></p>
+<p>We are increasingly looking through an algorithmic lens when it comes to politics in our everyday lives. I spend a significant portion of my days trying to understand how algorithms are being used to shift how we view and discuss politics. One of the ongoing themes in my research is focused on machine learning, which is an aspect of technology currently being applied to news curation, identifying fake news, all the way to how we monitor and see the world online with images and video.&nbsp;</p>
+<p>Algorithms are painting a real-time picture that colors how we see the physical world around us--something that is increasingly occurring online for many of us. Because many of the creators of algorithms are white men, they often are blind and even willfully ignorant of how their algorithms and technological tools are used for evil purposes. With a focus on revenue and the interests of their investors, Twitter, Facebook, Reddit and other platforms often do not see (or are willing to turn a blind eye to) how hateful groups are using their platforms to spread misinformation and hate. When you combine this with a lack of awareness when it comes history, we end up in the current situation we find ourselves in with the Trump administration.</p>
+<p>As part of my work to understand how algorithms are shaping our world views I am playing with different ways of applying machine learning to my images and videos for use across my storytelling -- I am calling&nbsp;<a href="https://twitter.com/algorotoscope">@algorotoscope</a>. It's helping me understand how machine learning works (or not), while also giving me an artistic distraction from the increasingly inhuman world of technology. Taking photos and videos, as well as the process of training and applying the filters gives me relief, allowing me to find some balance in the very toxic digital environment I find myself in today.</p>
+<p>I feel that we are allowing algorithms to amplify some very hateful views of the world right now, something that is being leveraged to produce some very damaging outcomes in the immigration debate. To help paint a picture of what I'm seeing from my vantage point, I took an old World War II nazi propaganda poster and used it to train a machine learning model, which I could then apply to any image or video using a platform called <a href="http://algorithmia.io">Algorithmia</a>. Here is the resulting image....</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/ellisisland_nazi_poster.jpg" alt="" width="100%" /></p>
+<p>The image is a photo I took from the waiting area at Ellis Island, with sunlight reflecting through the windows, lighting up the tiles in the room where millions of immigrants waiting to be admitted into this country. I feel like we are allowing our willful ignorance of history as Americans to paint the immigration debate today, something that is being accelerated and fueled by a small hateful portion of our society, with the assistance of algorithms. Facebook, Twitter, Reddit, and other platforms are allowing their algorithms to be gamed by this very vocal minority in a way that is shaping the views of the larger population--making for a very destructive and divisive debate about something very core to our country's origin -- immigration.</p>
+<p>If we are going to get to the bottom of this recent shift in how we operate as a society, we are going to have to work to shine a light on how these algorithms are operating, and how advertising is incentivizing platforms to be blind to their damaging effects. We are allowing algorithms and digital technology to reflect and amplify the worst within us&nbsp;and pushing us to be more polarized. I'm hoping to continue stimulating a more constructive conversation about how technology is being deployed, one that is NOT fueled by greed or hate, through my storytelling, programming, and imagery.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/algorithmic-reflections-on-the-immigration-debate/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/when-the-companies-who-have-all-your-digital-bits-promise-not-to-recreate-you/">When The Companies Who Have All Your Digital Bits Promise Not To Recreate You</a></h3>
+      <span class="post-date">14 Jan 2017</span>
+      <p><a href="http://apievangelist.com/2017/01/09/the-api-driven-marketplace-that-is-my-digital-self/">I'm thinking about my digital bits a lot lately</a>. Thinking about the digital bits that I create, the bits I generate automatically, the bits I own, the bits I do not own, and how I can make a living with just a handful of my bits. I have an inbox full of people who want me to put my bits on their websites, and people who want to put their bits on my platform&nbsp;so that they are associated with my brand, increasing the value of their bits. I know people think I'm crazy (I am) when I talk so much about my bits in this way, but it is a just response to my front-row seat watching companies getting pretty wealthy off all of our bits. #BlueManGroup</p>
+<p>Obviously, this is not a new phenomenon, and we've heard stories about <a href="http://www.billboard.com/articles/news/7341570/prince-death-legal-legacy-contract-fights-copyright-battles">Prince</a>, <a href="https://www.theguardian.com/culture/2000/jul/11/artsfeatures3">John Fogerty</a>, and <a href="http://www.npr.org/sections/therecord/2012/06/06/154451399/george-clinton-fights-for-his-right-to-funk">George Clinton fighting for the funk</a> and ownership of their musical bits, something artists of all types have had to battle on all fronts, throughout their careers. Lately, I have I have found myself sucked in listening to stories from Carrie Fisher in her documentaries, better understanding her struggles to maintain a voice in the merchandising, representation and control over her likeness, and her most famous role--Princess Leia. &lt;3</p>
+<p><img style="padding: 15px; display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/princess_leia_blue_circuit.jpg" alt="" width="95%" /></p>
+<p>Carrie Fisher made Prince Leia the icon she is today. However, she did it on the LucasFilm platform. How much does LucasFilm own, and how much does Carrie Fisher own? How dependent are they on her, and how dependent is she on them. Something that has been intensely&nbsp;worked out between lawyers since the 1970's. Now that she has passed, I'm sure her estate will continue to take on LucasFilm on this front, but the company has so many of her video, audio, and images (her bits), that they can possibly recreate her for future movies if they desired.</p>
+<p>As I'm thinking about my own bits, and the control, or lack of control I have over these this week, I'm also reading that&nbsp;<a href="http://www.starwars.com/news/a-statement-regarding-new-rumors">Lucasfilm released a statement that</a>:</p>
+<p style="padding-left: 30px;"><em>We want to assure our fans that Lucasfilm has no plans to digitally recreate Carrie Fisher&rsquo;s performance as Princess or General Leia Organa.</em></p>
+<p>Remember the <a href="http://www.billboard.com/articles/columns/the-juice/494288/opinion-the-problem-with-the-tupac-hologram">Tupac</a> and <a href="http://www.billboard.com/articles/events/bbma-2014/6092040/michael-jackson-hologram-billboard-music-awards">Michael Jackson</a> holograms? The precedent for digitally recreate all of&nbsp;or the parts of pieces (bits) of a human is&nbsp;out there. Let me stop here. I'm not talking about anything remotely in realm of the singularity, I'm simply talking about what is possible with existing technology using video, audio, images, and text content generated from or containing the fingerprint of a certain human being (me). I know that some geeks love to masturbate to this shit, but I'm just talking about some of you delusion mother-fuckers realizing there is a lot of money to be off of someone else's hard work, or even just their human existence. #Exploitatification</p>
+<p>The platformification of everything is all about getting people to come do shit on your platform, and making money doing this--I just happen to study this stuff for a living&nbsp;and possess a borderline unhealthy obsession on the subject (#help). Carrie Fisher had to learn the hard way how to fight for what is hers, back when she was a young adult, something that continued throughout her life. With advances in technology this battle has evolved, morphed, and changed, with the greatest amount of control and power always existing in the hands of the platform (Lucasfilm) operator, who has the most lawyers.&nbsp;</p>
+<p>if you publish anything on the web regularly you know that there are folks who immediately copy your shit and post elsewhere, trying to generate ad revenue--this is the lowest level of things out there. At the higher levels, we have Youtube, Facebook, Instagram, and others who want all your bits in their walled garden, where they can measure, track and run your bits through their "machine learning" and "artificial intelligence" algorithms (go&nbsp;<a href="https://apievangelist.com/2017/01/11/evernote-reaffirming-our-commitment-to-your-privacy/">Evernote</a>). Where they obtain a license and control over your videos, images, audio and other objects. Where their machine learning can learn to write like you, understand your behavior, where you go, what you like to buy, where you eat, and what you like to read and watch, think, and write in your journal.</p>
+<p>At what point can Facebook or Google launch an API channel that behaves just like what I perform as the API Evangelist. At what point can Amazon understand which algorithms are getting the most use, the most traction, and awareness, and access to the most data and content, and recreate all of this for themselves, within their domain, presented as the latest AWS offering. <a href="https://www.wired.com/2016/09/how-to-steal-an-ai/">You know why platform operators are afraid of folks stealing their AI through APIs?</a> Because it is the reverse of their business model, training their algorithms using your bits, and providing a plantation for developers to tend to, cultivate, and grow the best crops.&nbsp;</p>
+<p>Thankfully I am a human being, and no amount of AI, machine learning, and algorithms will ever replace me, and what I do, but it doesn't mean that there won't be endless corporations willing to step up and exploit, profit from my existence as said human being. <a href="http://apievangelist.com/2017/01/09/the-api-driven-marketplace-that-is-my-digital-self/">As I struggle to understand my digital self</a>, and make ends meet for my physical self, I just had to take pause, and point out that a corporation just promised to a bunch of human beings that they would not be digitally recreating another beloved human being, simply so they could profit from the hard work she did as a living human being. It leaves me wondering if Lucasfilm will always have this attitude, and whether or not other companies like Facebook and Oculus Rift will have similar ethical stances, and not use all of us in their&nbsp;social and VR bubbles productions.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/when-the-companies-who-have-all-your-digital-bits-promise-not-to-recreate-you/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/algorithmias-multiplatform-data-storage-solution-for-machine-learning-workflows/">Algorithmia&#039;s Multi-Platform Data Storage Solution For Machine Learning Workflows</a></h3>
+      <span class="post-date">06 Jan 2017</span>
+      <p>I've been working with <a href="http://algorithmia.io">Algorithmia</a> to manage a large number of images as part of&nbsp;<a href="http://image.rotoscope.work/">my algorithmic rotoscope side project</a>, and they have a really nice omni-platform approach to allowing me to manage my images and other files I am using in my machine learning workflows. Images, files, and the input and output of heavy object is an essential part of almost any machine learning task, and Algorithmia makes easy to do across the storage platforms we use the most (hopefully).&nbsp;</p>
+<p>Algorithmia provides you with local data storage--pretty standard stuff, but they also allow you to connect your Amazon S3 account, or your Dropbox account, and connect to specific folders, buckets, while helping you handle all of your permissions. Maybe I have my blinders on with this because I heavily use Amazon S3 as me default online storage, and Dropbox is my secondary store, but I think the concept still is worth sharing..</p>
+<p><img style="padding: 15px; display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/screen_shot_2017_01_06_at_11.14.26_am.png" alt="" width="90%" align="center" /></p>
+<p>This allows me to seamlessly manage the objects, documents, files, and other images I store across my operation as part of my machine learning workflow. &nbsp;Algorithmia even provides you with an intuitive way of referencing files, by allowing each Data URI to uniquely identifies files and directories, with each composed of a protocol and a path, with each service having its own unique protocol:</p>
+<ul>
+<li><strong>data:// </strong>Algorithmia hosted data</li>
+<li><strong>dropbox:// </strong>Dropbox default connected accounts</li>
+<li><strong>S3://</strong> Amazon S3 default connected account</li>
+</ul>
+<p>This approach dramatically simplifies my operations when working with files, and allows me to leverage the API driven storage services I am already putting to work, while also taking advantage of <a href="https://algorithmia.com/algorithms">the growing number of algorithms available to me in Algorithmia's catalog</a>. In my algorithmic rotoscope project I am breaking videos into individual images, producing 60 images per second of video, and uploading to Amazon S3. Once images are uploaded, I can then run Algorithmia's Deep Filter algorithm against all images, sometimes thousands of images, using their text models, or any of the 25+ I've trained myself.&nbsp;</p>
+<p>This approach is not limited to just video and images, this is generic to any sort of API driven machine learning orchestration. Just swap out video and images, with mapping, content, or other resource, and then find the relevant machine learning workflow you need to apply, and get to work. While I am having fun playing with my drone videos and texture filters, the approach can be just as easily applied to streamline any sort of marchine learning workflow.</p>
+<p>One additional benefit of storing data this way is I've found Dropbox to be a really amazing layer for including humans in the workflow. I leverage Amazon S3 for my wholesale, compute grade storage, but Dropbox is where I publish images, videos, and documents that I need to put in front of humans, or include them in the machine learning workflow. I find this gives them a role in the process, in a way that gives them control over the data, images, videos, and other objects, on a platform they are already comfortable with. I'd encourage Algorithmia, and other providers to also consider including Google Drive as part of this--it would go a long way logically connected with the human portion of the wokflows.</p>
+<p>Anyways, I thought Algorithmia's approach to storage was interesting, worth highlight, and something that other providers might consider implementing themselves.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/algorithmias-multiplatform-data-storage-solution-for-machine-learning-workflows/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/finding-the-right-dystopian-filter-to-represent-the-world-unfolding-around-us/">Finding The Right Dystopian Filter To Represent The World Unfolding Around Us</a></h3>
+      <span class="post-date">03 Jan 2017</span>
+      <p><a href="https://apievangelist.com/2017/01/03/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/">I got sucked into a project over the holidays</a>, partly because it was an interesting technical challenge, but mostly because it provided me with a creative distraction after the election. I started playing with image filters from Algorithmia, using <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">their Deep Filter service</a>, which some may recognize as being similar to services like <a href="http://prisma-ai.com/">Prisma</a>. The difference is with Algorithmia is you can use their 30+ filters, or if you want you can <a href="http://blog.algorithmia.com/training-style-transfer-models/">train your own image filters using their AWS machine learning AMI</a>.</p>
+<p>As I was playing with Algorithmia after the election, I had many images in my head of the dystopian landscape that is unfolding around us. Many of these images were reminiscent of my childhood in the 70's and 80's, during the cold war, where the future perpetually seemed very bleak to me. I wanted a way to take these images from my head and apply to the photos I was taking, and even better, what if I could to it to the video, and more specifically, <a href="http://dronerecovery.org">the drone videos I am making</a>. Four weeks later, I have gotten to the first set of filters, that when applied to my photography that gets me closer to the visions I had in my head.</p>
+<p>Here is an original photo taken&nbsp;by me on January 2nd, 2017 in East Los Angeles:</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/original/file-00_00_00_00.jpg" alt="" width="100%" /></p>
+<p>Next, I wanted to reduce the world around us to be less than real, comic, or drawn. I wanted a way to algorithmically reduce the outlines of the world into something that resembled our real world, to make things as familiar as possible, but then quickly bending and skewing it, so that I could help us see how dark things are becoming.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alberto_giacometti/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>To borrow a phrase from my partner in crime, I wanted to be able to reduce everything I captured in my photography and videos down to a transaction. I wanted to show us how the world around us is being digitized, de-humanized, and rendered into an even more hostile landscape, that has very little concern for the humans living in it.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_circuit/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I wanted to be able to go even further and visualize how noisy the world has become, not because of cars and airplanes, but because of our bits and bytes that were flowing around us every day. Help us visualize the constant assault on us, the people we love, and that increasingly there is no escape from this constant assault--it is in our homes, cars, business, and public spaces.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/matrix/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I want to paint a dark dystopian digital landscape, but ultimately I want as wide as a possible palette as I can. I needed an algorithmic palette of colors and textures that were born from the true artists who came before us, making the colors and textures familiar, and even soft before I took things to a much darker level. I didn't want to just shock, I wanted to slowly shift the world around us down a dystopian road.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/emily_carr/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Transforming&nbsp;our world into a cartoon or painting in a way that didn't make you feel completely uncomfortable. You were slowly slipping into a dream, falling asleep, and things haven't gotten too scary yet. The world is still familiar, with bright and colorful elements that still keep you smiling, and hopeful that things will get better--believing in the story I was telling.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crafty_painting/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Then slowly I want to be able to turn up the heat. Allowing the sun to set on the world you once knew. Then begin to reveal some of the darker outlines of the shadows and some of the darker aspects of our reality. Bringing some of the scarier aspects of the unfolding world around us out of the dark, and into the open.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_two/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Then looking to make you feel like you just dropped a substantial hit of LSD, allowing the sun to set on reality, where we let all the demons out to play and roam the streets. If you still live on the 10th floor or above the world might still look beautiful, but if you live on the ground floor, the world is a very scary place, where nobody is safe.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Something that will eventually affect everyone. The rich, the poor. Nobody will be safe, and nobody is immune from the dystopian effects technology and politics is having on our world. Just because you do not see the negative effects of the surveillance economy on your floor, doesn't mean it won't eventually reach you--at some point, we'll all be impacted.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_dali/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I wanted to play with ways of taking us back in time. Take modern images, and make them feel like we were in the 50's, 40's, or any other decade or time period the conservatives want us to live in. I needed filters to apply to the current photos and videos I was taking, and shift them in time, keeping some of the context, while also allowing me to tell other stories that take us anywhere in the past.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_dresden/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I wanted a variety of ways to visualize the impending doom on the horizon. I wanted to be able to force the sun to set on the current day and paint an ominous picture what will happen once the sun goes down, and tomorrow begins. What did we do today, that will impact us tomorrow? How can I paint a picture that grabs our attention and potentially avoid a darker tomorrow?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>And as the world begin to bend out of control, and we begin to lose our grip on reality, how can I point out how dark things are on the landscape, and show you that things are slipping? What is the right color palette, and texture for showing us that we are slipping into a darker reality, and potentially going down a road where there is no return?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/marcel_duchamp/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>In the same way, how to I paint a hopeful picture of tomorrow, either as the sun is setting, or right before it is coming up? Things might be a little dark, but this is a new day, and there is a little hope out there if do the right thing today, or maybe not make the same mistakes today that we made yesterday.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/diego_rivera1/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>How do I articulate depression, and the mental illness around us, which we are in denial of? How do I take the color out of everything that matters to us, suck all the hot air out of the marketing hype and advertising polish that exists everywhere? How do I limit the color palette we have access to be more realistic, allowing us to have an honest conversation about what the fuck is really going on?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_color/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Most importantly, how do I avoid us heading down the darkest, most dystopian landscapes we can imagine? How do I make textures, colors, and filters that show the bombed out landscape ahead of us if we do not pull our shit together? How can I take the buildings, streets, and roads around us, and make the main street look like Syria, reminding us of what is just around the corner?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crabapple/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>This is just the beginning. I have trained 25 separate filters, using <a href="http://blog.algorithmia.com/training-style-transfer-models/">Algorithmia's style transfer model machine learning process</a>. I have another week or so of training these filters. I'm also working to gather more video and image footage that I can apply these filters. At each step of the process 1) capture images, 2) train models 3) apply filters I am learning a lot, something I hope never really ends. Training filters are costly, so I won't be able to continue indefinitely, but I wanted to mark the point on the calendar where I had achieved the results I had envisioned early on in my head.&nbsp;</p>
+<p>Now I just ned to rinse and repeat. I am going to the US / Mexico border next week to gather some footage, and I will be going to DC later this month for some work, where I will also be working to gather some valuable footage. By then I am hoping I have a palette of about 50 separate machine learning filters I can apply to images and to videos using my algorithmic rotoscope process. &nbsp;Then I should have enough footage to begin telling more stories about the world around us, and help quantify the uneasy feelings we are all having about the world unfolding around us.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/finding-the-right-dystopian-filter-to-represent-the-world-unfolding-around-us/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/exploring-the-economics-of-wholesale-and-retail-algorithmic-apis/">Exploring The Economics of Wholesale and Retail Algorithmic APIs</a></h3>
+      <span class="post-date">03 Jan 2017</span>
+      <p><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/algorithmia_pricing.png" alt="" width="45%" align="right" /></p>
+<p>I got sucked into <a href="http://apievangelist.com/2017/01/03/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/">a month long project applying machine learning filters to video over the holidays</a>. The project began with me doing the research on the economics behind Algorithmia's machine learning services, specifically <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">the DeepFilter algorithm in their catalog</a>. My <a href="http://algorithmic.rotoscope.work">algorithmic rotoscope</a> work applying Algorithmia's Deep Filters to images and drone videos has given me a hands-on&nbsp;view of Algorithmia's approach to algorithms, and APIs, and the opportunity to think pretty deeply about the economics of all of this. I think Algorithmia's vision of all of this has a lot of potential for not just image filters, but any sort of algorithmic and machine learning API.</p>
+<p><strong>Retail Algorithmic and Machine Learning APIs</strong><br />Using <a href="http://algorithmia.io">Algorithmia</a> is pretty straightforward. With their API or CLI you can make calls to a variety of algorithms in their catalog, in this case<a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter"> their DeepFilter solution</a>. All I do is pass them the URL of an image, what I want the new filtered image to be called, and the name of the filter that I want to be applied. Algorithmia provides an API explorer you can copy &amp; paste the required JSON into, or they also provide a demo application for you to use--no JSON required.&nbsp;</p>
+<p><strong>Training Your Own Style Transfer Models Using Their AWS AMI</strong><br />The first "rabbit hole" concept I fell into when doing the research on Algorithmia's model was <a href="/admin/blog/blog.algorithmia.com/training-style-transfer-models/">their story on creating your own style transfer models</a>, providing you step by step details on how to train them, including a ready to go AWS AMI that you can run as a GPU instance. At first, I thought they were just cannibalizing their own service, but then I realized it was much more savvier than that. They were offloading much of the costly compute resources needed to create the models, but the end product still resulted in using their Deep Filter APIs.&nbsp;</p>
+<p><strong>Developing My Own API Layer For Working With Images and Videos</strong><br />Once I had experience using Algorithmia's deep filter via their API, and had produced a handful of my own style transfer models, I got to work designing my own process for uploading and applying the filters to images, then eventually separating out videos into individual images, applying the filters, then reassembling them into videos. The entire process, start to finish is a set of APIs, with a couple of them simply acting as a facade for Algorithmia's file upload, download, and DeepFilter APIs. It provided me with a perfect hypothetical business for thinking through the economics of building on top of Algorithmia's platform.</p>
+<p><a href="https://algorithmia.com/pricing"><img style="padding: 15px; display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/algorithmia_pricing_how_it_works.png" alt="" width="75%" align="center" /></a></p>
+<p><strong>Defining My Hard Costs of Algorithmia's Service and the AWS Compute Needed</strong><br />Algorithmia provides <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">a pricing calculator along with each of their algorithms</a>, allowing you to easily predict your costs. They charge you per API call, and the compute usage by the second. Each API has its own calculator, and average runtime duration costs, so I'm easily able to calculate a per image cost to apply filters--something that exponentially grows when you are applying to 60 frames (images) per second of video. Similarly, when it comes to training filter models using AWS EC2 GUP instance, I have a per hour charge for compute, storage costs, and (now) a pretty good idea of how many hours it takes to make a single filter.&nbsp;</p>
+<p>All of this gives me some pretty solid numbers to work with when trying to build a viable business built on top of Algorithmia. In theory, when my customers use my algorithmic rotoscope image or video interface, as well as the API, I can cover my operating costs, and generate a healthy profit by charging a per image cost for applying a machine learning texture filter. What I really think is innovative about Algorithmia's approach is that they are providing an AWS AMI to offload much of the "heavy compute lifting", with all roads still leading back to using their service. It is a model that could quickly shift algorithmic API consumers to be more wholesale / volume consumers, from being just a retail level API consumer.</p>
+<p>My example of this focuses on images and video, but this model can be applied to any type of algorithmically fueled APIs. It provides me with a model of how you can safely open source the process behind your algorithms as AWS AMI and actually drive more business to your APIs by evolving your API consumers into wholesale API consumers. In my experience, many API providers are very concerned with malicious users reverse engineering their algorithms via their APIs, when in reality, in true API fashion, there are ways you can actually open up your algorithms, make them more accessible, and deployable, while still helping contribute significantly to your bottom line.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/exploring-the-economics-of-wholesale-and-retail-algorithmic-apis/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/">Learning About Machine Learning APIs With My Algorithmic Rotoscope Work</a></h3>
+      <span class="post-date">03 Jan 2017</span>
+      <p><a href="http://algorithmic.rotoscope.work"><img style="padding: 15px;" src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/valleyrivertreeline/clean_view/file-00_01_06_83.jpg" alt="" width="40%" align="right" /></a></p>
+<p>I was playing around with <a href="https://algorithmia.com">Algorithmia</a> for a story about their business model back in December, when I got sucked into playing with their <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">DeepFilter service</a>, resulting in a 4-week long distraction which ultimately became what I am calling my&nbsp;<a href="http://algorithmic.rotoscope.work">algorithmic rotoscope</a>&nbsp;work. After weeks of playing around, I have a good grasp of what it takes to separate videos into individual images, applying the&nbsp;Algorithmia&nbsp;machine learning filters, and reassembling them as videos. I also have several of my own texture filters created now using <a href="http://blog.algorithmia.com/training-style-transfer-models/">the AWS AMI and process provided&nbsp;Algorithmia</a>--you can <a href="http://algorithmic.rotoscope.work/updates/">learn more about algorithmic rotoscope, and details of what I did via the Github project updates</a>e.</p>
+<p>The project has been a great distraction from what I should be doing. After the election, I just did not feel like doing my regular writing, scheduling of Tweets, processing of press releases, and the other things I do on a regular basis. Algorithmic Rotoscope provided a creative, yet a&nbsp;still very API focused project to take my mind off things during the holidays. It was a concept I couldn't get out of my head, which is always a sign for me that I should be working on a project. The work was more involved than I anticipated, but after a couple weeks of tinkering, I have the core process for applying filters to videos working well, allowing me to easily apply the algorithmic textures.</p>
+<p>Other than just being a distraction, this project has been a great learning experience for me,&nbsp;with several aspects keeping me engaged:</p>
+<ul>
+<li><strong><a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">Algorithmia's Image Filters</a>&nbsp;</strong> - Their very cool DeepFilter service, which allows you to apply artistically and stylish filters to your images using their API or CLI, providing over 30 filters you can use right away.</li>
+<li><strong><a href="http://blog.algorithmia.com/training-style-transfer-models/?ref=demo">Training Style Transfer Models</a> -</strong> Firing up an Amazon GPU instance, look through art books and find interesting pieces that can be used to train the machine learning models, so you can define your own filters.</li>
+<li><strong><a href="http://image.rotoscope.work/">Applying Filters To Images</a></strong> - I spent hours playing with Algorithmia's filters, applying to my photo library, experimenting, and playing around with what looks good, and what is possible.</li>
+<li><strong><a href="http://algorithmic.rotoscope.work/">Applying Filters To Videos</a></strong> - Applying Algorithmia's, and my own filters video I have laying around, especially what is possible when applied to the GB's of drone video I have laying around, something that is only going to grow.</li>
+</ul>
+<p>Why is this an API story? Well, first of all, it uses the Algorithmia API, but I also developed the separation of the videos, applying filters to images, and reassembling the videos as an API. It isn't anything that is production stable, but I've processed thousands of images, many minutes of video, and made over 100K API calls to Algorithmia. Next, I am going to write-up Algorithmia's business model, using my algorithmic rotoscope work as a hypothetical API-driven business--helping me think through the economics of building a SaaS or retail API solution on top of Algorithmia.&nbsp;</p>
+<p>Beyond being an API story, it has been a lot of fun to engineer, and play with. I still have a GPU instance fired up, training filters, as well as recording more drone and other video footage specifically so I can apply some of the new filters I've produced. I have no intention of doing it as a business. algorithmic rotoscope is just a side project, that I hope will continue to be a creative distraction for me, and give me another reason to keep flying drones, and getting away from the computer when I can. In the end I am learning a lot about drones, videography, and machine learning, but the best of all it has helped me regain my writing mojo--with this being the first post I've written on API Evangelist since LAST YEAR! ;-)</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/make-it-an-api-driven-publishing-solution/">Make It An API Driven Publishing Solution</a></h3>
+      <span class="post-date">16 Dec 2016</span>
+      <p>Once I had established a sort of proof of concept for my algorithmic rotoscope process, and was able to manually execute each step of the process from separating a video, and applying filters, to reassembling the video, I quickly refactored my prototype code to be API-first. I did this even before I built any sort of interface for executing and managing the process, as this would allow me to not just execute the process, it would also allow me to manage, extend, and scale as many algorithmic rotoscopes as I wanted.</p>
+<p>I'm not particularly proud of the API design, and think it is something that will evolve and change, as I push forward what is possible with my algorithmic rotoscope. I'm learning a lot along the way, and my focus in having an API is not to open up access to 3rd parties, but to allow me to scale my process, and efficiently run using Amazon Web Services, Algorithmia, and a handful of other APIs. Currently, I have about 25 separate paths for my API, which allows me to accomplish every step of the algorithmic rotoscope process. </p>
+<p>Currenlty my algorithmic rotoscope API runs on a single Amazon EC2 instance, which I am scaling vertically, meaning I just increase the size of the server instance when I want more to get done. However, having the entire process be API first, will allow me to easy scale horizontally, across multiple servers. This should allow me to isolate specific steps of the process, or several of them together, allowing me to scale the server separately for assembling and disassembling the videos--which can be pretty intensive.</p>
+<p>Once I have some time I will publish an OpenAPI Spec for the API. I don't have any intention on opening up the API for 3rd party usage, but I may be open to deploying Amazon instances for wholesale use, and partner access, at some point in the future. I am not looking to do this as a full blown startup idea, but is something I'd like to evolve on the side for my own uses, and potentially as a service for select clients. I will keep adding paths to my algorithmic rotoscope API, but for now I'll work to document, and refine the existing paths I have, and tell the story of the API--you know, practice what I preach and all. Even if my API isn't fully public, there is no reason the documentation, story, and results can't be public. </p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/make-it-an-api-driven-publishing-solution/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/unique-algorithmic-filters-is-where-it-is-at/">Unique Algorithmic Filters Is Where It Is At</a></h3>
+      <span class="post-date">15 Dec 2016</span>
+      <p>I am having a blast with <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">the image texture filters that Algorithmia includes as part of their DeepLearning service</a>. I've been playing with how each filter will behave when applied to different images. Some work better for the desert images, while others work best for water, and I'll apply to my waterfalls, lakes, and rivers. The process has been a welcome distraction, but where I really get lost thinking about the possibilities is when it comes to creating your own filters--an area I am just getting started with. </p>
+<p><a href="http://blog.algorithmia.com/training-style-transfer-models/">Algorithmia provides a pretty straightforward guide to creating your own filters</a>. Once you fire up the EC2 GPU instance, and follow their setup process, creating filters is pretty easy, but is also pretty addictive, depending on what kind of habit can afford. ;-) I have created six filters so far, but plan on creating more as soon as I get some money and more time. Just like applying the filters, training filters takes some practice, and experience training it against a variety of images, colors, textures, etc.</p>
+<p>Experience applying filters to a variety of images is important and valuable, but experience training and creating filters I think is where it is at. Being able to find just the right filter to apply to an image or images used in the video is valuable, but being able to identify and create and train exactly the right set of textures, colors, and filters could provide some really unique experiences. I'm not a big fan of the concept of intellectual property, but I could see knowledge of training your texture and filter algorithms against specific pieces of art, photographs, and elements from our physical worlds being a pretty potentially unique offering--something you'd want to keep secret.</p>
+<p>Some of the Algorithmia filters are loud and intense, which I like for some applications, but I'm finding their lighter touch, more artistic, and subtle filters have a wider range of uses. I'm applying these findings to the filters I'm training, but I need more experience applying existing filters, as well as the training of new filters. All of this takes a significant amount of compute and storage power--which costs money. I have made <a href="http://algorithmic.rotoscope.work">my algorithmic rotoscope</a> framework API-centric so that I can scale this and increase the number of videos I am able to process, as well as the number of filters I am able to create and add to the process.</p>
+<p>I am going to create around 10-15 more filters, then spend time just applying to see what I can produce. Then I'm hoping to have enough experience in applying and training to know what works best, what I like, and what compliments my approach to drone video capture. Eventually, I am hoping to establish my own unique set of filters and my own unique style in applying them to video using my algorithmic rotoscope process. </p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/unique-algorithmic-filters-is-where-it-is-at/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/opportunity-in-breaking-up-videos-into-separate-images/">Opportunity In Breaking Up Videos Into Separate Images</a></h3>
+      <span class="post-date">14 Dec 2016</span>
+      <p>I have been working my way through about 300 GB of drone and GoPro videos from this summer. One of the lingering thoughts I was having throughout this process centered around the concept of breaking videos up into individual slides. Once I stumbled across <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">Algorithmia's Deep Learning</a>, I found myself thinking about how I could break up videos into separate images, and apply algorithmic texture filters to each individual image, and then reassemble back into a video.</p>
+<p><a href="https://ffmpeg.org/">FFMPEG</a> stood out as the solution I needed to accomplish this. It was pretty easy to export each video as separate .jpg files, as well as the ability to assemble any images into a video. What did take me some time was getting the frame rate, size, and other finer aspects of video to work as I desired, and in sync with my drone videos. To achieve an acceptable video I needed 60 individual images for each second of video, potentially making the work a compute and storage intensive endeavor.</p>
+<p>Using Amazon EC2 and S3 it isn't too much work to leverage FFMPEG to break up videos into separate images. Once I did this, I started publishing a JSON representation of each video, along with each individual image to Github, leverage version control, forking, and the other benefits of the platform, but for use in managing a video, instead of code. This process has given each of my videos, a machine readable, Git managed the representation of each video for me to work with, manipulate, and evolve independently. </p>
+<p>When you combine the separation of video, with Github in this way, with an API-driven approach to separation, assembly, as well as individual and overall image manipulation, the possibilities are pretty limitless. After I separate out each video into images, I am then applying textures and filters to each individual image using Algorithmia's deep filters, a process that has numerous opportunities, but I think the wider approach holds more potential than just fun filters. This approach is the primary reason I did this work. Playing with the videos, filters, and images was a welcome distraction, but I think the opportunity around breaking up videos into separate images is much bigger than <a href="http://algorithmic.rotoscope.work">algorithmic rotoscope</a>.</p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/opportunity-in-breaking-up-videos-into-separate-images/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+      <h3><a href="/algorithmic-rotoscope/">Algorithmic Rotoscope</a></h3>
+      <span class="post-date">05 Dec 2016</span>
+      <p>I had come across <a href="https://arxiv.org/abs/1603.03417">Texture Networks: Feed-forward Synthesis of Textures and Stylized Image from Cornell University</a> a while back in my regular monitoring of the API space, so  I was pleased to <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">see Algorithmia building on this work with their Deep Filter project</a>. The artistic styles and textures you can apply to images is fun to play with, and even more fun when you apply at scale using their API. While this was fun, what really caught my attention was <a href="http://blog.algorithmia.com/training-style-transfer-models/">their post on their open source AWS AMI for training style transfer models</a>--where you can develop your own image filter.</p>
+<p>I fired up an AWS instance, and within 48 hours I had my first image filter. For some reason, I went to bed that night thinking about drone video footage and began wondering if I could apply Algorithmia's filters, as well as the custom filters I create to drone footage. The next day I started playing with my prototype, to see what was possible with applying this type of image filtering to videos.</p>
+<p>My approach has three distinct features:</p>
+<ul>
+<li><strong>Separate Video Into Images -</strong> Using <a href="https://ffmpeg.org/">FFMPEG</a>, I created a function that would take any video I gave it and separate it into an image for each second of the video, and write them all to a folder. </li>
+<li><strong>Apply Filters to Each Image -</strong> After uploading all the images for each video to Algorithm.io using their API, I would select one of their 30+ image filters or any of the filters I created.</li>
+<li><strong>Reassemble Video From Images -</strong> Once I've applied one of the algorithmic filters to all of the images I reassemble them back into a video.</li>
+</ul>
+<p>While the videos I've been able to produce so far are interesting enough, I am intrigued by the process of defining and applying the filters. There are a handful of things going on here for me:</p>
+<ul>
+<li><strong>Defining Of The Algorithms Behind Each Image Filter -</strong> I'm having a blast with the image filters that Algorithmia provide, but their work got me thinking about how I can train image filters specifically for being applied to video in this way. I'm learning a lot of about the training process--something I want to keep working on.</li>
+<li><strong>Applying Algorithmic Filters To Images At Scale (Videos) -</strong> The videos I am working with currently have been 500 and 2000 individual images after I separate the video. I am learning a lot about working with video at the individual slide level, and have a lot more work ahead of me.</li>
+<li><strong>Changing How I Take Videos Using My Drone </strong>- I have been applying this work to 4K video I either took myself or was present when it was taken. As I'm applying these filters I am hyper aware of where the sun was positioned, how the shadows of rocks, trees, and buildings play in, making think deeply about how I can design future drone shots.</li>
+</ul>
+<p><a href="http://algorithmia.io">Algorithmia</a> has enough filters to keep me interested for a while, but this is where I think the real value will exist--assembling well trained filters. If you can craft exactly the right filter, I think it can be used to define entirely new virtual landscape derived from the physical world around us. Some of the filters offer a pretty extreme shift in the video landscape, but some of them provide just enough polish to make you think you are in an alternate reality.</p>
+<p>I'm not sure where I'm going with this work. I'm finding it oddly soothing to define new filters, and apply them to my drone videos from this summer. For now, I'm just thinking of interesting filters to build and apply the filters to the videos I already have. It also has me thinking about how I can take my drone out to get more shots--from both natural and urban landscape. </p>
+<p>For near-term future, I'm just getting to know what the filters produce, and how certain drone shot(lighting, color, terrain) respond to each filter. It has me thinking a lot about what would make a good filter, and what types of images I can use to train image filter algorithms that can be applied in this way. If you want to learn more about what I'm doing you can <a href="https://github.com/kinlane/algo.rotoscope.work/issues">submit a commit via the Github issues for this project</a>, or <a href="http://kinlane.com/">you can contact me directly</a>. </p>
+
+      <ul class="actions" style="text-align: center;">
+        <li><a href="/algorithmic-rotoscope/" class="button big">Details</a></li>
+      </ul>
+    	<center><hr style="width: 75%;" /></center>
+  
+
+  </div>
+</section>
+
+              <footer>
+  <p align="center">
+    all of my work:
+    <a href="http://apievangelist.com">apievangelist.com</a> |
+    <a href="http://kinlane.com">kinlane.com</a> |
+    <a href="http://api.report">api.report</a> |
+    <a href="http://adopta.agency">adopta.agency</a> |
+    <a href="http://dronerecovery.org">dronerecovery.org</a> |
+    <a href="http://http://algorithmic.rotoscope.work/">algorithmic.rotoscope.work</a>
+  </p>
+</footer>
+
+
+            </div>
+          </div>
+
+          <div id="sidebar">
+          <div class="inner">
+
+            <nav id="menu">
+  <header class="major">
+    <h2>Menu</h2>
+  </header>
+  <ul>
+    <li><a href="/">Works</a></li>
+    <li><a href="/updates">Updates</a></li>
+    <li><a href="http://apievangelist.com">API Evangelist</a></li>
+    <li><a href="http://kinlane.com">Kin Lane</a></li>
+  </ul>
+</nav>
+
+
+            <section>
+  <div class="mini-posts">
+    
+    
+      
+        <article>
+          <a href="https://www.uptrends.com/solutions/api-monitoring" class="image"><img src="https://s3.amazonaws.com/kinlane-productions/uptrends/apievangelist-uptrends.png" alt="" width="50%" /></a>
+        </article>
+      
+    
+      
+        <article>
+          <a href="http://apis.how/ake3nxbapm" class="image"><img src="https://s3.amazonaws.com/kinlane-productions/partners/3scale-red-hat-logo.png" alt="" width="50%" /></a>
+        </article>
+      
+    
+  </div>
+</section>
+
+
+            
+          </div>
+          </div>
+
+      </div>
+
+      <script src="/assets/js/skel.min.js"></script>
+      <script src="/assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script>
+      /*
+      	Editorial by HTML5 UP
+      	html5up.net | @ajlkn
+      	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+      */
+
+      (function($) {
+
+      	skel.breakpoints({
+      		xlarge: '(max-width: 1680px)',
+      		large: '(max-width: 1280px)',
+      		medium: '(max-width: 980px)',
+      		small: '(max-width: 736px)',
+      		xsmall: '(max-width: 480px)',
+      		'xlarge-to-max': '(min-width: 1681px)',
+      		'small-to-xlarge': '(min-width: 481px) and (max-width: 1680px)'
+      	});
+
+      	$(function() {
+
+      		var	$window = $(window),
+      			$head = $('head'),
+      			$body = $('body');
+
+      		// Disable animations/transitions ...
+
+      			// ... until the page has loaded.
+      				$body.addClass('is-loading');
+
+      				$window.on('load', function() {
+      					setTimeout(function() {
+      						$body.removeClass('is-loading');
+      					}, 100);
+      				});
+
+      			// ... when resizing.
+      				var resizeTimeout;
+
+      				$window.on('resize', function() {
+
+      					// Mark as resizing.
+      						$body.addClass('is-resizing');
+
+      					// Unmark after delay.
+      						clearTimeout(resizeTimeout);
+
+      						resizeTimeout = setTimeout(function() {
+      							$body.removeClass('is-resizing');
+      						}, 100);
+
+      				});
+
+      		// Fix: Placeholder polyfill.
+      			$('form').placeholder();
+
+      		// Prioritize "important" elements on medium.
+      			skel.on('+medium -medium', function() {
+      				$.prioritize(
+      					'.important\\28 medium\\29',
+      					skel.breakpoint('medium').active
+      				);
+      			});
+
+      		// Fixes.
+
+      			// Object fit images.
+      				if (!skel.canUse('object-fit')
+      				||	skel.vars.browser == 'safari')
+      					$('.image.object').each(function() {
+
+      						var $this = $(this),
+      							$img = $this.children('img');
+
+      						// Hide original image.
+      							$img.css('opacity', '0');
+
+      						// Set background.
+      							$this
+      								.css('background-image', 'url("' + $img.attr('src') + '")')
+      								.css('background-size', $img.css('object-fit') ? $img.css('object-fit') : 'cover')
+      								.css('background-position', $img.css('object-position') ? $img.css('object-position') : 'center');
+
+      					});
+
+      		// Sidebar.
+      			var $sidebar = $('#sidebar'),
+      				$sidebar_inner = $sidebar.children('.inner');
+
+      			// Inactive by default on <= large.
+      				skel
+      					.on('+large', function() {
+      						$sidebar.removeClass('inactive');
+      					})
+      					.on('-large !large', function() {
+      						$sidebar.removeClass('inactive');
+      					});
+
+            $sidebar.addClass('inactive');
+
+      			// Hack: Workaround for Chrome/Android scrollbar position bug.
+      				if (skel.vars.os == 'android'
+      				&&	skel.vars.browser == 'chrome')
+      					$('<style>#sidebar .inner::-webkit-scrollbar { display: none; }</style>')
+      						.appendTo($head);
+
+      			// Toggle.
+      				if (skel.vars.IEVersion > 9) {
+
+      					$('<a href="#sidebar" class="toggle">Toggle</a>')
+      						.appendTo($sidebar)
+      						.on('click', function(event) {
+
+      							// Prevent default.
+      								event.preventDefault();
+      								event.stopPropagation();
+
+      							// Toggle.
+      								$sidebar.toggleClass('inactive');
+
+      						});
+
+      				}
+
+      			// Events.
+
+      				// Link clicks.
+      					$sidebar.on('click', 'a', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Vars.
+      							var $a = $(this),
+      								href = $a.attr('href'),
+      								target = $a.attr('target');
+
+      						// Prevent default.
+      							event.preventDefault();
+      							event.stopPropagation();
+
+      						// Check URL.
+      							if (!href || href == '#' || href == '')
+      								return;
+
+      						// Hide sidebar.
+      							$sidebar.addClass('inactive');
+
+      						// Redirect to href.
+      							setTimeout(function() {
+
+      								if (target == '_blank')
+      									window.open(href);
+      								else
+      									window.location.href = href;
+
+      							}, 500);
+
+      					});
+
+      				// Prevent certain events inside the panel from bubbling.
+      					$sidebar.on('click touchend touchstart touchmove', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Prevent propagation.
+      							event.stopPropagation();
+
+      					});
+
+      				// Hide panel on body click/tap.
+      					$body.on('click touchend', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Deactivate.
+      							$sidebar.addClass('inactive');
+
+      					});
+
+      			// Scroll lock.
+      			// Note: If you do anything to change the height of the sidebar's content, be sure to
+      			// trigger 'resize.sidebar-lock' on $window so stuff doesn't get out of sync.
+
+      				$window.on('load.sidebar-lock', function() {
+
+      					var sh, wh, st;
+
+      					// Reset scroll position to 0 if it's 1.
+      						if ($window.scrollTop() == 1)
+      							$window.scrollTop(0);
+
+      					$window
+      						.on('scroll.sidebar-lock', function() {
+
+      							var x, y;
+
+      							// IE<10? Bail.
+      								if (skel.vars.IEVersion < 10)
+      									return;
+
+      							// <=large? Bail.
+      								if (skel.breakpoint('large').active) {
+
+      									$sidebar_inner
+      										.data('locked', 0)
+      										.css('position', '')
+      										.css('top', '');
+
+      									return;
+
+      								}
+
+      							// Calculate positions.
+      								x = Math.max(sh - wh, 0);
+      								y = Math.max(0, $window.scrollTop() - x);
+
+      							// Lock/unlock.
+      								if ($sidebar_inner.data('locked') == 1) {
+
+      									if (y <= 0)
+      										$sidebar_inner
+      											.data('locked', 0)
+      											.css('position', '')
+      											.css('top', '');
+      									else
+      										$sidebar_inner
+      											.css('top', -1 * x);
+
+      								}
+      								else {
+
+      									if (y > 0)
+      										$sidebar_inner
+      											.data('locked', 1)
+      											.css('position', 'fixed')
+      											.css('top', -1 * x);
+
+      								}
+
+      						})
+      						.on('resize.sidebar-lock', function() {
+
+      							// Calculate heights.
+      								wh = $window.height();
+      								sh = $sidebar_inner.outerHeight() + 30;
+
+      							// Trigger scroll.
+      								$window.trigger('scroll.sidebar-lock');
+
+      						})
+      						.trigger('resize.sidebar-lock');
+
+      					});
+
+      		// Menu.
+      			var $menu = $('#menu'),
+      				$menu_openers = $menu.children('ul').find('.opener');
+
+      			// Openers.
+      				$menu_openers.each(function() {
+
+      					var $this = $(this);
+
+      					$this.on('click', function(event) {
+
+      						// Prevent default.
+      							event.preventDefault();
+
+      						// Toggle.
+      							$menu_openers.not($this).removeClass('active');
+      							$this.toggleClass('active');
+
+      						// Trigger resize (sidebar lock).
+      							$window.triggerHandler('resize.sidebar-lock');
+
+      					});
+
+      				});
+
+      	});
+
+      })(jQuery);
+      </script>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1119465-51"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1119465-51');
+      </script>
+
+</body>
+</html>

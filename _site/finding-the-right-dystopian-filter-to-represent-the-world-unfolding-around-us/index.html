@@ -1,0 +1,514 @@
+<!DOCTYPE html>
+<html xmlns="https://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
+  <html>
+  <title>Finding The Right Dystopian Filter To Represent The World Unfolding Around Us</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+  <!--[if lte IE 8]><script src="/assets/js/ie/html5shiv.js"></script><![endif]-->
+  <link rel="stylesheet" href="/assets/css/main.css" />
+  <!--[if lte IE 9]><link rel="stylesheet" href="/assets/css/ie9.css" /><![endif]-->
+  <!--[if lte IE 8]><link rel="stylesheet" href="/assets/css/ie8.css" /><![endif]-->
+
+  <!-- Icons -->
+  <link rel="shortcut icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+	<link rel="icon" type="image/x-icon" href="https://apievangelist.com/favicon.ico">
+
+  <!-- JQuery -->
+  <script src="/js/jquery-latest.min.js" type="text/javascript" charset="utf-8"></script>
+  <script src="/js/utility.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Github.js - http://github.com/michael/github -->
+  <script src="/js/github.js" type="text/javascript" charset="utf-8"></script>
+
+  <!-- Cookies.js - http://github.com/ScottHamper/Cookies -->
+  <script src="/js/cookies.js"></script>
+
+  <!-- D3.js http://github.com/d3/d3 -->
+  <script src="/js/d3.v3.min.js"></script>
+
+  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
+  <script src="/js/js-yaml.min.js"></script>
+
+  <!-- js-yaml - http://github.com/nodeca/js-yaml -->
+  <script src="/js/tabletop.js" type="text/javascript"></script>
+
+  <script src="/js/subway-map-1.js" type="text/javascript"></script>
+
+  <style type="text/css">
+
+    .gist {width:100% !important;}
+    .gist-file
+    .gist-data {max-height: 500px;max-width: 500px;}
+
+    /* The main DIV for the map */
+    .subway-map
+    {
+        margin: 0;
+        width: 950px;
+        height:125px;
+        background-color: white;
+    }
+
+    /* Text labels */
+    .text
+    {
+        text-decoration: none;
+        color: black;
+    }
+
+    #legend
+    {
+    	border: 1px solid #000;
+        float: left;
+        width: 250px;
+        height:400px;
+    }
+
+    #legend div
+    {
+        height: 25px;
+    }
+
+    #legend span
+    {
+        margin: 5px 5px 5px 0;
+    }
+    .subway-map span
+    {
+        margin: 5px 5px 5px 0;
+    }
+
+    </style>
+
+</head>
+
+  <body>
+
+			<div id="wrapper">
+					<div id="main">
+						<div class="inner">
+
+              <header id="header">
+  <a href="http://localhost:4000" class="logo"><img src="https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/api-evangelist-logo-algorotoscope.png" width="100%" /></a>
+  <ul class="icons">
+    <li><a href="https://twitter.com/algorotoscope" class="icon fa-twitter"><span class="label">Twitter</span></a></li>
+    <li><a href="http://algorithmic.rotoscope.work/atom.xml" class="icon fa-rss"><span class="label">RSS</span></a></li>
+  </ul>
+</header>
+
+    	        <br /><p style="font-size: 18px;"><strong>Finding The Right Dystopian Filter To Represent The World Unfolding Around Us</strong><br />
+<i>03 Jan 2017</i></p>
+<p><a href="https://apievangelist.com/2017/01/03/learning-about-machine-learning-apis-with-my-algorithmic-rotoscope-work/">I got sucked into a project over the holidays</a>, partly because it was an interesting technical challenge, but mostly because it provided me with a creative distraction after the election. I started playing with image filters from Algorithmia, using <a href="https://algorithmia.com/algorithms/deeplearning/DeepFilter">their Deep Filter service</a>, which some may recognize as being similar to services like <a href="http://prisma-ai.com/">Prisma</a>. The difference is with Algorithmia is you can use their 30+ filters, or if you want you can <a href="http://blog.algorithmia.com/training-style-transfer-models/">train your own image filters using their AWS machine learning AMI</a>.</p>
+<p>As I was playing with Algorithmia after the election, I had many images in my head of the dystopian landscape that is unfolding around us. Many of these images were reminiscent of my childhood in the 70's and 80's, during the cold war, where the future perpetually seemed very bleak to me. I wanted a way to take these images from my head and apply to the photos I was taking, and even better, what if I could to it to the video, and more specifically, <a href="http://dronerecovery.org">the drone videos I am making</a>. Four weeks later, I have gotten to the first set of filters, that when applied to my photography that gets me closer to the visions I had in my head.</p>
+<p>Here is an original photo taken&nbsp;by me on January 2nd, 2017 in East Los Angeles:</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/original/file-00_00_00_00.jpg" alt="" width="100%" /></p>
+<p>Next, I wanted to reduce the world around us to be less than real, comic, or drawn. I wanted a way to algorithmically reduce the outlines of the world into something that resembled our real world, to make things as familiar as possible, but then quickly bending and skewing it, so that I could help us see how dark things are becoming.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/alberto_giacometti/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>To borrow a phrase from my partner in crime, I wanted to be able to reduce everything I captured in my photography and videos down to a transaction. I wanted to show us how the world around us is being digitized, de-humanized, and rendered into an even more hostile landscape, that has very little concern for the humans living in it.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/blue_circuit/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I wanted to be able to go even further and visualize how noisy the world has become, not because of cars and airplanes, but because of our bits and bytes that were flowing around us every day. Help us visualize the constant assault on us, the people we love, and that increasingly there is no escape from this constant assault--it is in our homes, cars, business, and public spaces.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/matrix/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I want to paint a dark dystopian digital landscape, but ultimately I want as wide as a possible palette as I can. I needed an algorithmic palette of colors and textures that were born from the true artists who came before us, making the colors and textures familiar, and even soft before I took things to a much darker level. I didn't want to just shock, I wanted to slowly shift the world around us down a dystopian road.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/emily_carr/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Transforming&nbsp;our world into a cartoon or painting in a way that didn't make you feel completely uncomfortable. You were slowly slipping into a dream, falling asleep, and things haven't gotten too scary yet. The world is still familiar, with bright and colorful elements that still keep you smiling, and hopeful that things will get better--believing in the story I was telling.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crafty_painting/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Then slowly I want to be able to turn up the heat. Allowing the sun to set on the world you once knew. Then begin to reveal some of the darker outlines of the shadows and some of the darker aspects of our reality. Bringing some of the scarier aspects of the unfolding world around us out of the dark, and into the open.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_two/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Then looking to make you feel like you just dropped a substantial hit of LSD, allowing the sun to set on reality, where we let all the demons out to play and roam the streets. If you still live on the 10th floor or above the world might still look beautiful, but if you live on the ground floor, the world is a very scary place, where nobody is safe.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dali_three/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Something that will eventually affect everyone. The rich, the poor. Nobody will be safe, and nobody is immune from the dystopian effects technology and politics is having on our world. Just because you do not see the negative effects of the surveillance economy on your floor, doesn't mean it won't eventually reach you--at some point, we'll all be impacted.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/dark_dali/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I wanted to play with ways of taking us back in time. Take modern images, and make them feel like we were in the 50's, 40's, or any other decade or time period the conservatives want us to live in. I needed filters to apply to the current photos and videos I was taking, and shift them in time, keeping some of the context, while also allowing me to tell other stories that take us anywhere in the past.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_dresden/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>I wanted a variety of ways to visualize the impending doom on the horizon. I wanted to be able to force the sun to set on the current day and paint an ominous picture what will happen once the sun goes down, and tomorrow begins. What did we do today, that will impact us tomorrow? How can I paint a picture that grabs our attention and potentially avoid a darker tomorrow?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/light_dali/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>And as the world begin to bend out of control, and we begin to lose our grip on reality, how can I point out how dark things are on the landscape, and show you that things are slipping? What is the right color palette, and texture for showing us that we are slipping into a darker reality, and potentially going down a road where there is no return?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/marcel_duchamp/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>In the same way, how to I paint a hopeful picture of tomorrow, either as the sun is setting, or right before it is coming up? Things might be a little dark, but this is a new day, and there is a little hope out there if do the right thing today, or maybe not make the same mistakes today that we made yesterday.</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/diego_rivera1/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>How do I articulate depression, and the mental illness around us, which we are in denial of? How do I take the color out of everything that matters to us, suck all the hot air out of the marketing hype and advertising polish that exists everywhere? How do I limit the color palette we have access to be more realistic, allowing us to have an honest conversation about what the fuck is really going on?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/ww2_color/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>Most importantly, how do I avoid us heading down the darkest, most dystopian landscapes we can imagine? How do I make textures, colors, and filters that show the bombed out landscape ahead of us if we do not pull our shit together? How can I take the buildings, streets, and roads around us, and make the main street look like Syria, reminding us of what is just around the corner?</p>
+<p><img src="http://kinlane-productions.s3.amazonaws.com/algorotoscope/losangelescloudy/crabapple/file-00_00_35_50.jpg" alt="" width="100%" /></p>
+<p>This is just the beginning. I have trained 25 separate filters, using <a href="http://blog.algorithmia.com/training-style-transfer-models/">Algorithmia's style transfer model machine learning process</a>. I have another week or so of training these filters. I'm also working to gather more video and image footage that I can apply these filters. At each step of the process 1) capture images, 2) train models 3) apply filters I am learning a lot, something I hope never really ends. Training filters are costly, so I won't be able to continue indefinitely, but I wanted to mark the point on the calendar where I had achieved the results I had envisioned early on in my head.&nbsp;</p>
+<p>Now I just ned to rinse and repeat. I am going to the US / Mexico border next week to gather some footage, and I will be going to DC later this month for some work, where I will also be working to gather some valuable footage. By then I am hoping I have a palette of about 50 separate machine learning filters I can apply to images and to videos using my algorithmic rotoscope process. &nbsp;Then I should have enough footage to begin telling more stories about the world around us, and help quantify the uneasy feelings we are all having about the world unfolding around us.</p>
+
+<br>
+<hr />
+<br>
+<center>
+<table cellpadding="5" cellspacing="5" align="center" border="0" width="75%">
+	<tr>
+		<td align="center" width="50%">
+			<a href="/" target="_bank">Return To Works</a>
+		</td>
+		<td align="center" width="50%">
+			<a href="/updates" target="_bank">Return to Updates</a>
+		</td>
+	</tr>
+</table>
+</center>
+
+              <footer>
+  <p align="center">
+    all of my work:
+    <a href="http://apievangelist.com">apievangelist.com</a> |
+    <a href="http://kinlane.com">kinlane.com</a> |
+    <a href="http://api.report">api.report</a> |
+    <a href="http://adopta.agency">adopta.agency</a> |
+    <a href="http://dronerecovery.org">dronerecovery.org</a> |
+    <a href="http://http://algorithmic.rotoscope.work/">algorithmic.rotoscope.work</a>
+  </p>
+</footer>
+
+
+            </div>
+          </div>
+
+          <div id="sidebar">
+          <div class="inner">
+
+            <nav id="menu">
+  <header class="major">
+    <h2>Menu</h2>
+  </header>
+  <ul>
+    <li><a href="/">Works</a></li>
+    <li><a href="/updates">Updates</a></li>
+    <li><a href="http://apievangelist.com">API Evangelist</a></li>
+    <li><a href="http://kinlane.com">Kin Lane</a></li>
+  </ul>
+</nav>
+
+
+            <section>
+  <div class="mini-posts">
+    
+    
+      
+        <article>
+          <a href="https://www.uptrends.com/solutions/api-monitoring" class="image"><img src="https://s3.amazonaws.com/kinlane-productions/uptrends/apievangelist-uptrends.png" alt="" width="50%" /></a>
+        </article>
+      
+    
+      
+        <article>
+          <a href="http://apis.how/ake3nxbapm" class="image"><img src="https://s3.amazonaws.com/kinlane-productions/partners/3scale-red-hat-logo.png" alt="" width="50%" /></a>
+        </article>
+      
+    
+  </div>
+</section>
+
+
+            
+          </div>
+          </div>
+
+      </div>
+
+      <script src="/assets/js/skel.min.js"></script>
+      <script src="/assets/js/util.js"></script>
+      <!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+      <script>
+      /*
+      	Editorial by HTML5 UP
+      	html5up.net | @ajlkn
+      	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+      */
+
+      (function($) {
+
+      	skel.breakpoints({
+      		xlarge: '(max-width: 1680px)',
+      		large: '(max-width: 1280px)',
+      		medium: '(max-width: 980px)',
+      		small: '(max-width: 736px)',
+      		xsmall: '(max-width: 480px)',
+      		'xlarge-to-max': '(min-width: 1681px)',
+      		'small-to-xlarge': '(min-width: 481px) and (max-width: 1680px)'
+      	});
+
+      	$(function() {
+
+      		var	$window = $(window),
+      			$head = $('head'),
+      			$body = $('body');
+
+      		// Disable animations/transitions ...
+
+      			// ... until the page has loaded.
+      				$body.addClass('is-loading');
+
+      				$window.on('load', function() {
+      					setTimeout(function() {
+      						$body.removeClass('is-loading');
+      					}, 100);
+      				});
+
+      			// ... when resizing.
+      				var resizeTimeout;
+
+      				$window.on('resize', function() {
+
+      					// Mark as resizing.
+      						$body.addClass('is-resizing');
+
+      					// Unmark after delay.
+      						clearTimeout(resizeTimeout);
+
+      						resizeTimeout = setTimeout(function() {
+      							$body.removeClass('is-resizing');
+      						}, 100);
+
+      				});
+
+      		// Fix: Placeholder polyfill.
+      			$('form').placeholder();
+
+      		// Prioritize "important" elements on medium.
+      			skel.on('+medium -medium', function() {
+      				$.prioritize(
+      					'.important\\28 medium\\29',
+      					skel.breakpoint('medium').active
+      				);
+      			});
+
+      		// Fixes.
+
+      			// Object fit images.
+      				if (!skel.canUse('object-fit')
+      				||	skel.vars.browser == 'safari')
+      					$('.image.object').each(function() {
+
+      						var $this = $(this),
+      							$img = $this.children('img');
+
+      						// Hide original image.
+      							$img.css('opacity', '0');
+
+      						// Set background.
+      							$this
+      								.css('background-image', 'url("' + $img.attr('src') + '")')
+      								.css('background-size', $img.css('object-fit') ? $img.css('object-fit') : 'cover')
+      								.css('background-position', $img.css('object-position') ? $img.css('object-position') : 'center');
+
+      					});
+
+      		// Sidebar.
+      			var $sidebar = $('#sidebar'),
+      				$sidebar_inner = $sidebar.children('.inner');
+
+      			// Inactive by default on <= large.
+      				skel
+      					.on('+large', function() {
+      						$sidebar.removeClass('inactive');
+      					})
+      					.on('-large !large', function() {
+      						$sidebar.removeClass('inactive');
+      					});
+
+            $sidebar.addClass('inactive');
+
+      			// Hack: Workaround for Chrome/Android scrollbar position bug.
+      				if (skel.vars.os == 'android'
+      				&&	skel.vars.browser == 'chrome')
+      					$('<style>#sidebar .inner::-webkit-scrollbar { display: none; }</style>')
+      						.appendTo($head);
+
+      			// Toggle.
+      				if (skel.vars.IEVersion > 9) {
+
+      					$('<a href="#sidebar" class="toggle">Toggle</a>')
+      						.appendTo($sidebar)
+      						.on('click', function(event) {
+
+      							// Prevent default.
+      								event.preventDefault();
+      								event.stopPropagation();
+
+      							// Toggle.
+      								$sidebar.toggleClass('inactive');
+
+      						});
+
+      				}
+
+      			// Events.
+
+      				// Link clicks.
+      					$sidebar.on('click', 'a', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Vars.
+      							var $a = $(this),
+      								href = $a.attr('href'),
+      								target = $a.attr('target');
+
+      						// Prevent default.
+      							event.preventDefault();
+      							event.stopPropagation();
+
+      						// Check URL.
+      							if (!href || href == '#' || href == '')
+      								return;
+
+      						// Hide sidebar.
+      							$sidebar.addClass('inactive');
+
+      						// Redirect to href.
+      							setTimeout(function() {
+
+      								if (target == '_blank')
+      									window.open(href);
+      								else
+      									window.location.href = href;
+
+      							}, 500);
+
+      					});
+
+      				// Prevent certain events inside the panel from bubbling.
+      					$sidebar.on('click touchend touchstart touchmove', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Prevent propagation.
+      							event.stopPropagation();
+
+      					});
+
+      				// Hide panel on body click/tap.
+      					$body.on('click touchend', function(event) {
+
+      						// >large? Bail.
+      							if (!skel.breakpoint('large').active)
+      								return;
+
+      						// Deactivate.
+      							$sidebar.addClass('inactive');
+
+      					});
+
+      			// Scroll lock.
+      			// Note: If you do anything to change the height of the sidebar's content, be sure to
+      			// trigger 'resize.sidebar-lock' on $window so stuff doesn't get out of sync.
+
+      				$window.on('load.sidebar-lock', function() {
+
+      					var sh, wh, st;
+
+      					// Reset scroll position to 0 if it's 1.
+      						if ($window.scrollTop() == 1)
+      							$window.scrollTop(0);
+
+      					$window
+      						.on('scroll.sidebar-lock', function() {
+
+      							var x, y;
+
+      							// IE<10? Bail.
+      								if (skel.vars.IEVersion < 10)
+      									return;
+
+      							// <=large? Bail.
+      								if (skel.breakpoint('large').active) {
+
+      									$sidebar_inner
+      										.data('locked', 0)
+      										.css('position', '')
+      										.css('top', '');
+
+      									return;
+
+      								}
+
+      							// Calculate positions.
+      								x = Math.max(sh - wh, 0);
+      								y = Math.max(0, $window.scrollTop() - x);
+
+      							// Lock/unlock.
+      								if ($sidebar_inner.data('locked') == 1) {
+
+      									if (y <= 0)
+      										$sidebar_inner
+      											.data('locked', 0)
+      											.css('position', '')
+      											.css('top', '');
+      									else
+      										$sidebar_inner
+      											.css('top', -1 * x);
+
+      								}
+      								else {
+
+      									if (y > 0)
+      										$sidebar_inner
+      											.data('locked', 1)
+      											.css('position', 'fixed')
+      											.css('top', -1 * x);
+
+      								}
+
+      						})
+      						.on('resize.sidebar-lock', function() {
+
+      							// Calculate heights.
+      								wh = $window.height();
+      								sh = $sidebar_inner.outerHeight() + 30;
+
+      							// Trigger scroll.
+      								$window.trigger('scroll.sidebar-lock');
+
+      						})
+      						.trigger('resize.sidebar-lock');
+
+      					});
+
+      		// Menu.
+      			var $menu = $('#menu'),
+      				$menu_openers = $menu.children('ul').find('.opener');
+
+      			// Openers.
+      				$menu_openers.each(function() {
+
+      					var $this = $(this);
+
+      					$this.on('click', function(event) {
+
+      						// Prevent default.
+      							event.preventDefault();
+
+      						// Toggle.
+      							$menu_openers.not($this).removeClass('active');
+      							$this.toggleClass('active');
+
+      						// Trigger resize (sidebar lock).
+      							$window.triggerHandler('resize.sidebar-lock');
+
+      					});
+
+      				});
+
+      	});
+
+      })(jQuery);
+      </script>
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script async src="https://www.googletagmanager.com/gtag/js?id=UA-1119465-51"></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'UA-1119465-51');
+      </script>
+
+</body>
+</html>

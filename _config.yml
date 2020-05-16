@@ -1,7 +1,7 @@
 title:        Algorotoscope
 url:          http://algorithmic.rotoscope.work/
 
-tag: Names
+tag: Images
 
 logo:         https://s3.amazonaws.com/kinlane-productions/api-evangelist-site/api-evangelist-logo-algorotoscope.png
 logo_width:   80
@@ -33,3 +33,6 @@ collections:
   works:
     output: true
     permalink: /works/:path/
+  collections:
+    output: true
+    permalink: /collections/:path/

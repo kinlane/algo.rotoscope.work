@@ -1,0 +1,14 @@
+<img src="{{ page.feature }}" width="350" align="right" style="padding: 25px;margin-top:25px;">
+<h2>{{ page.title }}</h2>
+<p>{{ page.description }}</p>
+<p><strong>Tags:</strong> {% for tag in page.tags %}{{ tag }}{% if forloop.last == true %}{% else %}, {% endif %}{% endfor %}</p>
+<h3>Images</h3>
+<div class="row">
+	{% for image in page.images %}
+  {% assign slug = page.title | replace: " ", "-" | downcase %}
+		<div class="4u 12u$(medium)">
+			<img src="../../images/collections/{{ slug }}/{{ image.image }}" width="95%">
+      <p align="center"><strong>{{ image.name }}</strong></p>
+		</div>
+	{% endfor %}
+</div>

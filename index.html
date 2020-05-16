@@ -4,7 +4,27 @@ title: Algorotoscope
 ---
 <section>
 	<h3>Algorotoscope Works</h3>
-	<p>After the 2016 election I found myself extremely depressed, and to help occupy my mind i began playing with <a href="https://www.tensorflow.org/">the machine learning platform Tensorflow</a> to take my mind off the state of our world, immersing myself in understanding how I can apply texture transfer to videos and images. I began playing with a lot of my drone footage, transforming them into cartoon like landscape, but then quickly began playing with just still images, and apply potentially meaningful transfers that would augment and evolve the photos I have taken. I use these images in my stories across API Evangelist, Kin Lane, and other blogs I write on.</p>
-	<div class="row">{% for work in site.works %}<div class="4u 12u$(medium)"><a href="{{ work.url }}"><img src="{{ work.square }}" width="95%"></a></div>{% endfor %}</div>
+	<p>After the 2016 election I found myself extremely depressed, and to help occupy my brain I began to play with <a href="https://www.tensorflow.org/">the machine learning platform Tensorflow</a>, immersing myself in understanding how I can apply texture transfer machine learning to videos and images. I began playing with a lot of my drone footage, transforming them into cartoon like landscape, but then quickly began playing with just still images, and apply potentially meaningful transfers that would augment and evolve the photos I have taken. I use these images in my stories across API Evangelist, Kin Lane, and other blogs I publish to.</p>
+	<h3>Collections</h3>
+	<p>These are some collections of photos I have pulled together to further demonstrate how I am stealing from the works of others using technology to demonstrate how technology is stealing from us, and distorting almost everything around us on and offline.
+	<div class="row">
+		{% for collection in site.collections %}
+			{% assign slug = collection.title | replace: " ", "-" | downcase %}
+			<div class="4u 12u$(medium)">
+				<a href="/collections/{{ slug }}/"><img src="{{ collection.feature }}" width="95%"></a>
+				<p align="center"><a href="/collections/{{ slug }}/"><strong>{{ collection.title }}</strong></a></p>
+			</div>
+		{% endfor %}
+	</div>
+	<h3>Random Works</h3>
+	<p>These are some of my other random works. Some contain video, some are just images. This is pretty costly work to run the GPU instances, so I have narrow windows where I can afford to do this work, and is something I am regularly returning to as I can afford it, producing some pretty erratic work over the years.
+	<div class="row">
+		{% for work in site.works %}
+			<div class="4u 12u$(medium)">
+				<a href="{{ work.url }}">
+					<img src="{{ work.square }}" width="95%"></a>
+			</div>
+		{% endfor %}
+	</div>
 	<p>I'm adding images regularly, and using as part of my storytelling in hopes of demonstrating how algorithms are distorting the world around us each day in the online world we live in. My goal is to help make us aware in real time that algorithms are impacting our digital and even our physical worlds. My images do not always look pretty, but I try to make sure they have meaning and push forward the conversaton in some way.</p>
 </section>
