@@ -9,8 +9,8 @@ tags:
   - White Supremacy
   - Systemic
   - Cultural
-feature: ../../images/collections/birth-of-a-nation/birth-of-a-nation.jpg
-image: ../../images/collections/birth-of-a-nation/birth-of-a-nation.jpg
+feature: ../../images/collections/the-birth-of-a-nation/birth-of-a-nation.jpg
+image: ../../images/collections/the-birth-of-a-nation/birth-of-a-nation.jpg
 images:
   - name: 125th
     image: 125th.jpg
