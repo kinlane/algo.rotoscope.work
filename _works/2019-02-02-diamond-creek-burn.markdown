@@ -7,9 +7,9 @@ tags:
   - Algorotoscope Works
   - Creek
   - Burn
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/diamond-creek-burn.jpg
+image: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/working/diamond-creek-burn.jpg
 video: ''
-square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/diamond-creek-burn-square.jpg
+square: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/working/diamond-creek-burn-square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Another shot of Diamond Creek and the burn.</center>

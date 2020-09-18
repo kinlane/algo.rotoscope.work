@@ -18,7 +18,7 @@
   description: Tracking on the convergence of APIs and 3-D printing, tracking on key
     players, technologies and approaches to using APIs to potentially affect the world
     of manufacturing, architecture, art and beyond.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/makerbot-trends.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/makerbot-trends.jpg
   imagewidth: ""
   category: Opportunities
   brand: ""
@@ -56,7 +56,7 @@
   description: There are a handful of interesting accounting software solutions out
     there doing APIs, making it an area I want to pay closer attention to. This is
     my work to map out the landscape when it comes to accounting APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-accounting.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-accounting.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -72,7 +72,7 @@
     sector to define every aspect of API operations. These definitions are being used
     across every stop along this cycle as a sort of central truth, and often providing
     a contract that defines operations.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-definitions.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-definitions.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -87,7 +87,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private actions API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-arrows-circular.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-arrows-circular.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -99,7 +99,7 @@
   identifier: ""
   url: http://kinlane.github.io/us-federal-budget/
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-open-budget.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-open-budget.png
   imagewidth: ""
   category: Adopta
   brand: ""
@@ -111,7 +111,7 @@
   identifier: ""
   url: http://adopta-agency.github.io/open-referral-api/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/adopta-agency/open-referral/openreferral-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions2/adopta-agency/open-referral/openreferral-logo.png
   imagewidth: ""
   category: Adopta Agency
   brand: ""
@@ -123,7 +123,7 @@
   identifier: ""
   url: http://adopta.agency
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/adopta-agency/adopta-agency-logo-uppercase.png
+  image: https://s3.amazonaws.com/kinlane-productions2/adopta-agency/adopta-agency-logo-uppercase.png
   imagewidth: ""
   category: Adopta
   brand: ""
@@ -138,7 +138,7 @@
     needed revenue for a number of projects I like. It is an important part of the
     ecosystem, making it something I want to know more about when it comes to APIs.
     This is my project dedicated to advertising APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-advertising.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-advertising.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -151,7 +151,7 @@
   url: http://design.apievangelist.com
   description: A toolkit where I gather all the news, analysis, companies and technology
     when it comes to designing APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-design-fiction.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-design-fiction.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -204,7 +204,7 @@
     single place where I could reference when crafting stories on the blog. You can
     find news I've curated, organizations doing interesting things, some of the common
     building blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-version.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-version.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -216,7 +216,7 @@
   identifier: ""
   url: http://alpha.apievangelist.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-vice.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-vice.png
   imagewidth: ""
   category: Primary Blog
   brand: ""
@@ -242,7 +242,7 @@
   description: This is my fictional blog. As I spend my time tracking on the world
     of APIs and technology I can't help but have thoughts and ideas that don't reallky
     exist. It keeps me sharp and enjoying what I'm doing.
-  image: https://s3.amazonaws.com/kinlane-productions/matrix-pics/washington-crossing-the-delaware-cropped.png
+  image: https://s3.amazonaws.com/kinlane-productions2/matrix-pics/washington-crossing-the-delaware-cropped.png
   imagewidth: ""
   category: Fictional
   brand: ""
@@ -266,7 +266,7 @@
   identifier: ""
   url: http://amazon.web.services.stack.network
   description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/amazon-aws-logo.jpg
   imagewidth: ""
   category: Stack
   brand: ""
@@ -281,7 +281,7 @@
     momentum. It is time for it to have its own research area on API Evangelist, allowing
     me to curate news, tools, companies and individuals who are leading in the space
     and start evolving my analysis and storytelling in the area of hypermedia APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-hypermedia.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-hypermedia.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -307,7 +307,7 @@
   description: The basic API 101 series that has evolved from the home page of API
     Evangelist. This project represents my highest level view of the API space, meant
     for anyone looking to understand the space.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/101.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/101.png
   imagewidth: ""
   category: "101"
   brand: ""
@@ -319,7 +319,7 @@
   identifier: ""
   url: http://apievactivist.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-activist-1.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-activist-1.png
   imagewidth: ""
   category: Primary Blog
   brand: ""
@@ -334,7 +334,7 @@
     to add, update, and delete the APIs, their details, an I am working to create
     as many API focused endpoints, which let me manage even more APIs, whether they
     are mine or other publicly available APIs I am interested in.
-  image: https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-commons/api-commons-icon.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -346,7 +346,7 @@
   identifier: ""
   url: http://api-blueprint.apievangelist.com
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-blueprint-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-blueprint-icon.png
   imagewidth: ""
   category: API Definitions
   brand: ""
@@ -374,7 +374,7 @@
     interfaces and data models. When learning about API Commons it can be easy to
     focus on the obvious technical deliverables of the project, API definitions, data
     models, schemas and specifications.
-  image: https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-commons/api-commons-icon.png
   imagewidth: ""
   category: API Commons
   brand: ""
@@ -386,7 +386,7 @@
   identifier: ""
   url: http://api-config.apievangelist.com/
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-gear.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-gear.png
   imagewidth: ""
   category: API Commons
   brand: ""
@@ -412,7 +412,7 @@
   description: My original site and research project into the business of APIs, API
     Evangelist. I started this July 2010, and it continues to be the strongest site
     in my network.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/KL_InApiWeTrust-1000.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/blog/KL_InApiWeTrust-1000.png
   imagewidth: ""
   category: Primary Blog
   brand: ""
@@ -424,7 +424,7 @@
   identifier: ""
   url: http://api-keys.apievangelist.com/
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-key.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-key.png
   imagewidth: ""
   category: API Commons
   brand: ""
@@ -436,7 +436,7 @@
   identifier: ""
   url: http://api-pricing.apievangelist.com/
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-dollar-sign.jpg
   imagewidth: ""
   category: API Commons
   brand: ""
@@ -448,7 +448,7 @@
   identifier: ""
   url: http://api-questions.apievangelist.com
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-question-mark.png
   imagewidth: ""
   category: API Commons
   brand: ""
@@ -462,7 +462,7 @@
   description: API Stack is the public window into my weekly and monthly monitoring
     of the API space where I publish news, analysis and the top APIs I'm paying attention
     to.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-bullhorn-advertising.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-bullhorn-advertising.png
   imagewidth: ""
   category: Primary Blog
   brand: ""
@@ -476,7 +476,7 @@
   description: Another one of the primary API Evangelist network sites exclusively
     dedicated to the politics of APIs, trying to understand the issues facing providers
     and consumers ranging from terms of service to government regulation.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/KL_InApiWeTrust-1000.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/blog/KL_InApiWeTrust-1000.png
   imagewidth: ""
   category: My Blogs
   brand: ""
@@ -500,7 +500,7 @@
   identifier: ""
   url: http://apis.io/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/apis-io/apis-io.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/apis-io/apis-io.png
   imagewidth: ""
   category: Banner Partner
   brand: ""
@@ -538,7 +538,7 @@
   identifier: ""
   url: http://austin2015.apistrat.com
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-austin/apistrat-austin-logo.png
+  image: https://s3.amazonaws.com/kinlane-productions2/events/apistrat-austin/apistrat-austin-logo.png
   imagewidth: ""
   category: APIStrat
   brand: ""
@@ -550,7 +550,7 @@
   identifier: ""
   url: http://boston2015.apistrat.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/events/apistrat-boston-2016/apistrat-logo-boston-2016.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/events/apistrat-boston-2016/apistrat-logo-boston-2016.jpg
   imagewidth: ""
   category: APIStrat
   brand: ""
@@ -565,7 +565,7 @@
     APIs, trying to understand the different types of approaches to making audio available
     via APis. There are a lot of things that can fall under the umbrealla of audio,
     so I'll keep organizing trying to make sense of it.
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-audio.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-audio.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -581,7 +581,7 @@
     want to use it for mostly my personal audio, but eventually I intend on a wealth
     of audio focused on APIs, as well as other topics i tune into like encryption,
     regulation, and more.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-audio.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-audio.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -596,7 +596,7 @@
     area of API operations is API driven, allowing it to be managed using APIs. Making
     the the frontline of API operations configurable using APIs, making this part
     of operations a much more agile, flexible, and powerful part of how APIs are done.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-globe.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-globe.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -611,7 +611,7 @@
     from our personal vehicles, to rental cars and commercial fleets. I'm looking
     to understand who the key players are, what they are up to as well as where the
     opportunities lie.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-car.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-car.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -626,7 +626,7 @@
     emerged since 2011, moving this research from trend to a solid part of API consumption
     that I'm tracking on. I'm regularly aggregating&nbsp;all the news, analysis, companies
     and technology I can find from the BaaS space.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/baas-trends.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/baas-trends.png
   imagewidth: ""
   category: BaaS
   brand: ""
@@ -638,7 +638,7 @@
   identifier: ""
   url: http://band.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-band.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-band.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -654,7 +654,7 @@
     side code in each project, I use an API to distribute the blog updates to each
     project endpoint. You can access all my storytelling across all of the blogs that
     I maintain here in this API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-blog-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-blog-icon.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -670,7 +670,7 @@
     it comes to providing APis. There are usually two areas I look at as low hanging
     fruit, involved what is already on the website, and available via existing software
     systems. This is my work to track what is going on from this area of the API lifecycle.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-grapes.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-grapes.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -685,7 +685,7 @@
     web scraping and how this can be used to generate data, content and resources
     for APIs. &nbsp;I'm tracking on news and companies in the space, but also watching
     some of the politics and legalities around scraping.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-scraping.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-scraping.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -702,7 +702,7 @@
     and each of my research areas should have some, broken down by category. This
     API provides access to this information and connects it with other areas of my
     API stack.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building-blocks-design.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-building-blocks-design.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -716,7 +716,7 @@
   description: My research into how APIs are being used in commercial buildings. I'm
     looking to understand who the key players are, what they are up to as well as
     where the opportunities lie.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-building.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-building.png
   imagewidth: ""
   category: Opportunities
   brand: ""
@@ -728,7 +728,7 @@
   identifier: ""
   url: http://businesses.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-businesses.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-businesses.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -740,7 +740,7 @@
   identifier: ""
   url: http://business.apievangelist.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-business-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-business-icon.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -768,7 +768,7 @@
     reasons. I'm looking to certify APIs as minimum viable, and help establish certifications
     for API design, evangelism, and others. This is an API to help me manage the parts
     and pieces, and is a work in progress.&nbsp;
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-certificate.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -784,7 +784,7 @@
     that is stored in a central database is the number one way in which folks are
     deploying APIs, so I wanted to take the time and consider the database implications
     on the API lifecycle.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-database-new.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-database-new.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -799,7 +799,7 @@
     globe. In the US a handful of cities are actively adopting API practices and I'm
     looking to aggregate relevant news, analysis, technology and approaches in a single
     research project.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/priorities/bw-city-skyline.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/priorities/bw-city-skyline.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -812,7 +812,7 @@
   url: http://deployment.apievangelist.com
   description: A toolkit where I gather all the news, analysis, companies and technology
     when it comes to deploying APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-api-deployment.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-api-deployment.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -852,7 +852,7 @@
     for others to use via a public unauthorized API. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-pirate-flag.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-pirate-flag.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -864,7 +864,7 @@
   identifier: ""
   url: http://commerce.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-commerce.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-commerce.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -880,7 +880,7 @@
     well, but play an important role in a larger strategy. I see microservices as
     more philosophy and culture than it is technology, but nonetheless it is an important
     aspect of API operation.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-microservice.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-microservice.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -892,7 +892,7 @@
   identifier: ""
   url: http://compute.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-compute.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-compute.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -907,7 +907,7 @@
     I will track on details here. I am a big proponent of algorithmic transparency
     using APIs, where the inputs and outputs of algorithms can be made available via
     APIs--pulling back the curtain a little bit on the black box that is often algorithms.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-algorithms.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-algorithms.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -919,7 +919,7 @@
   identifier: ""
   url: http://content.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-content-2.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-content-2.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -931,7 +931,7 @@
   identifier: ""
   url: https://kin-lane.github.io/content/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-content.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-content.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -960,7 +960,7 @@
     own CSV converter, along with server side storage of converted data in the master
     branch of their repository. No server side technology needed and as long as its
     open data it is free.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-csv.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-csv.png
   imagewidth: ""
   category: Single Repo Apps
   brand: ""
@@ -976,7 +976,7 @@
     I put them into each research bucket, and make them availble via each reserch
     project. You can access via this API, and use in real-time as I curate and manage
     each week.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-abundance.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-abundance.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -993,7 +993,7 @@
     and this is where I"m trying to bring that into focus. You can find news I've
     curated, organizations doing interesting things, some of the common building blocks
     I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-search.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-search.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1017,7 +1017,7 @@
   identifier: ""
   url: http://data.apievangelist.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-data.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-data.png
   imagewidth: ""
   category: Data
   brand: ""
@@ -1032,7 +1032,7 @@
     that is fully run on Github. Users can publish, convert and manage open data JSON
     files. Eventually I will be syncing this with api.ongithub.com and allow users
     to deploy APIs from data sets they have published.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-github.jpg
   imagewidth: ""
   category: Github
   brand: ""
@@ -1049,7 +1049,7 @@
     eventually launch other areas specifically for artificial intelligence. You can
     find news I've curated, organizations doing interesting things, some of the common
     building blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-machine-learning.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-machine-learning.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1061,7 +1061,7 @@
   identifier: ""
   url: http://low-hanging-fruit.github.io/davidson-college/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-grapes.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-grapes.png
   imagewidth: ""
   category: Low Hanging Fruit
   brand: ""
@@ -1076,7 +1076,7 @@
     APIs, but also help us better understand how clients are using APIs, what request
     and reponses look like, and the other finer details of operations. This is my
     work to understand the role proxies can play across the API lifecycle.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-proxy.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-proxy.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1089,7 +1089,7 @@
   url: http://ed-data.github.io/developer/
   description: The default developer area where I hang all my projects, APIs and open
     data work under, when it involves the Department of Education.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1102,7 +1102,7 @@
   url: http://doe-data.github.io/developer
   description: The default developer area where I hang all my projects, APIs and open
     data work, when it involves the Department of Energy.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1115,7 +1115,7 @@
   url: http://doi-data.github.io/developer
   description: The default developer area where I hang all my projects, APIs and open
     data work, when it involves the Department of Interior.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1128,7 +1128,7 @@
   url: http://va-data.github.io/va-developer/
   description: The default developer area where I hang all my projects, APIs and open
     data work, when it involves the Department of Veterans Affairs.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1145,7 +1145,7 @@
     aspects of API operations, like test data, or may resources for training AI and
     machine learning. Virtualization is a pretty big umbrella, but this is my research
     into sorting through exactly what it is.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-virtulization.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-virtulization.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1166,7 +1166,7 @@
     on. I think containerization will take API design, deployment, management and
     integration to the next phase, and closer the early visions of a programmable
     web we all started envisioning around 2005.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-shipping-container.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-shipping-container.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1183,7 +1183,7 @@
     API management has matured to include service composition, establishing analysis
     and awarness, as well as reporting and billing on top of that activity. I'm looking
     to track on what is happening to API mangement now that it is being commoditized.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/services/api-management.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1198,7 +1198,7 @@
     I will hang all the APis I develop as part of my core, or stack API design work.
     I use 3Scale API infrastructure to manage access to my APIs, all access requires
     a key, just to establish an awareness of my API consumers, while controlling misuse.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
   imagewidth: ""
   category: Developer Portals
   brand: ""
@@ -1214,7 +1214,7 @@
     tracking on how serverless is being leveraged to deploy simple, modular, single
     purpose APIs that can be deployed in any cloud infrastructure, and leveraged to
     not just build applicaitons, but also manage API infrastructure that drives it.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-serverless.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-serverless.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1231,7 +1231,7 @@
     of the successful API portals I've come across, and aggregated them, and even
     crafted a simple set of API and developer portal templates that anyone can fork
     and put to use in their operations.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-portal.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-portal.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1259,7 +1259,7 @@
     my research to track on the different approaches, and aggregate into a single
     approach I can apply to my own APIs, as well as share along the way. I have started
     crafting an API to help me organize all of it, so stay tuned.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-running.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1271,7 +1271,7 @@
   identifier: ""
   url: http://documents.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-documents.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-documents.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1314,7 +1314,7 @@
     possible, but like many other layers of the IoT space, their APIs will become
     their achilles heel. This is purely a monitoring channel for me, so I can keep
     a close eye on the Drone space, and try to understand what is going on.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-drone.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-drone.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1330,7 +1330,7 @@
     (@audreywatters) work on Hack Education. I'm looking to understand who the key
     players are, what they are up to by aggregating news, analysis, companies and
     technology in a single project.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/tag-cloud-education.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/att/tag-cloud-education.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1348,7 +1348,7 @@
     standardization. Yet you see some pretty interesting approaches to providing email
     infrastructure which employs, and often resemble the email standards, but put
     web APIs to work to actually do the heavy lifting.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-email-at.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-email-at.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1365,7 +1365,7 @@
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling I've aggregated here in this research projects Github
     repository.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-documentation.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-documentation.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1381,7 +1381,7 @@
     and tooling to help manage the frequently asked questions that surround API operations.
     It seems like a simple thing, but can go along way in helping making learning
     what an API does a lot easier.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-question-mark.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1393,7 +1393,7 @@
   identifier: ""
   url: http://engergy.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-energy.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-energy.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1405,7 +1405,7 @@
   identifier: ""
   url: http://environment.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-environment.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-environment.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1421,7 +1421,7 @@
     and organizing it here. I will keep working to organize better, and produce guides,
     and tooling. To help drive some of it I have also developed an API that will help
     me manage my open APIs, as well as the support on others.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-support.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-support.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1433,7 +1433,7 @@
   identifier: ""
   url: http://events.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-events.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-events.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1448,7 +1448,7 @@
     with an API. My intention with template APIs is to help onboard folks with new
     ideas for APIs, and this is one in particular is meant to kickstart the conversation
     around having a public or private event API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-calendar.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-calendar.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -1464,7 +1464,7 @@
     provide machine readable API definitions like Swagger, in conjunction with API.json.
     When APIs are well designed, and bundled with machine readable defintions, and
     discovery documents it makes APIs much more usable, and remixable.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1491,7 +1491,7 @@
     Student Aid (FAFSA). I'm working on building server, client technologies as well
     as sound API definition and data model around the form. Helping developers build
     applications that support students in finding aid.
-  image: https://s3.amazonaws.com/kinlane-productions/federal-government/ed/fafsa-form.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/federal-government/ed/fafsa-form.jpg
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1523,7 +1523,7 @@
     standard for an API. It doesn't take much to make my list. I showcase some pretty
     poor APIs, but when I started through the financial news API providers, more APIs
     got cut then made the list.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-financial-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-news-financial-icon.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1536,7 +1536,7 @@
   url: http://fda-data.github.io/developer/
   description: The default developer area where I hang all my projects, APIs and open
     data work, when it involves the Food and Drug Administration.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1551,7 +1551,7 @@
     one important component, communication. This is my work to track on the successful
     API efforts and better understand how they are communicating with developers,
     end users, and other stakeholders who are involved with an API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-chat.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-chat.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1582,7 +1582,7 @@
     aggregate this knowledge into a single place, so I can learn from, as well share
     knowledge along the way. I have also published an API to help me organize, and
     use across my API portals.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-roadmap.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-roadmap.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1594,7 +1594,7 @@
   identifier: ""
   url: http://google.stack.network
   description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/google-logo.jpg
   imagewidth: ""
   category: Stack
   brand: ""
@@ -1606,7 +1606,7 @@
   identifier: ""
   url: http://city.government.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-government.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-government.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1618,7 +1618,7 @@
   identifier: ""
   url: http://federal.government.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-government.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-government.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1630,7 +1630,7 @@
   identifier: ""
   url: http://state.government.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-government.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-government.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1647,7 +1647,7 @@
     then I've organized into a single site and added the ability to generate government
     services JSON-LD using a form. Next I will add the ability to store .JSON files
     under the master github repository.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1662,7 +1662,7 @@
     Energy, and specifically around the Green Button data iniative. I'm still working
     to try and map out this space, and provide any feedback on what next steps could
     be for the developer hub, and support API and open data tools.
-  image: https://s3.amazonaws.com/kinlane-productions/federal-government/green-button/green-button.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/federal-government/green-button/green-button.jpg
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1688,7 +1688,7 @@
   description: This is my site where I document my own storytelling process. How I
     use JSON, JavaScript, HTML, CSS, Github and Jekyll to tell stories. Every project
     in this list uses this Hacker Storytelling format.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-storytelling.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-storytelling.png
   imagewidth: ""
   category: Storytelling
   brand: ""
@@ -1702,7 +1702,7 @@
   description: My tracking on how APIs are being used in healthcare. I'm looking to
     understand who the key players are, and what they are up to by aggregating news,
     analysis, companies and technology in a single research project.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/caduceus.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/att/caduceus.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1716,7 +1716,7 @@
   description: This is my history of the web API space, covering the last 14 years
     of evolution from early pioneers like Salesforce to current leaders like Twilio.
     As the space matures, I keep adding other pillars that have defined the space.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/101.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/101.png
   imagewidth: ""
   category: "101"
   brand: ""
@@ -1733,7 +1733,7 @@
     history of technology, the storytelling approach of Ken Burns came up, and Mike
     and I were both convinced that Ken Burns needs to do a documentary series on the
     history of computing
-  image: https://s3.amazonaws.com/kinlane-productions/history-of-computing/UNIVAC-1-FullView-B.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/history-of-computing/UNIVAC-1-FullView-B.jpg
   imagewidth: ""
   category: History
   brand: ""
@@ -1748,7 +1748,7 @@
     to understand who the key players are, what they are up to as well as where the
     opportunities lie when it comes to Internet enabled homes and the devices we depend
     on.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-home-icon.jpeg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-home-icon.jpeg
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1764,7 +1764,7 @@
     HTML pages. As with all of my work, I'm pushing to define each tool in my HTML
     toolbox into simple, easy to use APIs that I can across the network, and potentially
     others can use as well.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-html.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-html.png
   imagewidth: ""
   category: Utility
   brand: ""
@@ -1779,7 +1779,7 @@
     with an API. My intention with template APIs is to help onboard folks with new
     ideas for APIs, and this is one in particular is meant to kickstart the conversation
     around having a public or private human API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-users-male-female.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-users-male-female.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -1794,7 +1794,7 @@
     how they are being wielded in different ways. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-politics-of-apis.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-politics-of-apis.png
   imagewidth: ""
   category: 100K View
   brand: ""
@@ -1810,7 +1810,7 @@
     aggregate this knowledge into a single place, so I can learn from, as well share
     knowledge along the way. I have also published an API to help me organize, and
     use across my API portals.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-bug.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-bug.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1828,7 +1828,7 @@
     manipulation APIs. Right now I focused on some low hanging fruit, like applying
     filters to images, which includes Charcoal, Oil Painting, Polaroid, and Sketch.
     Next, I will tackle some more utility style APIs like resize, crop, and rotate.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-github.jpg
   imagewidth: ""
   category: Utility
   brand: ""
@@ -1840,7 +1840,7 @@
   identifier: ""
   url: http://images.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-images.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-images.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -1855,7 +1855,7 @@
     with an API. My intention with template APIs is to help onboard folks with new
     ideas for APIs, and this is one in particular is meant to kickstart the conversation
     around having a public or private image API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-images.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-images.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -1884,7 +1884,7 @@
     are employing and communicating around their API. I'm aggregating the information,
     as well as deploying an API to help organize my change log across my projects,
     as well as share with everyone here.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-recycling.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1900,7 +1900,7 @@
     a variety of API services. Monitoring might be as simple as seeing if an API is
     up or down, or as complex as ensuring an API meets the requirements of any SLA
     that is present as part of API operations.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-heart-monitor.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-heart-monitor.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1916,7 +1916,7 @@
     take a considerable amount of work. This is my work to understand the companies,
     services, tools, and the common building blocks that QA and API developers are
     using to get their job done.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-testing.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-testing.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1932,7 +1932,7 @@
     and tooling they are using to do this. This area definitely overlaps with monitoring
     and testing, but is worthy of its own look to understand performance across the
     sector.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-performance.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-performance.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1948,7 +1948,7 @@
     part of our API operations. You can find news I've curated, organizations doing
     interesting things, some of the common building blocks I've identified, and open
     source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-cache.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-cache.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1963,7 +1963,7 @@
     private sector working together via an API (web service) driven ecosystem, and
     I'm working to build a solid case study and other content to help people understand
     this blueprint and replicate across other agencies in the federal government.
-  image: https://s3.amazonaws.com/kinlane-productions/federal-government/irs/bw-irs-logo.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/federal-government/irs/bw-irs-logo.jpg
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -1980,7 +1980,7 @@
     reliability. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling I've
     aggregated here in this research projects Github repository.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-reliability.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-reliability.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -1996,7 +1996,7 @@
     and share the information here. REcently I am working to standardize some of this,
     and apply to my open APIs, while sharing the information tools, and APIs I create
     along the way.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-authentication-2.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-authentication-2.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2011,7 +2011,7 @@
     with an API. My intention with template APIs is to help onboard folks with new
     ideas for APIs, and this is one in particular is meant to kickstart the conversation
     around having a public or private job API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-job.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-job.jpg
   imagewidth: ""
   category: Template
   brand: ""
@@ -2027,7 +2027,7 @@
     where I post general topics and my rants about anything personal to business.
     If you are looking for the professional side of my network, visit API Evangelist.
     ;-)
-  image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-drawing-apidays-2013.png
+  image: https://s3.amazonaws.com/kinlane-productions2/kin-lane/kin-lane-drawing-apidays-2013.png
   imagewidth: ""
   category: Primary Blog
   brand: ""
@@ -2043,7 +2043,7 @@
     and the data or content that I generate. This project is an ongoing effort to
     always understand the footprint I leave online, and make sure I'm in control over
     myself.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-fist.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-fist.png
   imagewidth: ""
   category: Reclaim
   brand: ""
@@ -2058,7 +2058,7 @@
     API space. I am trying to make available via an API so I can use across my network,
     while also opening up for others to use as well. This API is definitely still
     a work in progress, and one of my lesser formed APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-certificate.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2073,7 +2073,7 @@
     API sector, and provide a way that I can use my network of sites. I want it available
     as an API, so I can use across many sites, and others can use to embed in their
     sites and applications as well.&nbsp;
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dictionary.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-dictionary.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2088,7 +2088,7 @@
     up my Evernote, so I created an API that I can ping with new ideas. Like all my
     APIs, the API ideas API (deep), is open for anyone to use, submit their own ideas
     as well as pull ideas for their own use.&nbsp;
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-light-bulb-bright.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-light-bulb-bright.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2104,7 +2104,7 @@
     with websites, on Amazon S3, and Flickr. I'm working to centrally organize them,
     and standardize how I use across my sites. This is a lesser priority for me, so
     it has a lot of work to be done yet.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-images.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-images.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2121,7 +2121,7 @@
     of resizing, cropping, and other resources that can help when working with images.
     This API will expand with new endpoints as I have them. If there is an API you'd
     like to see let me know, and I'll see what I can do.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-image-manipulation.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-image-manipulation.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2137,7 +2137,7 @@
     other tools I use like AWS and EasyCron. I'm trying to keep centralized, no matter
     what tool I use in the end, to help me centralize and switch out services when
     I need to.&nbsp;
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-job-2.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-job-2.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2153,7 +2153,7 @@
     to higlight as part of my work. Keywords is all about the keyword and url relationships,
     connecting words with specific resources. This API helps me manage them across
     my work.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-keyword.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-keyword.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2168,7 +2168,7 @@
     to provide a central source of links to run other aspects of harvesting, monitoring,
     and key elements of the APi space. The goal is to have all links centrally stored
     here, providing a single list I can apply.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-link.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-link.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2184,7 +2184,7 @@
     of URLs that I link to, and take screenshots of the page. When it goes away, I
     try to show the screenshot, rather than linking to a dead page. This API is used
     to manage this part of my platform.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-broken-link.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-broken-link.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2200,7 +2200,7 @@
     as much quality content as I can and then add my own eye towards what is interesting.
     The content available via this API is the results of that. The API news from across
     the sector, that I am reading and felt worth sharing.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-news-icon.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2216,7 +2216,7 @@
     API. My goal is to capture ALL of my thoughts, and then sort through to find what
     is the best. It works much like curation for the news, but this time its the stream
     of noise coming from my brain.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-notebook.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-notebook.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2233,7 +2233,7 @@
     (good or bad) with APIs. This is the API I use to track on the relevant organizations
     in the API sector, making their key information, and API details are available
     for publishing across my API network.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-organization.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-organization.jpg
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2249,7 +2249,7 @@
     the management, and publishing of those pages. This API provides access to pages,
     which I may use on one or many of my Jeykyll driven sites, usually hosted via
     Github Pages.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-page.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-page.jpg
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2266,7 +2266,7 @@
     and the wider API sector. I work to track on API related patents, using the USPTO
     data dumps, in conjunction with this custom API. I'll keep updating, and addin
     grelevant information as I have time.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-certificate.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2283,7 +2283,7 @@
     as well as personal blogs. Sometimes the best information about platforms, comes
     from the individuals who operate, and integrate with them. This API provides access
     to what I think are some of the interesting people in the world of aPis.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-users-male-female.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-users-male-female.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2300,7 +2300,7 @@
     project details, and publish the results to Github repos, white papers, and other
     destinations. This API provides me a single window to work with all my API projects,
     and the content, code, and data that go into them.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-project.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-project.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2317,7 +2317,7 @@
     across all of my research areas. I am using this API to quickly organize some
     of the best practices that I see across the space, being asked by the leading
     API providers.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-question-mark.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2329,7 +2329,7 @@
   identifier: ""
   url: http://rants.kinlane.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-instructurecon-june-2013.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/kin-lane/kin-lane-instructurecon-june-2013.jpg
   imagewidth: ""
   category: Rants
   brand: ""
@@ -2345,7 +2345,7 @@
     tools into individual endpoints, and making available here via my scraping API
     stack. This API will grow as I have new needs for acquiring content, and is something
     that others will hopefully have a need for too.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-harvester.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-harvester.jpg
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2366,7 +2366,7 @@
     API deployed I wrapped with my 3Scale API management infrastructure, which requires
     an API key before you can use any of my APIs. Next I updated my company, API and
     news screenshot tool to use my new screenshot API.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-screen-capture.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/blog/api-evangelist-screen-capture.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2378,7 +2378,7 @@
   identifier: ""
   url: https://kin-lane.github.io/slide/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-slide.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-slide.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2395,7 +2395,7 @@
     even lets me rate APIs and the companies that operate them. I just have to bring
     out all of the functionality as endpoints, here in my tagging API. This API is
     active, but also has a lot of work going on.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tag.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-tag.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2411,7 +2411,7 @@
     and link curation for much of my tasking. I'm trying to change this, but having
     a tasking API. I haven't actually started using this, but will at some point.
     So this API is probbly a lower priority, but hopefully that will change.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-task.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-task.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2427,7 +2427,7 @@
     an API provider, or consumer to evolve towards a certification. This API is still
     in development, but hopefully some day will be a wealth of tips about how to do
     APis.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tip-api.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-tip-api.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2444,7 +2444,7 @@
     forward the content and relationships that exist here. (ie. who is developing,
     updates to companies, etc.) This provides API access to all of the open source
     tools I am tracking on and associating with other aspects of my research.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-tools.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-tools.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2461,7 +2461,7 @@
     evolve the video portion of what I do, create more content and get more organized
     with the curation of video content. This video API is how I am looking to do that.
     This API is not as active as some of my other APis, but will soon change.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-video.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-video.png
   imagewidth: ""
   category: Kin Lane
   brand: ""
@@ -2473,7 +2473,7 @@
   identifier: ""
   url: http://language.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-language.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-language.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2487,7 +2487,7 @@
   description: My tracking on how APIs are being used in libraries. I'm looking to
     understand who the key players are, and what they are up to by aggregating news,
     analysis, companies and technology in a single research project.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/universal-library-sign.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/att/universal-library-sign.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2503,7 +2503,7 @@
     on what API providers are doing when it comes to encryption, as well as keep an
     eye on the features that API service providers are offering up services, and tooling
     related to encryption.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-encryption.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-encryption.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2518,7 +2518,7 @@
     is possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private lifeboats API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dna.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-dna.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -2530,7 +2530,7 @@
   identifier: ""
   url: http://links.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-links.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-links.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2545,7 +2545,7 @@
     with an API. My intention with template APIs is to help onboard folks with new
     ideas for APIs, and this is one in particular is meant to kickstart the conversation
     around having a public or private links API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-link.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-link.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -2560,7 +2560,7 @@
     being discovered out there. Not everything listed here is directly API related,
     but I think the wider understand helps my work in this area. Right now it is mostly
     curated news, but will be expanding information as I have time.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-vulnerabilities.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-vulnerabilities.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2577,7 +2577,7 @@
     to learn here and apply to the API space. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-breach.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-breach.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2594,7 +2594,7 @@
     can find news I've curated, organizations doing interesting things, some of the
     common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-padlock.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-padlock.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2606,7 +2606,7 @@
   identifier: ""
   url: http://mapping.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-mapping.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-mapping.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2618,7 +2618,7 @@
   identifier: ""
   url: https://kin-lane.github.io/master/
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/kin.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/kin.png
   imagewidth: ""
   category: Developer Portals
   brand: ""
@@ -2630,7 +2630,7 @@
   identifier: ""
   url: http://messaging.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-messaging.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-messaging.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2645,7 +2645,7 @@
     one of the most under discussed and shared area of the API communities. I'm determined
     in 2014 to bring API terms of service (TOS) front and center, increase the number
     of open tools and support services available for API providers and consumers.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-terms-of-use.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-terms-of-use.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2674,7 +2674,7 @@
     that mobile users can access, and share with their networks. Like SMS, MMS is
     an essential compost of not just mobile, but now because of MMS APIs also the
     web, and Internet of Things experience, employing MMS as a transport.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-mms-2.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-mms-2.jpg
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2690,7 +2690,7 @@
     can find news I've curated, organizations doing interesting things, some of the
     common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-surveillance-camera.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-surveillance-camera.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2705,7 +2705,7 @@
     of API providers, API consumers, as well as end users. You can find news I've
     curated, organizations doing interesting things, some of the common building blocks
     I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-privacy.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-privacy.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2717,7 +2717,7 @@
   identifier: ""
   url: http://movies.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-movies.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-movies.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2729,7 +2729,7 @@
   identifier: ""
   url: http://music.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-music.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-music.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2742,7 +2742,7 @@
   url: http://stack.apievangelist.com
   description: 'This is where I track on the APIs that I depend on.<span style=\white-space:
     pre;\"> "'
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-stacks.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-stacks.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2758,7 +2758,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-cybersecurity.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-cybersecurity.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2772,7 +2772,7 @@
   description: I'm working on preparing a 101 intro into oAuth for newbies. I'm working
     to aggregate news, analysis, tools, companies, individuals, technologies and the
     interesting things they are doing with API security using oAuth.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/101.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/101.png
   imagewidth: ""
   category: "101"
   brand: ""
@@ -2799,7 +2799,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private office API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-office-worker.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-office-worker.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -2811,7 +2811,7 @@
   identifier: ""
   url: http://open.eligibility.adopta.agency/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/adopta-agency/adopta-agency-primary.png
+  image: https://s3.amazonaws.com/kinlane-productions2/adopta-agency/adopta-agency-primary.png
   imagewidth: ""
   category: Adopta Agency
   brand: ""
@@ -2828,7 +2828,7 @@
     and individual, and share what I learn with others. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-fist.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-fist.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2840,7 +2840,7 @@
   identifier: ""
   url: http://outreach-stories.apievangelist.com/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-evangelist-evangelism.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/api-evangelist-evangelism.png
   imagewidth: ""
   category: Evangelism
   brand: ""
@@ -2856,7 +2856,7 @@
     not), and the role APIs can play. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-transparency.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-transparency.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2872,7 +2872,7 @@
     transparency, monitoring, and other aspects of the API lifecycle. You can find
     news I've curated, organizations doing interesting things, some of the common
     building blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-observable.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-observable.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2884,7 +2884,7 @@
   identifier: ""
   url: http://payments.stack.network
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-dollar-sign.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2899,7 +2899,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private people API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-people.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-people.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -2916,7 +2916,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-creative-commons.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-creative-commons.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2930,7 +2930,7 @@
   description: This is a research project dedicated to mapping out platforms that
     offer photo APIs, allowing users to put valuable photo API data, content, and
     other resources to work in any application or system.
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-photos.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-photos.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2942,7 +2942,7 @@
   identifier: ""
   url: http://places.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-places.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-places.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -2957,7 +2957,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private places API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-geo-pin.jpeg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-geo-pin.jpeg
   imagewidth: ""
   category: Template
   brand: ""
@@ -2973,7 +2973,7 @@
     case here. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-copyright.gif
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-copyright.gif
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -2989,7 +2989,7 @@
     and seeing where we can evangelize in the API sector. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-accessbility.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-accessbility.jpg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3004,7 +3004,7 @@
     with an API. My intention with template APIs is to help onboard folks with new
     ideas for APIs, and this is one in particular is meant to kickstart the conversation
     around having a public or private intention API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-news.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -3021,7 +3021,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-brand.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-brand.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3036,7 +3036,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private product API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-dollar-sign.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-dollar-sign.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -3051,7 +3051,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private program API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-programs.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-programs.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -3068,7 +3068,7 @@
     industries. This research area was started to better prepare for how regulation
     will be applied to APIs, as we see government and the tech industry continue to
     collide.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-government-regulation.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-government-regulation.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3082,7 +3082,7 @@
   description: My research into the opportunities for APIs in the quantified self
     space, ranging from our fitbits to diet systems. I'm looking to understand who
     the key players are, what they are up to as well as where the opportunities lie.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/quantified-self-2.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/quantified-self-2.jpg
   imagewidth: ""
   category: Opportunities
   brand: ""
@@ -3097,7 +3097,7 @@
     is possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private questions API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-question-mark.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-question-mark.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -3112,7 +3112,7 @@
     list to reference all of the articles I had consumed across my API research. You
     can find feeds for each of my research area under their subdomain, but reading
     list is about finding all of them in a single location.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/att/universal-library-sign.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/att/universal-library-sign.png
   imagewidth: ""
   category: Network
   brand: ""
@@ -3128,7 +3128,7 @@
     my analysis around the politics of APIs. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-certificate.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-certificate.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3143,7 +3143,7 @@
     how they are being wielded in different ways. You can find news I've curated,
     organizations doing interesting things, some of the common building blocks I've
     identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-business-of-apis.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-business-of-apis.png
   imagewidth: ""
   category: 100K View
   brand: ""
@@ -3159,7 +3159,7 @@
     something that is vastly more complex than just web search. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-discovery.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/services/api-discovery.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3187,7 +3187,7 @@
     for developing with APIs. You can find news I've curated, organizations doing
     interesting things, some of the common building blocks I've identified, and open
     source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-client.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-client.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3199,7 +3199,7 @@
   identifier: ""
   url: http://indieedtech.github.io/rss-aggregator/
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-rss-example.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-rss-example.png
   imagewidth: ""
   category: Single Repo Apps
   brand: ""
@@ -3228,7 +3228,7 @@
     and overlaps with APIs. You can find news I've curated, organizations doing interesting
     things, some of the common building blocks I've identified, and open source tooling
     in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-command-line.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-command-line.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3243,7 +3243,7 @@
     a bot is these days, and how APIs are used as engines for these increasingly aware,
     active, nuggets of compute. I am looking at how APIs are used to drive bots, but
     also how are bots employed via API driven platforms like Twitter, and Slack.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-robots.jpeg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-robots.jpeg
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3255,7 +3255,7 @@
   identifier: ""
   url: http://search.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-search.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-search.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3271,7 +3271,7 @@
     of news as Internet of Things, so I needed a single place to aggregate, then carve
     off smaller trends other research projects. Pretty much any connected object gets
     lumped here, until I decide otherwise.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-internet-of-things.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-internet-of-things.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3287,7 +3287,7 @@
     desktop tooling for developing with APIs. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-industrial.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-industrial.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3302,7 +3302,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private services API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-service-request.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-service-request.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -3326,7 +3326,7 @@
   identifier: ""
   url: http://shipping.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-search.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-search.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3342,7 +3342,7 @@
     for developing with APIs. You can find news I've curated, organizations doing
     interesting things, some of the common building blocks I've identified, and open
     source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-network.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-network.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3357,7 +3357,7 @@
     deploying simple, robust applicaitons using JavaScript and APIs. &nbsp;I'm looking
     to understand what the leading approaches are, and where the opportunities lie
     by aggregating news, analysis, companies and technology in a single project.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-single-page-app.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-single-page-app.png
   imagewidth: ""
   category: Trends
   brand: ""
@@ -3385,7 +3385,7 @@
     to tag items and build collections. I helped them prepare for a hackathon by developing
     a set of PHP samples developers could use. I published my work here, and look
     forward to hacking more on the API when they are ready.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""
@@ -3402,7 +3402,7 @@
     think that are many lessons for API providers when it comes to the SMS API space,
     and I enjoy spending time research how companies are innovating when it comes
     to the SMS, using APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sms.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-sms.jpg
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3416,7 +3416,7 @@
   description: This is my research into social APIs, and how the leaders are handling
     their API operations. I will aggregate any information I use in my research here
     in this repository, for use across my writing, research, and guides.
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-social.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-social.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3428,7 +3428,7 @@
   identifier: ""
   url: http://space.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-space.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-space.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3445,7 +3445,7 @@
     Github. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-ide.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-ide.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3461,7 +3461,7 @@
     and high grade them, and promote or demote them on my monitoring list. The API
     Stack is meant to be a reflection of this research, published in a way that others
     can browse, and fork.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-stacks.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-stacks.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3473,7 +3473,7 @@
   identifier: ""
   url: http://storage.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-storage.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-storage.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3501,7 +3501,7 @@
     approaches to using SDKs that I've seen across the API sector. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-sdk.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-sdk.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3518,7 +3518,7 @@
     plug and play across a variety of platforms. You can find news I've curated, organizations
     doing interesting things, some of the common building blocks I've identified,
     and open source tooling in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-plugin.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-plugin.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3530,7 +3530,7 @@
   identifier: ""
   url: http://swagger.apievangelist.com
   description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-swagger-round.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-swagger-round.png
   imagewidth: ""
   category: API Definitions
   brand: ""
@@ -3547,7 +3547,7 @@
     via a single Github project. I've added the abilityt use slides alongside any
     one of my projects, so in time you will find more talks spread across all of my
     research.
-  image: https://s3.amazonaws.com/kinlane-productions/kin-lane/kin-lane-talks.jpg
+  image: https://s3.amazonaws.com/kinlane-productions2/kin-lane/kin-lane-talks.jpg
   imagewidth: ""
   category: Productions
   brand: ""
@@ -3575,7 +3575,7 @@
     operations. You can find news I've curated, organizations doing interesting things,
     some of the common building blocks I've identified, and open source tooling in
     this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-browser.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-browser.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3589,7 +3589,7 @@
   description: An embeddable strategy is an important part of any API providers strategy.
     This research is trying to understand the best approaches and technology when
     it comes to embeddable tools that depend on APIs.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-embeddable.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-embeddable.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3618,7 +3618,7 @@
     You can find news I've curated, organizations doing interesting things, some of
     the common building blocks I've identified, and open source tooling in this research
     report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-visualization.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-visualization.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3630,7 +3630,7 @@
   identifier: ""
   url: http://travel.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-travel.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-travel.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3654,7 +3654,7 @@
   identifier: ""
   url: http://tyk.management.apievangelist.com
   description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/tyk_io_logo.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/tyk_io_logo.png
   imagewidth: ""
   category: Management
   brand: ""
@@ -3670,7 +3670,7 @@
     on Hack Education. I'm looking to understand who the key insitutions are, what
     they are up to by aggregating news, analysis, companies and technology in a single
     project.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/priorities/university-of-api.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/priorities/university-of-api.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3685,7 +3685,7 @@
     of Oklahoma, and this is the project to track on my work. I'm hoping to create
     a blueprint that other universities can follow when trying to jumpstart their
     own discussions of API on campus.&nbsp;
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
   imagewidth: ""
   category: University
   brand: ""
@@ -3697,7 +3697,7 @@
   identifier: ""
   url: http://users.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-users.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-users.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3709,7 +3709,7 @@
   identifier: ""
   url: http://verizon.stack.network
   description: ""
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vzlogo_lg.png
+  image: http://kinlane-productions2.s3.amazonaws.com/api-evangelist-site/company/logos/vzlogo_lg.png
   imagewidth: ""
   category: API Stack Definitions
   brand: ""
@@ -3721,7 +3721,7 @@
   identifier: ""
   url: http://videos.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-video.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-video.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3736,7 +3736,7 @@
     possible with an API. My intention with template APIs is to help onboard folks
     with new ideas for APIs, and this is one in particular is meant to kickstart the
     conversation around having a public or private video API.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-video.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-video.png
   imagewidth: ""
   category: Template
   brand: ""
@@ -3753,7 +3753,7 @@
     and analysis. You can find news I've curated, organizations doing interesting
     things, some of the common building blocks I've identified, and open source tooling
     in this research report.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-analysis.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-analysis.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3768,7 +3768,7 @@
     using APIs, and logging solutions that focus on using APIs. You can find news
     I've curated, organizations doing interesting things, some of the common building
     blocks I've identified, and open source tooling in this research repo.
-  image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-logging.png
+  image: https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-logging.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3782,7 +3782,7 @@
   description: As the number of APIs grow, there is a lot of aggregation going on
     in social, personal and other prominent sectors like cloud computing. This research
     is trying to keep an eye on this potential trend.
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/trends/aggregation-trend.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-evangelist/trends/aggregation-trend.png
   imagewidth: ""
   category: Core Research
   brand: ""
@@ -3794,7 +3794,7 @@
   identifier: ""
   url: http://voice.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-voice.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-voice.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3806,7 +3806,7 @@
   identifier: ""
   url: http://wearables.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-wearables.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-wearables.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3818,7 +3818,7 @@
   identifier: ""
   url: http://weather.stack.network
   description: "NULL"
-  image: https://s3.amazonaws.com/kinlane-productions/api-stack/icons/bw-weather.png
+  image: https://s3.amazonaws.com/kinlane-productions2/api-stack/icons/bw-weather.png
   imagewidth: ""
   category: Stack Network
   brand: ""
@@ -3835,7 +3835,7 @@
     the rest of the API space, I figured I can work harder to tell more stories about
     women doing interesting things in the API space, while also working to understand
     the history of women in the space.
-  image: https://s3.amazonaws.com/kinlane-productions/ada-lovelace/ada-lovelace-1.jpeg
+  image: https://s3.amazonaws.com/kinlane-productions2/ada-lovelace/ada-lovelace-1.jpeg
   imagewidth: ""
   category: History
   brand: ""
@@ -3851,7 +3851,7 @@
     provide machine readable API definitions like Swagger, in conjunction with API.json.
     When APIs are well designed, and bundled with machine readable defintions, and
     discovery documents it makes APIs much more usable, and remixable.
-  image: https://s3.amazonaws.com/kinlane-productions/public-private-sector/black-puzzle-500.png
+  image: https://s3.amazonaws.com/kinlane-productions2/public-private-sector/black-puzzle-500.png
   imagewidth: ""
   category: Public Private Sector
   brand: ""

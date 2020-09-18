@@ -5,7 +5,7 @@
   description: >-
     Your best bet for quick engagement is via Twitter. If you see me online, hit
     me up, I'll usually respond when available.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-twitter-icon.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-twitter-icon.png'
   category: Social
 - view_sort: C
   name: Github
@@ -14,7 +14,7 @@
   description: >-
     My entire network runs on Github, use the issue management for any of my
     sites--here is the repo for API Evangelist.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-github.png'
   category: Code
 - view_sort: D
   name: Conference Call
@@ -23,7 +23,7 @@
   description: >-
     I take calls on Thursdays, email me and Il'l schedule you in for some time
     via Skype or GHangout.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-conference-call.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-conference-call.png'
   category: Phone
 - view_sort: E
   name: Do Something Interesting
@@ -33,7 +33,7 @@
   description: >-
     Do something interesting, and get the word out via your blog, Twitter, or
     Github, and I'll notice, and probably reach out.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-gears-working.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-gears-working.png'
   category: Work
 - view_sort: A
   name: Email
@@ -42,5 +42,5 @@
   description: >-
     I try to work through my email, but I get more than I can process. I do my
     best, but email isn't always the most efficient.
-  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-email-at.png'
+  image: 'https://s3.amazonaws.com/kinlane-productions2/bw-icons/bw-email-at.png'
   category: Email

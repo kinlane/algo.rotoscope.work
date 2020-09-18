@@ -3,12 +3,12 @@ layout: post
 title: 'Algorithmia&#039;s Multi-Platform Data Storage Solution For Machine Learning Workflows'
 source: http://algorithmic.rotoscope.work/2017/01/06/algorithmias-multiplatform-data-storage-solution-for-machine-learning-workflows/
 domain: algorithmic.rotoscope.work
-image: http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/screen_shot_2017_01_06_at_11.14.26_am.png
+image: http://kinlane-productions2.s3.amazonaws.com/api_evangelist_site/blog/screen_shot_2017_01_06_at_11.14.26_am.png
 date: 2017-01-06T15:00:00-08:00
 ---
 <p>I've been working with <a href="http://algorithmia.io">Algorithmia</a> to manage a large number of images as part of&nbsp;<a href="http://image.rotoscope.work/">my algorithmic rotoscope side project</a>, and they have a really nice omni-platform approach to allowing me to manage my images and other files I am using in my machine learning workflows. Images, files, and the input and output of heavy object is an essential part of almost any machine learning task, and Algorithmia makes easy to do across the storage platforms we use the most (hopefully).&nbsp;</p>
 <p>Algorithmia provides you with local data storage--pretty standard stuff, but they also allow you to connect your Amazon S3 account, or your Dropbox account, and connect to specific folders, buckets, while helping you handle all of your permissions. Maybe I have my blinders on with this because I heavily use Amazon S3 as me default online storage, and Dropbox is my secondary store, but I think the concept still is worth sharing..</p>
-<p><img style="padding: 15px; display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions.s3.amazonaws.com/api_evangelist_site/blog/screen_shot_2017_01_06_at_11.14.26_am.png" alt="" width="90%" align="center" /></p>
+<p><img style="padding: 15px; display: block; margin-left: auto; margin-right: auto;" src="http://kinlane-productions2.s3.amazonaws.com/api_evangelist_site/blog/screen_shot_2017_01_06_at_11.14.26_am.png" alt="" width="90%" align="center" /></p>
 <p>This allows me to seamlessly manage the objects, documents, files, and other images I store across my operation as part of my machine learning workflow. &nbsp;Algorithmia even provides you with an intuitive way of referencing files, by allowing each Data URI to uniquely identifies files and directories, with each composed of a protocol and a path, with each service having its own unique protocol:</p>
 <ul>
 <li><strong>data:// </strong>Algorithmia hosted data</li>

@@ -9,9 +9,9 @@ tags:
   - Cybersecurity
   - Security
   - Defenses
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/castle-on-hill-edinburgh_blue_circuit.JPG
+image: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/stories/castle-on-hill-edinburgh_blue_circuit.JPG
 video: ''
-square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/castle-on-hill-edinburgh_blue_circuit_square.jpg
+square: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/square/castle-on-hill-edinburgh_blue_circuit_square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Digital defense in the cyber age.</center>

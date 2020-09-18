@@ -7,9 +7,9 @@ tags:
   - Algorotoscope Works
   - Mexico
   - Border
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/C2plAIxWIAAOSdD.jpg
+image: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/square/C2plAIxWIAAOSdD.jpg
 video: ''
-square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/square/C2plAIxWIAAOSdD_square.jpg
+square: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/square/C2plAIxWIAAOSdD_square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>Down the border.</center>

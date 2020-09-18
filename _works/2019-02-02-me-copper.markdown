@@ -7,9 +7,9 @@ tags:
   - Algorotoscope Works
   - Kin Lane
   - Self
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/kin-lane-copper-circuits.jpg
+image: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/working/kin-lane-copper-circuits.jpg
 video: ''
-square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/kin-lane-copper-circuits-square.jpg
+square: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/working/kin-lane-copper-circuits-square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>The copper version of myself.</center>

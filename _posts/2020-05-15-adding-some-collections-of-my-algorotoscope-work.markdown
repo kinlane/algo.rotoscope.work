@@ -7,7 +7,7 @@ tags:
   - Kin Lane
   - Algorotoscope
 image: >-
-  https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/markets/feed-the-people-economics.jpg
+  https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/stories/markets/feed-the-people-economics.jpg
 ---
 After organizing a couple of the latest batches of images I produced as part of my algorotoscope work I wanted to step back and see what I had made. I wanted to get better at organizing some of the more interesting images I had produced using specific Tensorflow machine learning models. Much of my work is pretty random without much connection between the image I trained my models on and the images I applied my models to--they are just making for some interesting colors and textures. However, along the way I have been trying to squeeze more meaning as well as texture and colors out of the models I am training as well as the photos I take, and apply these models to.
 

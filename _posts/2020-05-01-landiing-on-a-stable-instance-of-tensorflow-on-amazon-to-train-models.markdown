@@ -7,7 +7,7 @@ tags:
   - Collections
   - Models
 image: >-
-  https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/stories/markets/feed-the-people-economics.jpg
+  https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/stories/markets/feed-the-people-economics.jpg
 ---
 I have bounced around quite a bit from the original Tensorflow model I was using when I started this work. Algorithmia had done a lot of the heavy lifting for me, but that original Amazon Web Services machine image eventually fell into disrepair and I couldn't operate it anymore. For the last couple of years I bounced around trying different text transfer services, and kicking the tires on a variety of Tensorflow models that were cheaper to operate, but none of them produced the same results as some of the earlier models I had developed. To make things worse, I had accidentally deleted some of my earlier models, leaving me pretty determined to produce my own machine learning model.
 

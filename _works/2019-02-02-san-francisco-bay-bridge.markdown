@@ -7,9 +7,9 @@ tags:
   - Algorotoscope Works
   - San Francisco
   - Bay Bridge
-image: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/sf-city-bridge_atari_asteroids.jpg
+image: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/working/sf-city-bridge_atari_asteroids.jpg
 video: ''
-square: https://s3.amazonaws.com/kinlane-productions/algo-rotoscope/working/sf-city-bridge_atari_asteroids-square.jpg
+square: https://s3.amazonaws.com/kinlane-productions2/algo-rotoscope/working/sf-city-bridge_atari_asteroids-square.jpg
 ---
 <p align="center"><img src="{{ page.image }}" width="75%" style="padding: 15px;" /></p>
 <center>San Francisco Bay Bridge at Night</center>
